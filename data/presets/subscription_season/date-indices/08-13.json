@@ -1,0 +1,54 @@
+[
+    {
+        "program": {
+            "id": "d650320c-b146-4d94-9756-3472df1aa89a-0.1",
+            "programID": "1296",
+            "orchestra": "New York Philharmonic",
+            "season": "1968-69",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Holmdel, NJ",
+                    "Venue": "Garden State Arts Center",
+                    "Date": "1969-08-13T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53215*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "CARNIVAL OVERTURE, OP.92",
+                    "conductorName": "Ančerl, Karel",
+                    "soloists": []
+                },
+                {
+                    "ID": "1847*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+                    "conductorName": "Ančerl, Karel",
+                    "soloists": [
+                        {
+                            "soloistName": "Janis, Byron",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50335*",
+                    "composerName": "Franck,  César",
+                    "workTitle": "SYMPHONY IN D MINOR",
+                    "conductorName": "Ančerl, Karel",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1969"
+    }
+]

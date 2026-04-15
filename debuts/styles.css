@@ -1,0 +1,27 @@
+.lead {
+    max-width: 42rem;
+    margin: 0 0 1rem 0;
+}
+section {
+    margin-bottom: 2.5rem;
+}
+.table-wrap {
+    overflow-x: auto;
+    border: 1px solid darkgray;
+    background: #fff;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th,
+td {
+    text-align: left;
+    padding: 0.35rem 0.5rem;
+    border-bottom: 1px solid #ddd;
+    vertical-align: top;
+}
+th {
+    background: #eee;
+    font-weight: 600;
+}

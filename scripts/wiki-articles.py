@@ -8,7 +8,7 @@ for i in range(1, len(sys.argv)):
     if(i == 1):
         composer = sys.argv[i]
 
-f = open('./../data/works-by-composer.json')
+f = open('./../data/presets/all/works-by-composer.json')
 w = open('./../data/wiki-articles/works/' + composer + '.json', 'w')
 w2= open('./../data/wiki-articles/works/not-found/' + composer + '.json', 'w')
 data = json.load(f)

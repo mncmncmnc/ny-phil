@@ -12,6 +12,8 @@
         <meta property="og:description" content="instruments" />
         <meta name="theme-color" content="#fff">
         <title>instruments</title>
+        <script>window.NYPHIL_DATA_ROOT = "../../";</script>
+        <script src="../../client/filters.js"></script>
         <script src="./../../client/vendor/d3.min.js"></script>
         <link rel="stylesheet" type="text/css" href="./../../client/main.css" />
         <link rel="stylesheet" type="text/css" href="./styles.css" />
@@ -47,7 +49,7 @@
             }
 
             function getData() {
-                fetch(`./../../data/soloist-instruments-by-season-count.json`)
+                fetch(nyphilDataUrl("soloist-instruments-by-season-count.json"))
                     .then(res => res.json())
                     .then(instruments => {
                         state.instruments = instruments;
@@ -224,6 +226,29 @@
         </script>
     </head>
     <body>
+        <div class="nyphil-filters-bar">
+            <div class="nyphil-filters-bar-inner">
+            <nav class="nyphil-filters" aria-label="Concert filter">
+                <label for="nyphil-preset-select">Concerts</label>
+                <select id="nyphil-preset-select">
+                    <option value="all">All event types</option>
+                    <option value="subscription_season">Subscription season</option>
+                </select>
+            </nav>
+            <a href="../../index.html" class="nyphil-back-link">back</a>
+            </div>
+            <script>
+                (function () {
+                    var sel = document.getElementById("nyphil-preset-select");
+                    if (sel) {
+                        sel.value = NYPHIL_PRESET;
+                        sel.addEventListener("change", function () {
+                            nyphilSwitchPreset(sel.value);
+                        });
+                    }
+                })();
+            </script>
+        </div>
         <header>
             <h1>
                 <span id="count"></span> instruments

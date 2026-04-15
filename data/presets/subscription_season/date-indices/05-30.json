@@ -1,0 +1,1345 @@
+[
+    {
+        "program": {
+            "id": "ae4d31f1-273d-4de0-a2f4-45d3ddc2b8ae-0.1",
+            "programID": "2405",
+            "orchestra": "New York Philharmonic",
+            "season": "1964-65",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1965-05-27T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1965-05-28T04:00:00Z",
+                    "Time": "2:15PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1965-05-29T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1965-05-30T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50152*",
+                    "composerName": "Bach,  Johann  Sebastian",
+                    "workTitle": "MASS IN B MINOR, BWV 232",
+                    "conductorName": "Steinberg, William",
+                    "soloists": [
+                        {
+                            "soloistName": "Marshall, Lois",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Verrett, Shirley",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Bressler, Charles",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Smith, Kenneth",
+                            "soloistInstrument": "Bass-Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "American Concert Choir, The",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Corigliano, John, Sr.",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Wummer, John",
+                            "soloistInstrument": "Flute",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Brenner, Engelbert",
+                            "soloistInstrument": "Oboe d'Amore",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Goltzer, Albert",
+                            "soloistInstrument": "Oboe d'Amore",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Vacchiano, William",
+                            "soloistInstrument": "Trumpet",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Singer, Joseph",
+                            "soloistInstrument": "French Horn",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Prince-Joseph, Bruce",
+                            "soloistInstrument": "Harpsichord",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Chaney, Donald",
+                            "soloistInstrument": "Organ",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1965"
+    },
+    {
+        "program": {
+            "id": "27ad89c5-0e85-4b65-8cee-862b16ab54ae-0.1",
+            "programID": "59",
+            "orchestra": "New York Philharmonic",
+            "season": "1986-87",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1987-05-28T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1987-05-29T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1987-05-30T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3985*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  3 IN D MINOR",
+                    "conductorName": "Sinopoli, Giuseppe",
+                    "soloists": [
+                        {
+                            "soloistName": "Quivar, Florence",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Brooklyn Boys' Chorus",
+                            "soloistInstrument": "Boys Choir",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Smith, Philip",
+                            "soloistInstrument": "Trumpet",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1987"
+    },
+    {
+        "program": {
+            "id": "9114e8f8-795e-4b01-8a4c-1454cf5e78e0-0.1",
+            "programID": "7837",
+            "orchestra": "New York Philharmonic",
+            "season": "1995-96",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1996-05-30T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51583*",
+                    "composerName": "Bloch,  Ernest",
+                    "workTitle": "SCHELOMO",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Harrell, Lynn",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9826*4",
+                    "composerName": "Bach,  Johann  Sebastian",
+                    "workTitle": "SUITE, CELLO, NO. 6, D MAJOR, BWV 1012",
+                    "movement": "Sarabande",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Harrell, Lynn",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1181*",
+                    "composerName": "Bruckner,  Anton",
+                    "workTitle": "SYMPHONY NO. 4, E FLAT MAJOR (ROMANTIC)",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1996"
+    },
+    {
+        "program": {
+            "id": "04941c7a-bbe2-468c-8ad9-86c56bb0943d-0.1",
+            "programID": "7869",
+            "orchestra": "New York Philharmonic",
+            "season": "1996-97",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1997-05-29T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1997-05-30T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52885*",
+                    "composerName": "Respighi,  Ottorino",
+                    "workTitle": "BRAZILIAN IMPRESSIONS",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "50097*",
+                    "composerName": "Hindemith,  Paul",
+                    "workTitle": "CONCERT MUSIC, STRINGS AND BRASS, OP. 50",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "5261*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "VARIATIONS ON A ROCOCO THEME, OP.33 [ORIGINAL VERSION]",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Brey, Carter",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "50025*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "ROMEO AND JULIET, FANTASY-OVERTURE",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1997"
+    },
+    {
+        "program": {
+            "id": "351e1bd7-dd78-44df-bfed-6ae8a130a59e-0.1",
+            "programID": "7958",
+            "orchestra": "New York Philharmonic",
+            "season": "1997-98",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1998-05-28T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1998-05-30T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "7691*",
+                    "composerName": "Del Tredici,  David",
+                    "workTitle": "SPIDER AND THE FLY, THE",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Plitmann, Hila",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Gunn, Nathan",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "3896*",
+                    "composerName": "Copland,  Aaron",
+                    "workTitle": "CONCERTO, CLARINET",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Drucker, Stanley",
+                            "soloistInstrument": "Clarinet",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2166*",
+                    "composerName": "Vivaldi,  Antonio",
+                    "workTitle": "CONCERTO, TRUMPETS (2), C MAJOR, RV 537",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Smith, Philip",
+                            "soloistInstrument": "Trumpet",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Herseth, Adolph",
+                            "soloistInstrument": "Trumpet",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "50966*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "CONCERTO, HORN NO. 2, E-FLAT MAJOR, K.417",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Myers, Philip",
+                            "soloistInstrument": "French Horn",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "715*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "VALSE, LA",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1998"
+    },
+    {
+        "program": {
+            "id": "b69cddfa-5a8e-47ee-b4bd-2895150faab4-0.1",
+            "programID": "8984",
+            "orchestra": "New York Philharmonic",
+            "season": "2001-02",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2002-05-30T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "719*",
+                    "composerName": "Bartok [Bartók],  Béla",
+                    "workTitle": "DIVERTIMENTO, STRING ORCHESTRA, BB 118",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "8378*",
+                    "composerName": "Turrin,  Joseph",
+                    "workTitle": "HEMISPHERES",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2068*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, VIOLIN, D MAJOR, OP.61",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Mutter, Anne-Sophie",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "3904*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "ROMANCE, VIOLIN, NO. 1, G MAJOR, OP.40",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Mutter, Anne-Sophie",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2002"
+    },
+    {
+        "program": {
+            "id": "8829b1f2-72ce-4125-ac09-3c33ef29d984-0.1",
+            "programID": "9196",
+            "orchestra": "New York Philharmonic",
+            "season": "2002-03",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2003-05-29T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2003-05-30T04:00:00Z",
+                    "Time": "11:00AM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2003-05-31T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2003-06-03T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "5801*1",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "MIDSUMMER NIGHT'S DREAM, OP. 61",
+                    "movement": "Overture",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "8712*",
+                    "composerName": "Penderecki,  Krzysztof",
+                    "workTitle": "SYMPHONY NO. 4 (ADAGIO)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "402*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "SYMPHONY NO.  5, D MINOR, OP. 47",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2003"
+    },
+    {
+        "program": {
+            "id": "3088ca7f-a9c8-40da-af1b-d4c91665b2aa-0.1",
+            "programID": "10125",
+            "orchestra": "New York Philharmonic",
+            "season": "2007-08",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-30T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "8980*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "ETUDES (ARR. Jarrell)",
+                    "conductorName": "Robertson, David",
+                    "soloists": []
+                },
+                {
+                    "ID": "8981*",
+                    "composerName": "Schubert - Berio ,  Franz - Luciano",
+                    "workTitle": "RENDERING",
+                    "conductorName": "Robertson, David",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "3548*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73",
+                    "conductorName": "Robertson, David",
+                    "soloists": [
+                        {
+                            "soloistName": "Ax, Emanuel",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9026*2",
+                    "composerName": "Chopin,  Frédéric",
+                    "workTitle": "WALTZES (ALL SOLO PIANO)",
+                    "movement": "Waltz in A-flat major, Op. 34, No. 1 (Valse Brilliante)",
+                    "soloists": [
+                        {
+                            "soloistName": "Ax, Emanuel",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2008"
+    },
+    {
+        "program": {
+            "id": "efa2f70c-74a8-4d50-bb87-62f2d2f26748-0.1",
+            "programID": "10003",
+            "orchestra": "New York Philharmonic",
+            "season": "2008-09",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-05-30T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9628*1",
+                    "composerName": "Willson,  Meredith",
+                    "workTitle": "MUSIC MAN, SYMPHONIC IMPRESSIONS (ARR. Hayman)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": []
+                },
+                {
+                    "ID": "9923*1",
+                    "composerName": "Willson,  Meredith",
+                    "workTitle": "MUSIC MAN, THE (ARR. Musiker)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9328*",
+                    "composerName": "Bloom,  Rube",
+                    "workTitle": "GIVE ME THE SIMPLE LIFE (ARR. Musiker)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10549*",
+                    "composerName": "Rodgers,  Richard",
+                    "workTitle": "SOUTH PACIFIC: WONDERFUL GUY (ARR. MUSIKER) (ARR. Musiker)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "920*1",
+                    "composerName": "Rodgers,  Richard",
+                    "workTitle": "BABES IN ARMS",
+                    "movement": "\"Where or When\"",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Musiker, Lee",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9925*1",
+                    "composerName": "Gershwin,  George",
+                    "workTitle": "NIFTIES OF 1923",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10571*",
+                    "composerName": "Berlin,  Irving",
+                    "workTitle": "ANNIE GET YOUR GUN: I GOT LOST IN HIS ARMS (ARR. Harper)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Musiker, Lee",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9163*2",
+                    "composerName": "Sondheim,  Stephen",
+                    "workTitle": "INTO THE WOODS",
+                    "movement": "No One is Alone",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9926*1",
+                    "composerName": "Wolcott,  Charles",
+                    "workTitle": "SONG OF THE SOUTH",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10567*",
+                    "composerName": "Romberg,  Sigmund",
+                    "workTitle": "NEW MOON, THE: LOVER, COME BACK TO ME (ARR. Harper)",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9965*",
+                    "composerName": "Wilder,  Alec",
+                    "workTitle": "GOODBYE JOHN (ARR. Musiker)",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Musiker, Lee",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9990*",
+                    "composerName": "Marks,  Johnny",
+                    "workTitle": "CHICKEN TODAY AND FEATHERS TOMORROW (ARR. Musiker)",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Musiker, Lee",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10024*1",
+                    "composerName": "Porter,  Cole",
+                    "workTitle": "BORN TO DANCE",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10527*1",
+                    "composerName": "Fisher,  Fred",
+                    "workTitle": "MY MAN",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Musiker, Lee",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8934*2",
+                    "composerName": "Sondheim,  Stephen",
+                    "workTitle": "LITTLE NIGHT MUSIC, A (ARR. Tunick)",
+                    "movement": "Send in the Clowns (arr. Jonathan Tunick)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10528*",
+                    "composerName": "Butler,  Artie",
+                    "workTitle": "HERE'S TO LIFE (ARR. Musiker)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10529*",
+                    "composerName": "Charles,  Ray",
+                    "workTitle": "HALLELUJAH, I LOVE HIM SO (ARR. Musiker)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10529*1",
+                    "composerName": "Charles,  Ray",
+                    "workTitle": "HALLELUJAH, I LOVE HIM SO (ARR. Musiker)",
+                    "conductorName": "Musiker, Lee",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "None",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10530*",
+                    "composerName": "Weiss,  George  David",
+                    "workTitle": "WHAT A WONDERFUL WORLD (ARR. Musiker)",
+                    "soloists": [
+                        {
+                            "soloistName": "Cook, Barbara",
+                            "soloistInstrument": "",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Saporito, James",
+                            "soloistInstrument": "Percussion",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Donovan, Peter",
+                            "soloistInstrument": "Jazz Bass",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Musiker, Lee",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2009"
+    },
+    {
+        "program": {
+            "id": "3eff65e9-2614-4ea6-9ccf-9af793be99a0-0.1",
+            "programID": "12523",
+            "orchestra": "New York Philharmonic",
+            "season": "2014-15",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2015-05-28T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2015-05-29T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2015-05-30T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "7904*4",
+                    "composerName": "Strauss,  Johann, II",
+                    "workTitle": "FLEDERMAUS, DIE",
+                    "movement": "Overture, Op. 362",
+                    "conductorName": "Honeck, Manfred",
+                    "soloists": []
+                },
+                {
+                    "ID": "51099*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "CONCERTO, VIOLIN NO. 5, A MAJOR, K.219",
+                    "conductorName": "Honeck, Manfred",
+                    "soloists": [
+                        {
+                            "soloistName": "Hadelich, Augustin",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8762*5",
+                    "composerName": "Paganini,  Niccolò",
+                    "workTitle": "CAPRICES, 24, OP. 1",
+                    "movement": "No. 5, Agitato, in A minor",
+                    "soloists": [
+                        {
+                            "soloistName": "Hadelich, Augustin",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51884*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 4 IN E MINOR, OP. 98",
+                    "conductorName": "Honeck, Manfred",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2015"
+    },
+    {
+        "program": {
+            "id": "5d8e7664-34dc-488c-82ad-68ef647c1869-0.1",
+            "programID": "14251",
+            "orchestra": "New York Philharmonic",
+            "season": "2018-19",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2019-05-30T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2019-06-01T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "398*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "TRAGIC OVERTURE, OP. 81",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                },
+                {
+                    "ID": "51067*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "CONCERTO, PIANO NO. 24, C MINOR, K.491",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": [
+                        {
+                            "soloistName": "Fray, David",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "6651*",
+                    "composerName": "Corigliano,  John, Jr.",
+                    "workTitle": "SYMPHONY NO. 1",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2019"
+    },
+    {
+        "program": {
+            "id": "9a5fc962-c9a7-4a67-a700-55792261b352-0.1",
+            "programID": "14836",
+            "orchestra": "New York Philharmonic",
+            "season": "2023-24",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2024-05-30T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2024-05-31T04:00:00Z",
+                    "Time": "11:00AM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2024-06-01T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3413*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SINFONIA CONCERTANTE, VLN/VLA, E-FLAT MAJOR, K.320D (K.364)",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": [
+                        {
+                            "soloistName": "Staples, Sheryl",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Phelps, Cynthia",
+                            "soloistInstrument": "Viola",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "53141*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, OP.35",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": [
+                        {
+                            "soloistName": "Levit, Igor",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Martin, Christopher",
+                            "soloistInstrument": "Trumpet",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50247*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "CONCERTO, VIOLIN AND CELLO, OP. 102 (DOUBLE)",
+                    "conductorName": "van Zweden, Jaap",
+                    "soloists": [
+                        {
+                            "soloistName": "Huang, Frank",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Brey, Carter",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2024"
+    },
+    {
+        "program": {
+            "id": "199fc956-5e48-4bf5-8b1c-8e16afb495f0-0.1",
+            "programID": "14978",
+            "orchestra": "New York Philharmonic",
+            "season": "2024-25",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2025-05-29T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2025-05-30T04:00:00Z",
+                    "Time": "11:00AM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2025-05-31T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2025-06-01T04:00:00Z",
+                    "Time": "2:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52874*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  7 IN E MINOR (SONG OF THE NIGHT)",
+                    "conductorName": "Dudamel, Gustavo",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2025"
+    }
+]

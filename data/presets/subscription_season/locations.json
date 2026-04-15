@@ -1,0 +1,174 @@
+{
+  "Manhattan, NY": {
+    "count": 13429,
+    "venues": {
+      "Avery Fisher Hall": 5163,
+      "Carnegie Hall": 5007,
+      "Philharmonic Hall": 1340,
+      "David Geffen Hall": 847,
+      "Aeolian Hall": 250,
+      "Metropolitan Opera House (39th street)": 228,
+      "Academy of Music": 188,
+      "Steinway Hall": 63,
+      "Mecca Auditorium": 61,
+      "Alice Tully Hall": 41,
+      "New Theatre": 37,
+      "Apollo Rooms": 32,
+      "Rose Theater": 28,
+      "Century Theatre": 26,
+      "Riverside Church": 21
+    },
+    "lat": 40.7831,
+    "lng": -73.9712
+  },
+  "Brooklyn, NY": {
+    "count": 169,
+    "venues": {
+      "Brooklyn Academy of Music": 142,
+      "Hall of the Commercial High School": 21,
+      "Brooklyn Institute of Arts and Sciences": 2,
+      "Brooklyn Center for the Performing Arts, Whitman Hall": 2,
+      "23rd Regiment Armory": 1,
+      "National Maritime Union": 1
+    },
+    "lat": 40.6782,
+    "lng": -73.9442
+  },
+  "Philadelphia, PA": {
+    "count": 8,
+    "venues": {
+      "Academy of Music": 8
+    },
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  "Baltimore, MD": {
+    "count": 6,
+    "venues": {
+      "Lyric Theatre": 6
+    },
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  "Washington, DC": {
+    "count": 6,
+    "venues": {
+      "John F. Kennedy Center for the Performing Arts": 3,
+      "Constitution Hall": 2,
+      "National Theatre": 1
+    },
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  "Greenvale, NY": {
+    "count": 6,
+    "venues": {
+      "Tilles Center for the Performing Arts (Main)": 3,
+      "L.I. Festival Tent": 2,
+      "CWP Auditorium": 1
+    },
+    "lat": 40.8101,
+    "lng": -73.624
+  },
+  "Bronx, NY": {
+    "count": 5,
+    "venues": {
+      "Co-op City": 2,
+      "Lehman Center for the Performing Arts": 2,
+      "Playground 52 LII": 1
+    },
+    "lat": 40.8448,
+    "lng": -73.8648
+  },
+  "Newark, NJ": {
+    "count": 4,
+    "venues": {
+      "Mosque Theatre": 4
+    },
+    "lat": 40.7357,
+    "lng": -74.1724
+  },
+  "Poughkeepsie, NY": {
+    "count": 3,
+    "venues": {
+      "Collingwood Opera House": 1,
+      "Students' Auditorium": 1,
+      "Mid-Hudson Civic Center": 1
+    },
+    "lat": 41.7004,
+    "lng": -73.921
+  },
+  "Hartford, CT": {
+    "count": 3,
+    "venues": {
+      "Bushnell Auditorium": 3
+    },
+    "lat": 41.7658,
+    "lng": -72.6734
+  },
+  "Queens, NY": {
+    "count": 3,
+    "venues": {
+      "Electric Industry Center": 2,
+      "Colden Auditorium, Queens College": 1
+    },
+    "lat": 40.7282,
+    "lng": -73.7949
+  },
+  "Staten Island, NY": {
+    "count": 2,
+    "venues": {
+      "Paramount Theatre": 2
+    },
+    "lat": 40.5795,
+    "lng": -74.1502
+  },
+  "White Plains, NY": {
+    "count": 2,
+    "venues": {
+      "Westchester County Center": 2
+    },
+    "lat": 41.0339862,
+    "lng": -73.7629097
+  },
+  "Holmdel, NJ": {
+    "count": 2,
+    "venues": {
+      "Garden State Arts Center": 2
+    },
+    "lat": 40.3451,
+    "lng": -74.184
+  },
+  "Princeton, NJ": {
+    "count": 1,
+    "venues": {
+      "Alexander Hall": 1
+    },
+    "lat": 40.3573,
+    "lng": -74.6672
+  },
+  "New Haven, CT": {
+    "count": 1,
+    "venues": {
+      "Yale Bowl": 1
+    },
+    "lat": 41.3083,
+    "lng": -72.9279
+  },
+  "Hempstead, NY": {
+    "count": 1,
+    "venues": {
+      "Calderone Theater": 1
+    },
+    "lat": 40.6736812,
+    "lng": -73.6190736
+  },
+  "Shanghai, CHINA": {
+    "count": 1,
+    "venues": {
+      "Shanghai Symphony Hall": 1
+    },
+    "lat": 31.2304,
+    "lng": 121.4737
+  }
+}

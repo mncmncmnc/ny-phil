@@ -1,0 +1,97 @@
+[
+    {
+        "program": {
+            "id": "cf98420a-f4e5-4c64-a92e-b2227fb7599d-0.1",
+            "programID": "2567",
+            "orchestra": "New York Philharmonic",
+            "season": "1966-67",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1967-07-07T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1967-07-08T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50592*",
+                    "composerName": "Honegger,  Arthur",
+                    "workTitle": "JEANNE D'ARC AU BUCHER",
+                    "conductorName": "Ozawa, Seiji",
+                    "soloists": [
+                        {
+                            "soloistName": "Zorina, Vera",
+                            "soloistInstrument": "Speaker",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Wager, Michael",
+                            "soloistInstrument": "Speaker",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Sukis, Lilian",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Morrison, Mary",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Parker, Louise",
+                            "soloistInstrument": "Alto",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Kolk, Stanley",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Michalski, Raymond",
+                            "soloistInstrument": "Bass-Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Robbins, Rex",
+                            "soloistInstrument": "Speaker",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Montgomery, Earl",
+                            "soloistInstrument": "Speaker",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Dowd, Janet",
+                            "soloistInstrument": "Speaker",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Camerata Singers, The",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "St. Kilian Boychoir",
+                            "soloistInstrument": "Boys Choir",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1967"
+    }
+]

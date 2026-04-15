@@ -1,0 +1,2271 @@
+[
+    {
+        "program": {
+            "id": "506a2096-f685-4fde-b967-fdb76bfbfa9e-0.1",
+            "programID": "1086",
+            "orchestra": "New York Philharmonic",
+            "season": "1956-57",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Carnegie Hall",
+                    "Date": "1957-05-09T04:00:00Z",
+                    "Time": "8:45PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Carnegie Hall",
+                    "Date": "1957-05-10T04:00:00Z",
+                    "Time": "2:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "5485*",
+                    "composerName": "Bentzon,  Niels  Viggo",
+                    "workTitle": "VARIAZIONI BREVI, OP.75",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": []
+                },
+                {
+                    "ID": "50867*",
+                    "composerName": "Kodaly [Kodály],  Zoltán",
+                    "workTitle": "PSALMUS HUNGARICUS",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Lloyd, David",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "5489*",
+                    "composerName": "Foss,  Lukas",
+                    "workTitle": "PSALMS",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52089*",
+                    "composerName": "Walton,  William",
+                    "workTitle": "BELSHAZZAR'S FEAST",
+                    "conductorName": "Mitropoulos, Dimitri",
+                    "soloists": [
+                        {
+                            "soloistName": "Tozzi, Giorgio",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schola Cantorum of NY",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1957"
+    },
+    {
+        "program": {
+            "id": "ebd73455-8f07-4238-805f-668739997d5d-0.1",
+            "programID": "586",
+            "orchestra": "New York Philharmonic",
+            "season": "1962-63",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1963-05-09T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1963-05-10T04:00:00Z",
+                    "Time": "2:15PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1963-05-11T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1963-05-12T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2964*",
+                    "composerName": "Vivaldi,  Antonio",
+                    "workTitle": "CONCERTO, VIOLIN, E MAJOR, RV 269 (SPRING FROM THE FOUR SEASONS)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Corigliano, John, Sr.",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2109*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "IMAGES: RONDES DE PRINTEMPS, NO.   3",
+                    "conductorName": "Fournier, Serge",
+                    "soloists": []
+                },
+                {
+                    "ID": "52691*",
+                    "composerName": "Delius,  Frederick",
+                    "workTitle": "ON HEARING THE FIRST CUCKOO IN SPRING",
+                    "conductorName": "Rozsnyai, Zoltan",
+                    "soloists": []
+                },
+                {
+                    "ID": "217*",
+                    "composerName": "Harris,  Roy",
+                    "workTitle": "KENTUCKY SPRING",
+                    "conductorName": "Krasnopolsky, Yuri",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52449*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 6 IN F MAJOR, OP.68 (PASTORAL)",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1963"
+    },
+    {
+        "program": {
+            "id": "944cf4b1-daae-4c20-8841-55de30fe57b7-0.1",
+            "programID": "1448",
+            "orchestra": "New York Philharmonic",
+            "season": "1963-64",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1964-05-07T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1964-05-08T04:00:00Z",
+                    "Time": "2:15PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1964-05-09T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1964-05-10T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51648*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SYMPHONY NO. 36, C MAJOR, K.425, \"LINZ\"",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "38*",
+                    "composerName": "Chavez [Chávez],  Carlos",
+                    "workTitle": "SYMPHONY NO. 6",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52313*",
+                    "composerName": "Chausson,  Ernest",
+                    "workTitle": "SYMPHONY IN B FLAT MAJOR, OP. 20",
+                    "conductorName": "Kosler, Zdenek",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1964"
+    },
+    {
+        "program": {
+            "id": "4044e241-5507-4c33-a0db-9f61d773642c-0.1",
+            "programID": "2159",
+            "orchestra": "New York Philharmonic",
+            "season": "1967-68",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1968-05-09T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1968-05-10T04:00:00Z",
+                    "Time": "2:15PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1968-05-11T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1968-05-13T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "878*1",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "MANFRED, OP.115",
+                    "movement": "Overture",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "52654*",
+                    "composerName": "Debussy,  Claude",
+                    "workTitle": "RHAPSODY FOR CLARINET AND ORCHESTRA",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": [
+                        {
+                            "soloistName": "Drucker, Stanley",
+                            "soloistInstrument": "Clarinet",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "51526*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SYMPHONY IN THREE MOVEMENTS",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52453*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 7 IN A MAJOR, OP.92",
+                    "conductorName": "Schippers, Thomas",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1968"
+    },
+    {
+        "program": {
+            "id": "bdc442ec-a328-4832-a0db-35ed9420b0df-0.1",
+            "programID": "3027",
+            "orchestra": "New York Philharmonic",
+            "season": "1968-69",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1969-05-08T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1969-05-09T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1969-05-10T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3835*",
+                    "composerName": "Bach,  Johann  Sebastian",
+                    "workTitle": "BRANDENBURG CONCERTO NO. 6 IN B-FLAT MAJOR, BWV 1051",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                },
+                {
+                    "ID": "51419*",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "SYMPHONY NO. 1, JEREMIAH",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": [
+                        {
+                            "soloistName": "Tourel, Jennie",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53071*",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "SYMPHONY NO. 2, C MAJOR, OP. 61",
+                    "conductorName": "Bernstein, Leonard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1969"
+    },
+    {
+        "program": {
+            "id": "061bdbee-b56a-41e0-8c1a-36ea8f0b442a-0.1",
+            "programID": "3687",
+            "orchestra": "New York Philharmonic",
+            "season": "1972-73",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1973-05-10T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1973-05-11T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1973-05-12T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53312*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "STABAT MATER, OP.58",
+                    "conductorName": "Kubelik, Rafael",
+                    "soloists": [
+                        {
+                            "soloistName": "Blegen, Judith",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Fassbaender, Brigitte",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schreier, Peter",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Plishka, Paul",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Camerata Singers, The",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1973"
+    },
+    {
+        "program": {
+            "id": "07d77eaa-5497-40ec-9377-195f415c7b18-0.1",
+            "programID": "4580",
+            "orchestra": "New York Philharmonic",
+            "season": "1973-74",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1974-05-09T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1974-05-10T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1974-05-11T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1974-05-14T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50736*1",
+                    "composerName": "Weber,  Carl  Maria von",
+                    "workTitle": "PETER SCHMOLL UND SEINE NACHBARN, OP. 8",
+                    "movement": "Overture",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "9188*1",
+                    "composerName": "Weber,  Carl  Maria von",
+                    "workTitle": "TURANDOT, OP. 37, J. 5",
+                    "movement": "Overture",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "52105*1",
+                    "composerName": "Weber,  Carl  Maria von",
+                    "workTitle": "ABU HASSAN, J. 106",
+                    "movement": "Overture",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "1789*",
+                    "composerName": "Messiaen,  Olivier",
+                    "workTitle": "ET EXSPECTO RESURRECTIONEM MORTUORUM",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51821*",
+                    "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+                    "workTitle": "SYMPHONY NO. 3 IN C MINOR, OP. 78 (ORGAN SYM.)",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Prince-Joseph, Bruce",
+                            "soloistInstrument": "Organ",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1974"
+    },
+    {
+        "program": {
+            "id": "098b40df-1309-4cf6-b842-e6b5a4ebbf44-0.1",
+            "programID": "2544",
+            "orchestra": "New York Philharmonic",
+            "season": "1974-75",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1975-05-07T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1975-05-08T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1975-05-09T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1975-05-10T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1975-05-13T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1228*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "LEONORE OVERTURE NO. 2, OP. 72A",
+                    "conductorName": "Barenboim, Daniel",
+                    "soloists": []
+                },
+                {
+                    "ID": "51061*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "CONCERTO, PIANO NO. 23, A MAJOR, K.488",
+                    "conductorName": "Barenboim, Daniel",
+                    "soloists": [
+                        {
+                            "soloistName": "Curzon, Clifford",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53078*",
+                    "composerName": "Schumann,  Robert",
+                    "workTitle": "SYMPHONY NO. 4, D MINOR, OP. 120",
+                    "conductorName": "Barenboim, Daniel",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1975"
+    },
+    {
+        "program": {
+            "id": "c79da2c3-6c00-4ab5-98d3-d0f565ddeaac-0.1",
+            "programID": "4335",
+            "orchestra": "New York Philharmonic",
+            "season": "1976-77",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1977-05-05T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1977-05-06T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1977-05-07T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1977-05-10T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52577*",
+                    "composerName": "Mendelssohn,  Felix",
+                    "workTitle": "SYMPHONY NO. 4, A MAJOR, OP. 90 (ITALIAN)",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "51602*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "TOMBEAU DE COUPERIN, LE",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2919*",
+                    "composerName": "Crumb,  George",
+                    "workTitle": "STAR-CHILD",
+                    "conductorName": "Boulez, Pierre;  Gilbert, David;  Chambers, James;  Newland, Larry",
+                    "soloists": [
+                        {
+                            "soloistName": "Gubrud, Irene",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Herman, Edward, Jr.",
+                            "soloistInstrument": "Trombone",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Little Church Around the Corner Boys' Choir",
+                            "soloistInstrument": "Boys Choir",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Trinity Boys' Choir",
+                            "soloistInstrument": "Boys Choir",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Trinity Bell Ringers",
+                            "soloistInstrument": "Bell Ringers",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Brooklyn Boys' Chorus",
+                            "soloistInstrument": "Boys Choir",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "53741*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SUITE NO. 1 FOR SMALL ORCHESTRA",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                },
+                {
+                    "ID": "53744*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "SUITE NO. 2 FOR SMALL ORCHESTRA",
+                    "conductorName": "Boulez, Pierre",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1977"
+    },
+    {
+        "program": {
+            "id": "46fd2946-92c9-4a5b-8fc3-4e482714e620-0.1",
+            "programID": "4749",
+            "orchestra": "New York Philharmonic",
+            "season": "1983-84",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1984-05-10T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1984-05-12T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1984-05-15T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51876*",
+                    "composerName": "Shostakovich,  Dmitri",
+                    "workTitle": "CONCERTO, CELLO, NO. 1, OP. 107",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": [
+                        {
+                            "soloistName": "Ma, Yo-Yo",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "1547*",
+                    "composerName": "Bruckner,  Anton",
+                    "workTitle": "SYMPHONY NO. 1, C MINOR",
+                    "conductorName": "Leinsdorf, Erich",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1984"
+    },
+    {
+        "program": {
+            "id": "69bf704b-553d-48e3-852e-9aee6c1a9cd8-0.1",
+            "programID": "5628",
+            "orchestra": "New York Philharmonic",
+            "season": "1984-85",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-05-09T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-05-10T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-05-11T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1985-05-14T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53731*",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "ALEXANDER NEVSKY CANTATA, OP. 78",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Vishnevskaya, Galina",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "9197*1",
+                    "composerName": "Musorgsky,  Modest",
+                    "workTitle": "BORIS GODUNOV (ARR. Rimsky-Korsakov)",
+                    "movement": "\"Long live Tsar Boris Feodorovich!\" (Coronation Scene), Prologue, scene ii",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Salminen, Matti",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Bleeke, Mark",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9197*2",
+                    "composerName": "Musorgsky,  Modest",
+                    "workTitle": "BORIS GODUNOV (ARR. Rimsky-Korsakov)",
+                    "movement": "\"I have attained supreme power\" (Boris' Monologue), Boris, Act II",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Salminen, Matti",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9197*3",
+                    "composerName": "Musorgsky,  Modest",
+                    "workTitle": "BORIS GODUNOV (ARR. Rimsky-Korsakov)",
+                    "movement": "\"Ah! For some air!\" (Clock Scene), Boris (aria), act II",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Salminen, Matti",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9197*4",
+                    "composerName": "Musorgsky,  Modest",
+                    "workTitle": "BORIS GODUNOV (ARR. Rimsky-Korsakov)",
+                    "movement": "Act III, scene ii: Polonaise",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Cawelti, Andrea",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9197*5",
+                    "composerName": "Musorgsky,  Modest",
+                    "workTitle": "BORIS GODUNOV (ARR. Rimsky-Korsakov)",
+                    "movement": "\"Farewell, my son, I am dying\" (Boris' Death), Boris (Aria), Act IV, scene ii",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Salminen, Matti",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Daley, Margery",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "1985"
+    },
+    {
+        "program": {
+            "id": "4a5b9d2e-4a16-4dc7-a0b6-5db76bfe9c53-0.1",
+            "programID": "7167",
+            "orchestra": "New York Philharmonic",
+            "season": "1989-90",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1990-05-10T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1990-05-11T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1990-05-12T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "1389*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, D MINOR, OP.15",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": [
+                        {
+                            "soloistName": "Brendel, Alfred",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51870*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+                    "conductorName": "Mehta, Zubin",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1990"
+    },
+    {
+        "program": {
+            "id": "3aedd1ba-dbaf-40c4-93cd-f23e1ff1a73e-0.1",
+            "programID": "7834",
+            "orchestra": "New York Philharmonic",
+            "season": "1995-96",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1996-05-10T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1996-05-11T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1996-05-14T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51602*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "TOMBEAU DE COUPERIN, LE",
+                    "conductorName": "Previn, André",
+                    "soloists": []
+                },
+                {
+                    "ID": "2407*",
+                    "composerName": "Ravel,  Maurice",
+                    "workTitle": "CONCERTO, PIANO, G MAJOR",
+                    "conductorName": "Previn, André",
+                    "soloists": [
+                        {
+                            "soloistName": "Uchida, Mitsuko",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "6913*",
+                    "composerName": "Korngold,  Erich",
+                    "workTitle": "SYMPHONY, F SHARP MAJOR, OP. 40",
+                    "conductorName": "Previn, André",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1996"
+    },
+    {
+        "program": {
+            "id": "ae908ab1-3e63-438d-88ea-dd1dc1f80bde-0.1",
+            "programID": "7865",
+            "orchestra": "New York Philharmonic",
+            "season": "1996-97",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1997-05-08T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1997-05-09T04:00:00Z",
+                    "Time": "11:00AM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "1997-05-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "6964*",
+                    "composerName": "Kancheli,  Giya",
+                    "workTitle": "SYMPHONY NO. 3",
+                    "conductorName": "Welser-Möst, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Asawa, Brian",
+                            "soloistInstrument": "Countertenor",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "1518*",
+                    "composerName": "Saint-Saens [Saint-Saëns],  Camille",
+                    "workTitle": "CONCERTO, CELLO, NO. 1, A MINOR, OP. 33",
+                    "conductorName": "Welser-Möst, Franz",
+                    "soloists": [
+                        {
+                            "soloistName": "Mork [Mørk], Truls",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "53254*",
+                    "composerName": "Sibelius,  Jean",
+                    "workTitle": "SYMPHONY NO. 2, D MAJOR, OP. 43",
+                    "conductorName": "Welser-Möst, Franz",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1997"
+    },
+    {
+        "program": {
+            "id": "cae5f1b4-27b6-4b51-a93f-9ebacafcdf08-0.1",
+            "programID": "8834",
+            "orchestra": "New York Philharmonic",
+            "season": "2000-01",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2001-05-10T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2001-05-11T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2001-05-12T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "53997*",
+                    "composerName": "Schoenberg,  Arnold",
+                    "workTitle": "PELLEAS UND MELISANDE, OP. 5",
+                    "conductorName": "Conlon, James",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "8209*",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "WESENDONCK LIEDER, WWV 91 (ARR. Henze)",
+                    "conductorName": "Conlon, James",
+                    "soloists": [
+                        {
+                            "soloistName": "Blythe, Stephanie",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9003*6",
+                    "composerName": "Wagner,  Richard",
+                    "workTitle": "TANNHAUSER, WWV 70",
+                    "movement": {
+                        "_": "Overture To",
+                        "em": "Tannhäuser"
+                    },
+                    "conductorName": "Conlon, James",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2001"
+    },
+    {
+        "program": {
+            "id": "03a0ce32-ec7d-4cfb-9324-844f28fe2246-0.1",
+            "programID": "8978",
+            "orchestra": "New York Philharmonic",
+            "season": "2001-02",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2002-05-10T04:00:00Z",
+                    "Time": "11:00AM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2002-05-11T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2002-05-14T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2190*",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, OP. 26, C MAJOR",
+                    "conductorName": "Eschenbach, Christoph",
+                    "soloists": [
+                        {
+                            "soloistName": "Lang, Lang",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8514*4",
+                    "composerName": "Scriabin,  Alexander",
+                    "workTitle": "ETUDES, OP. 42",
+                    "movement": "No. 4 Andante; F-sharp Major",
+                    "conductorName": "Eschenbach, Christoph",
+                    "soloists": [
+                        {
+                            "soloistName": "Lang, Lang",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "9745*",
+                    "composerName": "Sousa,  John  Philip",
+                    "workTitle": "STARS AND STRIPES FOREVER (ARR. Lang)",
+                    "conductorName": "Eschenbach, Christoph",
+                    "soloists": [
+                        {
+                            "soloistName": "Lang, Lang",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50070*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 6, B MINOR, OP. 74 (PATHÉTIQUE)",
+                    "conductorName": "Eschenbach, Christoph",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2002"
+    },
+    {
+        "program": {
+            "id": "43af6a28-cd3a-45fe-b5b3-1cbf437c4ba1-0.1",
+            "programID": "9191",
+            "orchestra": "New York Philharmonic",
+            "season": "2002-03",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2003-05-09T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2003-05-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3548*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 5, E FLAT MAJOR, OP.73",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": [
+                        {
+                            "soloistName": "Angelich, Nicholas",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51870*",
+                    "composerName": "Brahms,  Johannes",
+                    "workTitle": "SYMPHONY NO. 1 IN C MINOR, OP. 68",
+                    "conductorName": "Masur, Kurt",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2003"
+    },
+    {
+        "program": {
+            "id": "b4118b55-2c57-4117-84ca-19d05405361e-0.1",
+            "programID": "9478",
+            "orchestra": "New York Philharmonic",
+            "season": "2005-06",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2006-05-10T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2006-05-11T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "2*",
+                    "composerName": "Bartok [Bartók],  Béla",
+                    "workTitle": "RHAPSODY NO. 1, CELLO, BB 94C",
+                    "conductorName": "Zinman, David",
+                    "soloists": [
+                        {
+                            "soloistName": "Ma, Yo-Yo",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Kaptain, Laurence",
+                            "soloistInstrument": "Cimbalom",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "52349*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, VIOLIN, CELLO & PIANO, OP. 56 (TRIPLE)",
+                    "conductorName": "Zinman, David",
+                    "soloists": [
+                        {
+                            "soloistName": "Gandelsman, Jonathan",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Ma, Yo-Yo",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Fan, Joel",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "8700*",
+                    "composerName": "Adams,  John",
+                    "workTitle": "NAIVE AND SENTIMENTAL MUSIC",
+                    "conductorName": "Zinman, David",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2006"
+    },
+    {
+        "program": {
+            "id": "73652a5c-5652-433c-a224-84f355283b13-0.1",
+            "programID": "9716",
+            "orchestra": "New York Philharmonic",
+            "season": "2007-08",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-07T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-08T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-09T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-10T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9196*",
+                    "composerName": "Loewe,  Frederick",
+                    "workTitle": "CAMELOT (COMPLETE)",
+                    "conductorName": "Gemignani, Paul",
+                    "soloists": [
+                        {
+                            "soloistName": "Mutalik, Rishi",
+                            "soloistInstrument": "Actor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Keach, Stacy",
+                            "soloistInstrument": "Actor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Byrne, Gabriel",
+                            "soloistInstrument": "Actor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Mazzie, Marin",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Sieber, Christopher",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Kudisch, Marc",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Swenson, Will",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Morley, Erin",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Stein, Justin",
+                            "soloistInstrument": "Ensemble, Featured",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Gunn, Nathan",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Olson, Weston Wells",
+                            "soloistInstrument": "Ensemble, Featured",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Lloyd, Christopher",
+                            "soloistInstrument": "Actor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Brockman, Jane",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Steggert, Bobby",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Drescher, Fran",
+                            "soloistInstrument": "Actress",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Abels, Joel",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Altay, Derin",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Archie, Terence",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Brockman, Jane",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "De Toledo, Maxime",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Dunn, Ryan Thomas",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Hernandez, Ivan",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "James, Sydney",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Jones, Catherine Cheng",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "LaValle, Catherine",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Lekae, Valisia",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mahoney, Amy",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mastrone, Frank",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "McLeod, Raymond Jaramillo",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Montalban, Paolo",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Richards, Devin",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Rooney, Brian Charles",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Victor, Idara",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Walla, Alison",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Victor, Idara",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Wolfe, Betsy",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Bendul, Kristine",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Fraggos, Kathryn Eleni",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kepley, Nick",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Lewis, Sabra",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mindlin, Michael",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Paschall, Denny",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Rembert, Jermaine",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Saab, Krista",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Scirrotto, Michael",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Solomon, Alison",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2008"
+    },
+    {
+        "program": {
+            "id": "73652a5c-5652-433c-a224-84f355283b13-0.1",
+            "programID": "9716",
+            "orchestra": "New York Philharmonic",
+            "season": "2007-08",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-07T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-08T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-09T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-10T04:00:00Z",
+                    "Time": "2:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2008-05-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "9196*",
+                    "composerName": "Loewe,  Frederick",
+                    "workTitle": "CAMELOT (COMPLETE)",
+                    "conductorName": "Gemignani, Paul",
+                    "soloists": [
+                        {
+                            "soloistName": "Mutalik, Rishi",
+                            "soloistInstrument": "Actor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Keach, Stacy",
+                            "soloistInstrument": "Actor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Byrne, Gabriel",
+                            "soloistInstrument": "Actor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Mazzie, Marin",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Sieber, Christopher",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Kudisch, Marc",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Swenson, Will",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Morley, Erin",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Stein, Justin",
+                            "soloistInstrument": "Ensemble, Featured",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Gunn, Nathan",
+                            "soloistInstrument": "Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Olson, Weston Wells",
+                            "soloistInstrument": "Ensemble, Featured",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Lloyd, Christopher",
+                            "soloistInstrument": "Actor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Brockman, Jane",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Steggert, Bobby",
+                            "soloistInstrument": "Vocalist",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Drescher, Fran",
+                            "soloistInstrument": "Actress",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Abels, Joel",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Altay, Derin",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Archie, Terence",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Brockman, Jane",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "De Toledo, Maxime",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Dunn, Ryan Thomas",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Hernandez, Ivan",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "James, Sydney",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Jones, Catherine Cheng",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "LaValle, Catherine",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Lekae, Valisia",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mahoney, Amy",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mastrone, Frank",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "McLeod, Raymond Jaramillo",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Montalban, Paolo",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Richards, Devin",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Rooney, Brian Charles",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Victor, Idara",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Walla, Alison",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Victor, Idara",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Wolfe, Betsy",
+                            "soloistInstrument": "Ensemble",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Bendul, Kristine",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Fraggos, Kathryn Eleni",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Kepley, Nick",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Lewis, Sabra",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Mindlin, Michael",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Paschall, Denny",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Rembert, Jermaine",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Saab, Krista",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Scirrotto, Michael",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Solomon, Alison",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2008"
+    },
+    {
+        "program": {
+            "id": "7228e4ac-2841-4404-9489-0a172ddace8e-0.1",
+            "programID": "12075",
+            "orchestra": "New York Philharmonic",
+            "season": "2013-14",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2014-05-08T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2014-05-09T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2014-05-10T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "50763*",
+                    "composerName": "Webern,  Anton  von",
+                    "workTitle": "IM SOMMERWIND",
+                    "conductorName": "Haitink, Bernard",
+                    "soloists": []
+                },
+                {
+                    "ID": "1905*",
+                    "composerName": "Berg,  Alban",
+                    "workTitle": "CONCERTO, VIOLIN AND ORCHESTRA",
+                    "conductorName": "Haitink, Bernard",
+                    "soloists": [
+                        {
+                            "soloistName": "Kavakos, Leonidas",
+                            "soloistInstrument": "Violin",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "52437*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "SYMPHONY NO. 3 IN E FLAT MAJOR, OP. 55 (EROICA)",
+                    "conductorName": "Haitink, Bernard",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2014"
+    },
+    {
+        "program": {
+            "id": "3aa7eec9-da24-4e97-be49-ddb1f26781a2-0.1",
+            "programID": "14114",
+            "orchestra": "New York Philharmonic",
+            "season": "2017-18",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2018-05-10T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "610*",
+                    "composerName": "Elgar,  Sir  Edward",
+                    "workTitle": "CONCERTO, CELLO, E MINOR, OP. 85",
+                    "conductorName": "Szeps-Znaider, Nikolaj",
+                    "soloists": [
+                        {
+                            "soloistName": "Wang, Jian",
+                            "soloistInstrument": "Cello",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50054*",
+                    "composerName": "Tchaikovsky,  Pyotr  Ilyich",
+                    "workTitle": "SYMPHONY NO. 1, G MINOR, OP.13 (WINTER DREAMS)",
+                    "conductorName": "Szeps-Znaider, Nikolaj",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2018"
+    },
+    {
+        "program": {
+            "id": "32cbef15-20c9-45f1-82f2-7d98fcdfdc9d-0.1",
+            "programID": "14695",
+            "orchestra": "New York Philharmonic",
+            "season": "2022-23",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2023-05-10T04:00:00Z",
+                    "Time": "7:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "13644*",
+                    "composerName": "Silvestrov,  Valentyn",
+                    "workTitle": "PRAYER FOR UKRAINE (ARR. Resatsch)",
+                    "conductorName": "Gaffigan, James",
+                    "soloists": []
+                },
+                {
+                    "ID": "53831*",
+                    "composerName": "Prokofiev,  Sergei",
+                    "workTitle": "SYMPHONY NO. 3, OP. 44",
+                    "conductorName": "Gaffigan, James",
+                    "soloists": []
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2214*",
+                    "composerName": "Rachmaninoff,  Sergei",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, D MINOR, OP. 30",
+                    "conductorName": "Gaffigan, James",
+                    "soloists": [
+                        {
+                            "soloistName": "Lim, Yunchan",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "12807*3",
+                    "composerName": "Liszt,  Franz",
+                    "workTitle": "TRE SONETTI DEL PETRARCA, S. 270",
+                    "movement": "Sonetto 104",
+                    "soloists": []
+                },
+                {
+                    "ID": "13708*1",
+                    "composerName": "Lyadov,  Anatoli",
+                    "workTitle": "MORCEAUX, THREE, OP. 57",
+                    "movement": "Prelude in D-flat major",
+                    "soloists": [
+                        {
+                            "soloistName": "Lim, Yunchan",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2023"
+    },
+    {
+        "program": {
+            "id": "7ad41e9c-455e-4d12-9b96-137887adc7e8-0.1",
+            "programID": "14831",
+            "orchestra": "New York Philharmonic",
+            "season": "2023-24",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2024-05-08T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2024-05-09T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "David Geffen Hall",
+                    "Date": "2024-05-10T04:00:00Z",
+                    "Time": "2:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51642*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SYMPHONY NO. 35, D MAJOR, K.385, \"HAFFNER\"",
+                    "conductorName": "Glover, Jane",
+                    "soloists": []
+                },
+                {
+                    "ID": "1855*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "AH!  PERFIDO, OP.65",
+                    "conductorName": "Glover, Jane",
+                    "soloists": [
+                        {
+                            "soloistName": "Slack, Karen",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "13873*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SYMPHONY NO. 13, F MAJOR, K.112",
+                    "conductorName": "Glover, Jane",
+                    "soloists": []
+                },
+                {
+                    "ID": "51658*",
+                    "composerName": "Mozart,  Wolfgang  Amadeus",
+                    "workTitle": "SYMPHONY NO. 39, E-FLAT MAJOR, K.543",
+                    "conductorName": "Glover, Jane",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "2024"
+    }
+]

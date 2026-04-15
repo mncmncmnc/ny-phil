@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>geography</title>
+        <link rel="stylesheet" href="../client/vendor/leaflet/leaflet.css" />
+        <link rel="stylesheet" type="text/css" href="../client/main.css" />
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <script src="../client/vendor/leaflet/leaflet.js"></script>
+        <script>
+            let map;
+
+            function venueLines(venues) {
+                if (!venues || typeof venues !== "object") return "";
+                return Object.keys(venues)
+                    .slice(0, 8)
+                    .map((v) => v + " (" + venues[v] + ")")
+                    .join("<br/>");
+            }
+
+            window.onload = () => {
+                map = L.map("map").setView([40.75, -40], 3);
+                L.tileLayer(
+                    "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                    {
+                        maxZoom: 19,
+                        attribution:
+                            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+                    }
+                ).addTo(map);
+
+                fetch("../data/presets/all/locations.json")
+                    .then((r) => r.json())
+                    .then((loc) => {
+                        let mapped = 0;
+                        const bounds = [];
+                        Object.keys(loc).forEach((name) => {
+                            const o = loc[name];
+                            if (o.lat == null || o.lng == null) {
+                                return;
+                            }
+                            mapped += 1;
+                            const latlng = [o.lat, o.lng];
+                            bounds.push(latlng);
+                            const circle = L.circleMarker(latlng, {
+                                radius: 5,
+                                weight: 1,
+                                fillOpacity: 0.9,
+                                color: "#1a5276",
+                                fillColor: "#2874a6",
+                            });
+                            circle.bindPopup(
+                                "<strong>" +
+                                    name.replace(/</g, "&lt;") +
+                                    "</strong><br/>" +
+                                    (o.count || 0) +
+                                    " concerts<br/>" +
+                                    venueLines(o.venues)
+                            );
+                            circle.addTo(map);
+                        });
+                        document.getElementById("stats").textContent =
+                            mapped + " locations on map.";
+                        if (bounds.length) {
+                            map.fitBounds(bounds, { padding: [24, 24] });
+                        }
+                    })
+                    .catch(() => {
+                        document.getElementById("stats").textContent =
+                            "Could not load locations data.";
+                    });
+            };
+        </script>
+    </head>
+    <body>
+        <div class="nyphil-filters-bar geography-back-bar">
+            <div class="nyphil-filters-bar-inner">
+                <a href="../index.html" class="nyphil-back-link">back</a>
+            </div>
+        </div>
+        <header>
+            <h1>geography</h1>
+            <p class="lead">
+                One dot per distinct <code>Location</code> (not per venue)
+            </p>
+            <p id="stats" aria-live="polite"></p>
+        </header>
+        <main>
+            <div id="map" role="application" aria-label="Map of concert locations"></div>
+        </main>
+    </body>
+</html>

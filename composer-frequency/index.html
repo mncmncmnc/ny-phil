@@ -15,6 +15,8 @@
         <link rel="stylesheet" type="text/css" href="./../client/main.css" />
         <link rel="stylesheet" type="text/css" href="./composer-frequency.css" />
         <!-- <link rel="icon" href="favicon.ico" /> -->
+        <script>window.NYPHIL_DATA_ROOT = "../";</script>
+        <script src="../client/filters.js"></script>
 
         <script>
             const state = {
@@ -27,7 +29,7 @@
             }
 
             function getData() {
-                fetch(`./../data/composer-years.json`)
+                fetch(nyphilDataUrl("composer-years.json"))
                     .then(res => res.json())
                     .then(composers => {
                         console.log(composers)
@@ -57,7 +59,16 @@
                 option.disabled = true
                 end.append(option)
 
-                Object.keys(state.composers['Beethoven, Ludwig van']).forEach(year => {
+                const keys = Object.keys(state.composers).sort()
+                if (keys.length === 0) {
+                    state.start = 1842
+                    state.end = new Date().getFullYear()
+                    return
+                }
+                const pivot = state.composers['Beethoven, Ludwig van']
+                    ? 'Beethoven, Ludwig van'
+                    : keys[0]
+                Object.keys(state.composers[pivot] || {}).forEach(year => {
                     year = parseInt(year, 10)
 
                     if (year < state.start) {
@@ -125,6 +136,29 @@
         </script>
     </head>
     <body>
+        <div class="nyphil-filters-bar">
+            <div class="nyphil-filters-bar-inner">
+            <nav class="nyphil-filters" aria-label="Concert filter">
+                <label for="nyphil-preset-select">Concerts</label>
+                <select id="nyphil-preset-select">
+                    <option value="all">All event types</option>
+                    <option value="subscription_season">Subscription season</option>
+                </select>
+            </nav>
+            <a href="../index.html" class="nyphil-back-link">back</a>
+            </div>
+            <script>
+                (function () {
+                    var sel = document.getElementById("nyphil-preset-select");
+                    if (sel) {
+                        sel.value = NYPHIL_PRESET;
+                        sel.addEventListener("change", function () {
+                            nyphilSwitchPreset(sel.value);
+                        });
+                    }
+                })();
+            </script>
+        </div>
         <header>
             <h1>
                 frequency of work by composer 

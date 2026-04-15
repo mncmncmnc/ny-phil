@@ -1,0 +1,54 @@
+[
+    {
+        "program": {
+            "id": "dd7cb640-bcd2-46c2-8515-9eaf290378d0-0.1",
+            "programID": "689",
+            "orchestra": "New York Philharmonic",
+            "season": "1964-65",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Greenvale, NY",
+                    "Venue": "L.I. Festival Tent",
+                    "Date": "1965-08-07T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51740*",
+                    "composerName": "Roussel,  Albert",
+                    "workTitle": "BACCHUS ET ARIANE, OP.43: SUITE NO. 2",
+                    "conductorName": "Munch, Charles",
+                    "soloists": []
+                },
+                {
+                    "ID": "1847*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 3, C MINOR, OP. 37",
+                    "conductorName": "Munch, Charles",
+                    "soloists": [
+                        {
+                            "soloistName": "Graffman, Gary",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "51370*",
+                    "composerName": "Berlioz,  Hector",
+                    "workTitle": "SYMPHONIE FANTASTIQUE, OP.14",
+                    "conductorName": "Munch, Charles",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1965"
+    }
+]

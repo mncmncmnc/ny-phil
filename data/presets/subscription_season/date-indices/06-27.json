@@ -1,0 +1,312 @@
+[
+    {
+        "program": {
+            "id": "21eeadd0-a9b6-48eb-8e1b-f5b456f11e6d-0.1",
+            "programID": "6251",
+            "orchestra": "New York Philharmonic",
+            "season": "1970-71",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1971-06-25T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Bronx, NY",
+                    "Venue": "Co-op City",
+                    "Date": "1971-06-26T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1971-06-27T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "54065*2",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "movement": "Adagio e staccato",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54065*4",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "movement": "Andante",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54065*8",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "movement": "Bourrée — Hornpipe — Bourrée",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54065*10",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54065*6",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 1 IN F MAJOR (HWV 348)",
+                    "movement": "Minuet",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "54069*2",
+                    "composerName": "Handel,  George  Frideric",
+                    "workTitle": "WATER MUSIC: SUITE NO. 2 IN D MAJOR",
+                    "movement": "Alla Hornpipe",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "2417*",
+                    "composerName": "Beethoven,  Ludwig  van",
+                    "workTitle": "CONCERTO, PIANO, NO. 1, C MAJOR, OP.15",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": [
+                        {
+                            "soloistName": "Dichter, Misha",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "50733*",
+                    "composerName": "Ives,  Charles",
+                    "workTitle": "UNANSWERED QUESTION, THE",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                },
+                {
+                    "ID": "51450*",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "WEST SIDE STORY, SYMPHONIC DANCES",
+                    "conductorName": "Thomas, Michael Tilson",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1971"
+    },
+    {
+        "program": {
+            "id": "bae3174c-ba24-4c85-a349-0354eaca76c5-0.1",
+            "programID": "9857",
+            "orchestra": "New York Philharmonic",
+            "season": "2008-09",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-06-24T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-06-25T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-06-26T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2009-06-27T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52878*",
+                    "composerName": "Mahler,  Gustav",
+                    "workTitle": "SYMPHONY NO.  8 IN E FLAT MAJOR (SYMPHONY OF A THOUSAND)",
+                    "conductorName": "Maazel, Lorin",
+                    "soloists": [
+                        {
+                            "soloistName": "Brewer, Christine",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Gustafson, Nancy",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "De Bique, Jeanine",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Phillips, Mary",
+                            "soloistInstrument": "Mezzo-Soprano",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Maultsby, Nancy",
+                            "soloistInstrument": "Alto",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Griffey, Anthony Dean",
+                            "soloistInstrument": "Tenor",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Schoene [Schöne], Wolfgang",
+                            "soloistInstrument": "Bass",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Grant, Jason",
+                            "soloistInstrument": "Bass-Baritone",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "New York Choral Artists",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Dessoff Symphonic Choir, The",
+                            "soloistInstrument": "Chorus",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Brooklyn Youth Chorus",
+                            "soloistInstrument": "Children's Chorus",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2009"
+    },
+    {
+        "program": {
+            "id": "3a190dda-e4b5-489f-9328-367cf6c8f9ac-0.1",
+            "programID": "11952",
+            "orchestra": "New York Philharmonic",
+            "season": "2012-13",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2013-06-27T04:00:00Z",
+                    "Time": "7:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2013-06-28T04:00:00Z",
+                    "Time": "8:00PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2013-06-29T04:00:00Z",
+                    "Time": "8:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "51973*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "BAISER DE LA FEE, LE (THE FAIRY'S KISS)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Mearns, Sara",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "11065*3",
+                    "composerName": "Duery,  Louis",
+                    "workTitle": "PIECES, TWO, FOR PIANO FOUR HANDS, OP. 7",
+                    "movement": "Neige, excerpts from",
+                    "soloists": [
+                        {
+                            "soloistName": "Mearns, Sara",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Huebner, Eric",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        },
+                        {
+                            "soloistName": "Beck, Steven",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                },
+                {
+                    "ID": "416*",
+                    "composerName": "Stravinsky,  Igor",
+                    "workTitle": "PETRUSHKA (1911 VERSION)",
+                    "conductorName": "Gilbert, Alan",
+                    "soloists": [
+                        {
+                            "soloistName": "Mearns, Sara",
+                            "soloistInstrument": "Dancer",
+                            "soloistRoles": "S"
+                        },
+                        {
+                            "soloistName": "Huebner, Eric",
+                            "soloistInstrument": "Piano",
+                            "soloistRoles": "A"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2013"
+    }
+]

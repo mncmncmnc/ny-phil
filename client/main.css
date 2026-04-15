@@ -9,6 +9,37 @@ body {
     background: whitesmoke;
     margin: 1rem;
 }
+.nyphil-filters-bar {
+    position: sticky;
+    top: 0;
+    z-index: 200;
+    margin: -1rem -1rem 1rem -1rem;
+    padding: 0.5rem 1rem;
+    background: whitesmoke;
+    border-bottom: 1px solid #bbb;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+.nyphil-filters-bar-inner {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    width: 100%;
+}
+.nyphil-back-link {
+    font-size: 14px;
+}
+.nyphil-filters {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+.nyphil-filters select {
+    font-size: 14px;
+}
 main, header {
     max-width: 1000px;
     margin: 3rem auto;

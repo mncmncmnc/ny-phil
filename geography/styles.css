@@ -1,0 +1,22 @@
+.geography-back-bar .nyphil-filters-bar-inner {
+    justify-content: flex-end;
+}
+
+.lead {
+    max-width: 48rem;
+    margin: 0 0 1rem 0;
+}
+.lead code {
+    font-size: 0.9em;
+}
+#map {
+    height: min(70vh, 640px);
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 1px solid darkgray;
+}
+#stats {
+    font-size: 13px;
+    color: #333;
+}

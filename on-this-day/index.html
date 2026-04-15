@@ -15,6 +15,8 @@
         <link rel="stylesheet" type="text/css" href="./../client/main.css" />
         <link rel="stylesheet" type="text/css" href="./on-this-day.css" />
         <!-- <link rel="icon" href="favicon.ico" /> -->
+        <script>window.NYPHIL_DATA_ROOT = "../";</script>
+        <script src="../client/filters.js"></script>
 
         <script>
             const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
@@ -117,7 +119,7 @@
                 const month = state.month < 10 ? '0' + state.month : state.month;
                 const day = state.day < 10 ? '0' + state.day : state.day;
 
-                fetch(`./../data/date-indices/${month}-${day}.json`)
+                fetch(nyphilDateIndicesUrl(state.month, state.day))
                     .then(res => res.json())
                     .then(programs => {
                         state.programs = programs.reverse()
@@ -191,6 +193,29 @@
         </script>
     </head>
     <body>
+        <div class="nyphil-filters-bar">
+            <div class="nyphil-filters-bar-inner">
+            <nav class="nyphil-filters" aria-label="Concert filter">
+                <label for="nyphil-preset-select">Concerts</label>
+                <select id="nyphil-preset-select">
+                    <option value="all">All event types</option>
+                    <option value="subscription_season">Subscription season</option>
+                </select>
+            </nav>
+            <a href="../index.html" class="nyphil-back-link">back</a>
+            </div>
+            <script>
+                (function () {
+                    var sel = document.getElementById("nyphil-preset-select");
+                    if (sel) {
+                        sel.value = NYPHIL_PRESET;
+                        sel.addEventListener("change", function () {
+                            nyphilSwitchPreset(sel.value);
+                        });
+                    }
+                })();
+            </script>
+        </div>
         <header>
             <select id='select-month' onchange="updateMonth(this.value)">
             </select>

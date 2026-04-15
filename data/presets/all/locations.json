@@ -1,0 +1,4523 @@
+{
+  "Manhattan, NY": {
+    "count": 19640,
+    "venues": {
+      "Avery Fisher Hall": 6211,
+      "Carnegie Hall": 6044,
+      "Philharmonic Hall": 1801,
+      "Lewisohn Stadium": 1740,
+      "David Geffen Hall": 1111,
+      "Merkin Hall": 359,
+      "Aeolian Hall": 303,
+      "Metropolitan Opera House (39th street)": 236,
+      "Academy of Music": 189,
+      "Roxy Theatre": 112,
+      "The Stanley H. Kaplan Penthouse": 96,
+      "The Great Lawn, Central Park": 85,
+      "Steinway Hall": 70,
+      "Alice Tully Hall": 69,
+      "Mecca Auditorium": 62
+    },
+    "lat": 40.7831,
+    "lng": -73.9712
+  },
+  "Brooklyn, NY": {
+    "count": 339,
+    "venues": {
+      "Brooklyn Academy of Music": 146,
+      "Prospect Park": 70,
+      "National Sawdust": 22,
+      "Hall of the Commercial High School": 21,
+      "Marine Park": 13,
+      "Domino Park": 11,
+      "Brooklyn Bridge Park": 9,
+      "Girls' Commercial HS": 8,
+      "Brooklyn Botanic Garden": 6,
+      "Prospect Heights High School": 5,
+      "Betty Carter Park": 5,
+      "Brooklyn Center for the Performing Arts, Whitman Hall": 4,
+      "Brooklyn Institute of Arts and Sciences": 3,
+      "The Lot Radio": 3,
+      "Green-Wood Cemetery": 3
+    },
+    "lat": 40.6782,
+    "lng": -73.9442
+  },
+  "Philadelphia, PA": {
+    "count": 162,
+    "venues": {
+      "Willow Grove Park": 85,
+      "Academy of Music": 68,
+      "Verizon Hall at Kimmel Center": 7,
+      "Metropolitan (Hammerstein) Opera House": 1,
+      "Sesquicentennial Auditorium": 1
+    },
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  "Vail, CO": {
+    "count": 140,
+    "venues": {
+      "Gerald R. Ford Amphitheater": 132,
+      "Donovan Pavilion": 3,
+      "Vilar Performing Arts Center": 2,
+      "De Vink Residence": 1,
+      "Vail Public Library": 1,
+      "Rotella Residence": 1
+    },
+    "lat": 39.6403,
+    "lng": -106.3742
+  },
+  "Bronx, NY": {
+    "count": 118,
+    "venues": {
+      "Van Cortlandt Park": 53,
+      "NY Botanical Garden": 23,
+      "Co-op City": 10,
+      "Father Gigante Plaza": 9,
+      "Monroe High School": 8,
+      "Lehman Center for the Performing Arts": 3,
+      "Orchard Beach": 3,
+      "Adlai Stevenson High School": 2,
+      "Hostos Center for the Arts and Culture, Hostos Community College, CUNY": 2,
+      "Dewitt Clinton High School": 1,
+      "Casita Maria Center for Arts & Education": 1,
+      "St. Helena's Church": 1,
+      "Playground 52 LII": 1,
+      "University of Mount Saint Vincent": 1
+    },
+    "lat": 40.8448,
+    "lng": -73.8648
+  },
+  "Queens, NY": {
+    "count": 111,
+    "venues": {
+      "Cunningham Park": 57,
+      "Crocheron Park": 32,
+      "Hall of Music World's Fair Grounds": 6,
+      "Colden Auditorium, Queens College": 6,
+      "Electric Industry Center": 2,
+      "Jamaica Performing Arts Center / Jamaica Center for Arts and Learning": 2,
+      "First Baptist Church": 2,
+      "New York State Amphitheatre": 1,
+      "Juniper Valley Park": 1,
+      "Gantry Plaza State Park": 1,
+      "Queens Public Library at Flushing": 1
+    },
+    "lat": 40.7282,
+    "lng": -73.7949
+  },
+  "Washington, DC": {
+    "count": 102,
+    "venues": {
+      "National Theatre": 37,
+      "Constitution Hall": 35,
+      "John F. Kennedy Center for the Performing Arts": 23,
+      "None": 2,
+      "Central High School": 1,
+      "Belasco Theatre": 1,
+      "Poli's Theatre": 1,
+      "White House": 1,
+      "White House - Rose Garden": 1
+    },
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+  "Greenvale, NY": {
+    "count": 77,
+    "venues": {
+      "Tilles Center for the Performing Arts (Main)": 54,
+      "CWP Auditorium": 10,
+      "Bush-Brown Concert Theater": 7,
+      "L.I. Festival Tent": 3,
+      "Hillwood Recital Hall (Tilles)": 3
+    },
+    "lat": 40.8101,
+    "lng": -73.624
+  },
+  "Staten Island, NY": {
+    "count": 71,
+    "venues": {
+      "Snug Harbor": 20,
+      "Clove Lake Park": 19,
+      "Miller Field": 8,
+      "Center for the Arts, College of Staten Island / CUNY": 6,
+      "St. George Theatre": 5,
+      "Great Kills Park": 3,
+      "City University of New York": 3,
+      "Paramount Theatre": 2,
+      "Springer Concert Hall (College of Staten Island)": 2,
+      "Halloran Hospital": 1,
+      "Staten Island Community College": 1,
+      "Richmond County Bank Ballpark": 1
+    },
+    "lat": 40.5795,
+    "lng": -74.1502
+  },
+  "Baltimore, MD": {
+    "count": 62,
+    "venues": {
+      "Lyric Theatre": 61,
+      "Civic Center": 1
+    },
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  "Tokyo, JAPAN": {
+    "count": 54,
+    "venues": {
+      "Suntory Hall": 22,
+      "Bunka Kaikan": 10,
+      "NHK Hall": 6,
+      "Tokyo Opera City Concert Hall": 5,
+      "Fumonkan Hall": 4,
+      "US Ambasador Residence": 2,
+      "Tokyo Gymnasium": 1,
+      "Kan'i Hoken Hall": 1,
+      "Nippon Budokan Hall": 1,
+      "Sumida Triphony Hall": 1,
+      "Residence of Deputy Chief of Mission": 1
+    },
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  "London, ENGLAND": {
+    "count": 48,
+    "venues": {
+      "Barbican Hall": 15,
+      "Royal Albert Hall": 12,
+      "Festival Hall": 11,
+      "Queen's Hall": 6,
+      "Milton Court at Guild Hall, Barbican Centre": 2,
+      "Wychwood House": 1,
+      "Winfield House": 1
+    },
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  "Newark, NJ": {
+    "count": 47,
+    "venues": {
+      "Mosque Theatre": 27,
+      "Prudential Hall": 16,
+      "Symphony Hall": 2,
+      "Krueger Auditorium": 1,
+      "The Armory": 1
+    },
+    "lat": 40.7357,
+    "lng": -74.1724
+  },
+  "Shanghai, CHINA": {
+    "count": 39,
+    "venues": {
+      "Shanghai Symphony Hall": 23,
+      "Shanghai Symphony Hall--Chamber Hall": 8,
+      "Shanghai Grand Theatre Performing Arts Centre (Lyric)": 3,
+      "Shanghai Poly Grand Theatre": 2,
+      "None": 1,
+      "Waldorf Astoria Shanghai on the Bund": 1,
+      "U.S. Consulate Shanghai": 1
+    },
+    "lat": 31.2304,
+    "lng": 121.4737
+  },
+  "Hartford, CT": {
+    "count": 38,
+    "venues": {
+      "Bushnell Auditorium": 33,
+      "Foot Guard Hall": 4,
+      "Parsons Theatre": 1
+    },
+    "lat": 41.7658,
+    "lng": -72.6734
+  },
+  "Pittsburgh, PA": {
+    "count": 36,
+    "venues": {
+      "Syria Mosque": 28,
+      "Soldiers Memorial Hall": 3,
+      "Carnegie Music Hall": 2,
+      "Exposition Hall": 1,
+      "Unknown Venue": 1,
+      "Civic Arena": 1
+    },
+    "lat": 40.4406,
+    "lng": -79.9959
+  },
+  "Paris, FRANCE": {
+    "count": 35,
+    "venues": {
+      "Salle Pleyel": 9,
+      "Theâtre des Champs-Élysées": 7,
+      "Théâtre National de l'Opéra": 5,
+      "Châtelet Théâtre": 3,
+      "Palais des Congrès": 2,
+      "Official Residence of the United States Ambassador": 2,
+      "Philharmonie de Paris, La": 2,
+      "Trocadéro": 1,
+      "Palais de Chaillot": 1,
+      "Jardin des Tuileries": 1,
+      "Cercle de l'Union Interalliée": 1,
+      "United States Embassy": 1
+    },
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  "Princeton, NJ": {
+    "count": 33,
+    "venues": {
+      "Alexander Hall": 21,
+      "McCarter Theatre": 12
+    },
+    "lat": 40.3573,
+    "lng": -74.6672
+  },
+  "Holmdel, NJ": {
+    "count": 33,
+    "venues": {
+      "Garden State Arts Center": 27,
+      "PNC Bank Performing Arts Center": 6
+    },
+    "lat": 40.3451,
+    "lng": -74.184
+  },
+  "Online Only": {
+    "count": 31,
+    "venues": {
+      "YouTube": 28,
+      "Instagram": 3
+    },
+    "lat": -6.2660875,
+    "lng": 106.8083052
+  },
+  "East Islip, NY": {
+    "count": 29,
+    "venues": {
+      "Heckscher State Park": 29
+    },
+    "lat": 40.732,
+    "lng": -73.1851
+  },
+  "Chicago, IL": {
+    "count": 28,
+    "venues": {
+      "Symphony Center (Orchestra Hall)": 15,
+      "Opera House": 6,
+      "Auditorium Theatre": 3,
+      "Arie Crown Theater": 2,
+      "Unknown Venue": 1,
+      "Poplar Creek Music Theater": 1
+    },
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  "Vienna, AUSTRIA": {
+    "count": 27,
+    "venues": {
+      "Wiener Konzerthaus (Grosser Saal)": 17,
+      "Musikverein": 4,
+      "Staatsoper": 2,
+      "US Ambassador Residence": 2,
+      "Stadthalle": 1,
+      "Johann Strauss Concert Hall, Palais Coburg": 1
+    },
+    "lat": 48.2082,
+    "lng": 16.3738
+  },
+  "Seoul, KOREA": {
+    "count": 27,
+    "venues": {
+      "Seoul Arts Center (Concert Hall)": 13,
+      "Sejong Center for the Performing Arts": 9,
+      "Shimin Kaikan": 2,
+      "National Museum": 1,
+      "Shilla Hotel": 1,
+      "Myungsung Presbyterian Church": 1
+    },
+    "lat": 37.5665,
+    "lng": 126.978
+  },
+  "Boston, MA": {
+    "count": 26,
+    "venues": {
+      "Symphony Hall": 24,
+      "Music Hall": 1,
+      "None": 1
+    },
+    "lat": 42.3601,
+    "lng": -71.0589
+  },
+  "Berlin, GERMANY": {
+    "count": 26,
+    "venues": {
+      "Philharmonie": 16,
+      "Titania Palast": 2,
+      "Senders Freies Berlin": 2,
+      "US Ambassador Residence": 2,
+      "Hochschule Fuer Musik": 1,
+      "Deutschlandhalle": 1,
+      "Schauspielhaus": 1,
+      "Konzerthaus Berlin": 1
+    },
+    "lat": 52.52,
+    "lng": 13.405
+  },
+  "Edinburgh, SCOTLAND": {
+    "count": 26,
+    "venues": {
+      "Usher Hall": 26
+    },
+    "lat": 55.9533,
+    "lng": -3.1883
+  },
+  "Buenos Aires, ARGENTINA": {
+    "count": 26,
+    "venues": {
+      "Teatro Colón": 22,
+      "Luna Park": 1,
+      "Public Special": 1,
+      "Museo Metropolitano": 1,
+      "Museo Nacional de Arte Decorativo": 1
+    },
+    "lat": -34.6037,
+    "lng": -58.3816
+  },
+  "Cologne, GERMANY": {
+    "count": 25,
+    "venues": {
+      "Kölner Philharmonie": 23,
+      "Unknown Venue": 1,
+      "Wallraf-Richartz Museum": 1
+    },
+    "lat": 50.9375,
+    "lng": 6.9603
+  },
+  "Ann Arbor, MI": {
+    "count": 24,
+    "venues": {
+      "Hill Auditorium": 21,
+      "Rackham Auditorium": 1,
+      "Avalon Cafe & Kitchen": 1,
+      "Fred's Ann Arbor": 1
+    },
+    "lat": 42.2808,
+    "lng": -83.743
+  },
+  "Valhalla, NY": {
+    "count": 22,
+    "venues": {
+      "Westchester Community College": 22
+    },
+    "lat": 41.0748,
+    "lng": -73.7751
+  },
+  "Sao Paulo, BRAZIL": {
+    "count": 21,
+    "venues": {
+      "Teatro Municipal": 8,
+      "Teatro Cultura Artistica": 4,
+      "Ibirapuera Park": 3,
+      "Sala São Paulo": 3,
+      "Palacio Anhembi": 2,
+      "Anhangabau": 1
+    },
+    "lat": -23.5505,
+    "lng": -46.6333
+  },
+  "Taipei, TAIWAN": {
+    "count": 20,
+    "venues": {
+      "National Concert Hall": 14,
+      "Dr. Sun Yat-Sen Memorial Hall": 3,
+      "National Theatre": 2,
+      "Residence of Mr. Charles Chen": 1
+    },
+    "lat": 25.033,
+    "lng": 121.5654
+  },
+  "New Haven, CT": {
+    "count": 19,
+    "venues": {
+      "Woolsey Hall": 17,
+      "New Haven Arena": 1,
+      "Yale Bowl": 1
+    },
+    "lat": 41.3083,
+    "lng": -72.9279
+  },
+  "Cleveland, OH": {
+    "count": 18,
+    "venues": {
+      "Gray's Armory": 10,
+      "New Masonic Hall": 3,
+      "Public Hall": 2,
+      "B.F. Keith's Hippodrome": 1,
+      "Museum of Art": 1,
+      "Music Hall": 1
+    },
+    "lat": 41.4993,
+    "lng": -81.6944
+  },
+  "Hong Kong, CHINA": {
+    "count": 18,
+    "venues": {
+      "Hong Kong Cultural Centre (Concert Hall)": 9,
+      "City Hall": 4,
+      "Hong Kong Coliseum": 1,
+      "Lyric Academy Hall": 1,
+      "Sha Tin Town Hall": 1,
+      "Victoria Concert Hall": 1,
+      "US Consul General Residence": 1
+    },
+    "lat": 22.3193,
+    "lng": 114.1694
+  },
+  "Columbus, OH": {
+    "count": 17,
+    "venues": {
+      "Memorial Hall": 13,
+      "Mershon Auditorium": 2,
+      "(Great) Southern Theatre": 1,
+      "Unknown Venue": 1
+    },
+    "lat": 39.9612,
+    "lng": -82.9988
+  },
+  "Providence, RI": {
+    "count": 17,
+    "venues": {
+      "Shubert-Majestic Theatre": 5,
+      "Infantry Hall": 4,
+      "Metropolitan Theatre": 3,
+      "Veterans' Memorial Auditorium": 2,
+      "Albee Theatre": 1,
+      "Rhode Island Auditorium": 1,
+      "Civic Center": 1
+    },
+    "lat": 41.824,
+    "lng": -71.4128
+  },
+  "Moscow, USSR": {
+    "count": 17,
+    "venues": {
+      "Tchaikovsky Conservatory Hall": 12,
+      "Bolshoi Theatre": 4,
+      "Gorky Cultural Park": 1
+    },
+    "lat": 55.7558,
+    "lng": 37.6173
+  },
+  "Frankfurt, GERMANY": {
+    "count": 17,
+    "venues": {
+      "Alte Oper": 11,
+      "Jahrhunderthalle Hoechst": 5,
+      "Opernplatz": 1
+    },
+    "lat": 50.1109,
+    "lng": 8.6821
+  },
+  "Toronto, CANADA": {
+    "count": 16,
+    "venues": {
+      "Massey Hall": 12,
+      "O'Keefe Centre": 3,
+      "Roy Thomson Hall": 1
+    },
+    "lat": 43.6532,
+    "lng": -79.3832
+  },
+  "Detroit, MI": {
+    "count": 16,
+    "venues": {
+      "Masonic Auditorium": 5,
+      "Arcadia Auditorium": 3,
+      "Unknown Venue": 2,
+      "Detroit Armory": 2,
+      "Orchestra Hall": 2,
+      "Light Guard Armory": 1,
+      "Pine Knob Music Theater": 1
+    },
+    "lat": 42.3314,
+    "lng": -83.0458
+  },
+  "Springfield, MA": {
+    "count": 16,
+    "venues": {
+      "Municipal Auditorium": 12,
+      "Court Square Theater": 4
+    },
+    "lat": 42.1015,
+    "lng": -72.5898
+  },
+  "San Francisco, CA": {
+    "count": 16,
+    "venues": {
+      "Davies Symphony Hall": 7,
+      "Civic Auditorium": 3,
+      "War Memorial Performing Arts Center": 3,
+      "Masonic Auditorium": 3
+    },
+    "lat": 37.7749,
+    "lng": -122.4194
+  },
+  "Osaka, JAPAN": {
+    "count": 16,
+    "venues": {
+      "Festival Hall": 11,
+      "Symphony Hall": 2,
+      "Sankei Hall": 1,
+      "Osaka Gymnasium": 1,
+      "Osaka-jo Hall": 1
+    },
+    "lat": 34.6937,
+    "lng": 135.5023
+  },
+  "Holyoke, MA": {
+    "count": 15,
+    "venues": {
+      "City Hall": 14,
+      "Mt. Holyoke College": 1
+    },
+    "lat": 42.2042,
+    "lng": -72.6162
+  },
+  "Northampton, MA": {
+    "count": 15,
+    "venues": {
+      "John M. Greene Hall": 15
+    },
+    "lat": 42.3251,
+    "lng": -72.6412
+  },
+  "Luzerne, SWITZERLAND": {
+    "count": 15,
+    "venues": {
+      "Kultur- und Kongresszentrum Luzern": 15
+    },
+    "lat": 47.0502,
+    "lng": 8.3093
+  },
+  "Madrid, SPAIN": {
+    "count": 15,
+    "venues": {
+      "Auditorio Nacional de Musica": 9,
+      "Teatro Real": 4,
+      "Palacio de Congresos": 2
+    },
+    "lat": 40.4168,
+    "lng": -3.7038
+  },
+  "Buffalo, NY": {
+    "count": 14,
+    "venues": {
+      "Elmwood Hall": 4,
+      "Convention Hall": 3,
+      "Kleinhans Music Hall": 3,
+      "Teck Theater": 2,
+      "Artpark": 2
+    },
+    "lat": 42.8864,
+    "lng": -78.8784
+  },
+  "Milan, ITALY": {
+    "count": 13,
+    "venues": {
+      "Teatro alla Scala": 10,
+      "Sala Verdi, Conservatorio di Milano": 2,
+      "Palazzo Crespi": 1
+    },
+    "lat": 45.4642,
+    "lng": 9.19
+  },
+  "Amsterdam, NETHERLANDS": {
+    "count": 13,
+    "venues": {
+      "Concertgebouw": 12,
+      "Slot Zeist": 1
+    },
+    "lat": 52.3676,
+    "lng": 4.9041
+  },
+  "Saratoga Springs, NY": {
+    "count": 13,
+    "venues": {
+      "Spa Theatre": 9,
+      "Performing Arts Center": 4
+    },
+    "lat": 43.0831,
+    "lng": -73.7846
+  },
+  "Leningrad, USSR": {
+    "count": 13,
+    "venues": {
+      "Bolshoi Hall": 13
+    },
+    "lat": 59.9343,
+    "lng": 30.3351
+  },
+  "East Meadow, NY": {
+    "count": 13,
+    "venues": {
+      "Eisenhower Park": 13
+    },
+    "lat": 40.714,
+    "lng": -73.559
+  },
+  "Rochester, NY": {
+    "count": 12,
+    "venues": {
+      "Convention Hall": 6,
+      "Eastman Theatre": 4,
+      "Lyceum Theater": 1,
+      "Unknown Venue": 1
+    },
+    "lat": 43.1566,
+    "lng": -77.6088
+  },
+  "Poughkeepsie, NY": {
+    "count": 12,
+    "venues": {
+      "Students' Auditorium": 7,
+      "Collingwood Opera House": 3,
+      "High School": 1,
+      "Mid-Hudson Civic Center": 1
+    },
+    "lat": 41.7004,
+    "lng": -73.921
+  },
+  "Nagoya, JAPAN": {
+    "count": 12,
+    "venues": {
+      "Concert Hall (Aichi)": 5,
+      "Shimin Kaikan (Nagoya)": 5,
+      "City Hall": 1,
+      "Shirotori Century Plaza": 1
+    },
+    "lat": 35.1815,
+    "lng": 136.9066
+  },
+  "Vienna, VA": {
+    "count": 12,
+    "venues": {
+      "Filene Center": 12
+    },
+    "lat": 38.9012,
+    "lng": -77.2653
+  },
+  "St. Louis, MO": {
+    "count": 11,
+    "venues": {
+      "Exposition Music Hall": 2,
+      "Odeon": 2,
+      "Kiel Opera House": 2,
+      "Muny Opera": 2,
+      "Coliseum": 1,
+      "Unknown Venue": 1,
+      "Fox Theatre": 1
+    },
+    "lat": 38.627,
+    "lng": -90.1994
+  },
+  "Bridgeport, CT": {
+    "count": 11,
+    "venues": {
+      "Park Theatre": 4,
+      "Seaside Park": 3,
+      "State Street Casino": 1,
+      "Poli Theater": 1,
+      "Palace Theatre": 1,
+      "Unknown Venue": 1
+    },
+    "lat": 41.1792695,
+    "lng": -73.1887863
+  },
+  "Brussels, BELGIUM": {
+    "count": 11,
+    "venues": {
+      "Palais des Beaux-Arts": 9,
+      "Theatre royale de la monnaie": 1,
+      "De Warande": 1
+    },
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  "Ames, IA": {
+    "count": 11,
+    "venues": {
+      "C.Y. Stephens Auditorium": 6,
+      "Hilton Coliseum": 4,
+      "State Gymnasium": 1
+    },
+    "lat": 42.0267567,
+    "lng": -93.6170448
+  },
+  "Luxembourg, LUXEMBOURG": {
+    "count": 11,
+    "venues": {
+      "Philharmonie Luxembourg (Joséphine-Charlotte)": 9,
+      "International Fair Hall": 1,
+      "Villa Louvigny": 1
+    },
+    "lat": 49.8158683,
+    "lng": 6.1296751
+  },
+  "Singapore": {
+    "count": 11,
+    "venues": {
+      "Victoria Hall": 3,
+      "Concert Hall Esplanade": 2,
+      "Esplanade": 2,
+      "National Stadium": 1,
+      "Padang": 1,
+      "Singapore Indoor Stadium": 1,
+      "Shaw Foundation Symphony Stage": 1
+    },
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  "Rome, ITALY": {
+    "count": 10,
+    "venues": {
+      "Augusteo": 4,
+      "Auditorium Parco della Musica": 3,
+      "Teatro Argentina": 1,
+      "Auditorium Parco della Musica - Santa Cecilia Hall": 1,
+      "Villa Taverna": 1
+    },
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  "Athens, GREECE": {
+    "count": 10,
+    "venues": {
+      "Herodes Atticus Theatre": 4,
+      "Orpheus Hall": 3,
+      "Athens Concert Hall": 3
+    },
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  "Mexico City, MEXICO": {
+    "count": 10,
+    "venues": {
+      "Palacio de Bellas Artes": 4,
+      "Sala Nezahualcóyotl": 3,
+      "Auditorio Nacional": 1,
+      "Sala Ollin Yoliztli": 1,
+      "Museo Rufino Tamayo": 1
+    },
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  "Hollywood, CA": {
+    "count": 10,
+    "venues": {
+      "Hollywood Bowl": 10
+    },
+    "lat": 34.0980031,
+    "lng": -118.329523
+  },
+  "Miami Beach, FL": {
+    "count": 10,
+    "venues": {
+      "Jackie Gleason Theater": 4,
+      "Miami Beach Auditorium": 3,
+      "Municipal Auditorium": 1,
+      "Miami Beach Theater": 1,
+      "Fisher Island Club": 1
+    },
+    "lat": 25.7929198,
+    "lng": -80.1353006
+  },
+  "Stillwater, OK": {
+    "count": 10,
+    "venues": {
+      "McKnight Center for the Performing Arts": 10
+    },
+    "lat": 36.1156306,
+    "lng": -97.0585717
+  },
+  "Milwaukee, WI": {
+    "count": 9,
+    "venues": {
+      "Milwaukee Auditorium": 5,
+      "Temple of Music": 2,
+      "Pabst Theater": 1,
+      "Milwaukee War Memorial PAC": 1
+    },
+    "lat": 43.0386475,
+    "lng": -87.9090751
+  },
+  "Syracuse, NY": {
+    "count": 9,
+    "venues": {
+      "Wieting Opera House": 5,
+      "Unknown Venue": 1,
+      "Lincoln Auditorium": 1,
+      "Loew's State Theater": 1,
+      "Crouse-Hinds Theater": 1
+    },
+    "lat": 43.0481221,
+    "lng": -76.1474244
+  },
+  "Richmond, VA": {
+    "count": 9,
+    "venues": {
+      "The Mosque": 5,
+      "City Auditorium": 3,
+      "Unknown Venue": 1
+    },
+    "lat": 37.5385087,
+    "lng": -77.43428
+  },
+  "Worcester, MA": {
+    "count": 9,
+    "venues": {
+      "Mechanics Hall": 7,
+      "Memorial Auditorium": 1,
+      "Unknown Venue": 1
+    },
+    "lat": 42.2625621,
+    "lng": -71.8018877
+  },
+  "Budapest, HUNGARY": {
+    "count": 9,
+    "venues": {
+      "Palace of Arts  (Bela Bartók National Concert Hall)": 3,
+      "State Opera House (Hungarian)": 2,
+      "Varosy Theater": 1,
+      "Erkel Theater": 1,
+      "Vadászterem [Hunters Hall] in the Hungarian Parliament": 1,
+      "Mupa  (Bela Bartók National Concert Hall)": 1
+    },
+    "lat": 47.4813896,
+    "lng": 19.1457723
+  },
+  "Dresden, GERMANY": {
+    "count": 9,
+    "venues": {
+      "Frauenkirche": 3,
+      "Semperopera": 3,
+      "Sachsische Staatstheater Opernhaus": 1,
+      "Kulturpalast": 1,
+      "Transparent Factory": 1
+    },
+    "lat": 51.0493286,
+    "lng": 13.7381437
+  },
+  "Warsaw, POLAND": {
+    "count": 9,
+    "venues": {
+      "Filharmonia Narodowa": 6,
+      "Sala Kongresowa": 1,
+      "Hotel Bristol": 1,
+      "Teatr Wielki - Opera Narodowa": 1
+    },
+    "lat": 52.2319581,
+    "lng": 21.0067249
+  },
+  "Madison, WI": {
+    "count": 8,
+    "venues": {
+      "University Armory": 2,
+      "Stock Pavilion": 2,
+      "Union Theater": 2,
+      "Gymnasium": 1,
+      "Dane County Memorial Coliseum": 1
+    },
+    "lat": 43.07469,
+    "lng": -89.3841663
+  },
+  "Wilkes-Barre, PA": {
+    "count": 8,
+    "venues": {
+      "Irem Temple": 8
+    },
+    "lat": 41.2464824,
+    "lng": -75.8817316
+  },
+  "Birmingham, AL": {
+    "count": 8,
+    "venues": {
+      "Municipal Auditorium": 4,
+      "Bijou Theater": 2,
+      "Jefferson Theater": 2
+    },
+    "lat": 33.5206824,
+    "lng": -86.8024326
+  },
+  "Zurich, SWITZERLAND": {
+    "count": 8,
+    "venues": {
+      "Tonhalle": 7,
+      "Volkshaus": 1
+    },
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  },
+  "Munich, GERMANY": {
+    "count": 8,
+    "venues": {
+      "Deutsches Museum": 4,
+      "Gasteig Philharmonie": 3,
+      "Tonhalle": 1
+    },
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  "Atlanta, GA": {
+    "count": 8,
+    "venues": {
+      "Municipal Auditorium": 4,
+      "Donna and Marvin Schwartz Center for the Performing Arts (Emerson Concert Hall)": 2,
+      "Unknown Venue": 1,
+      "Civic Center": 1
+    },
+    "lat": 33.7544657,
+    "lng": -84.3898151
+  },
+  "Caracas, VENEZUELA": {
+    "count": 8,
+    "venues": {
+      "Poliedro": 3,
+      "Aula Magna": 2,
+      "Teatro Teresa Carreno": 2,
+      "Concha Acustica": 1
+    },
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  "Santiago, CHILE": {
+    "count": 8,
+    "venues": {
+      "Teatro Municipal": 4,
+      "Teatro Astor": 2,
+      "Caupolicán": 1,
+      "Universidad Catolica": 1
+    },
+    "lat": -33.4376995,
+    "lng": -70.6510671
+  },
+  "Rio De Janeiro, BRAZIL": {
+    "count": 8,
+    "venues": {
+      "Teatro Municipal": 7,
+      "Maracanazinho": 1
+    },
+    "lat": -22.9110137,
+    "lng": -43.2093727
+  },
+  "Hamburg, GERMANY": {
+    "count": 8,
+    "venues": {
+      "Musikhalle": 3,
+      "Laeiszhalle": 2,
+      "Elbphilharmonie": 2,
+      "Kongresszentrum": 1
+    },
+    "lat": 53.5501721,
+    "lng": 10.0013165
+  },
+  "Rochester, MI": {
+    "count": 8,
+    "venues": {
+      "Meadowbrook Music Festival": 8
+    },
+    "lat": 42.680588,
+    "lng": -83.1338214
+  },
+  "Lenox, MA": {
+    "count": 8,
+    "venues": {
+      "Tanglewood": 8
+    },
+    "lat": 42.3568223,
+    "lng": -73.2850851
+  },
+  "Highland Park, IL": {
+    "count": 8,
+    "venues": {
+      "Ravinia Park Pavilion": 8
+    },
+    "lat": 42.1836719,
+    "lng": -87.7993245
+  },
+  "Canton, OH": {
+    "count": 7,
+    "venues": {
+      "City Auditorium": 5,
+      "Auditorium": 1,
+      "Auditorium Hall": 1
+    },
+    "lat": 40.7985464,
+    "lng": -81.3749508
+  },
+  "Toledo, OH": {
+    "count": 7,
+    "venues": {
+      "Museum of Art": 3,
+      "The Coliseum": 2,
+      "Terminal Auditorium": 1,
+      "Sports Arena": 1
+    },
+    "lat": 41.6529143,
+    "lng": -83.5378173
+  },
+  "New Orleans, LA": {
+    "count": 7,
+    "venues": {
+      "Unknown Venue": 4,
+      "Athenaeum": 2,
+      "Municipal Auditorium": 1
+    },
+    "lat": 29.9561422,
+    "lng": -90.0733934
+  },
+  "Reading, PA": {
+    "count": 7,
+    "venues": {
+      "Rajah Theatre": 5,
+      "Strand Theatre": 2
+    },
+    "lat": 40.335345,
+    "lng": -75.9279495
+  },
+  "Los Angeles, CA": {
+    "count": 7,
+    "venues": {
+      "Royce Hall": 3,
+      "Philharmonic Auditorium": 2,
+      "Shrine Auditorium": 1,
+      "Walt Disney Concert Hall": 1
+    },
+    "lat": 34.0536909,
+    "lng": -118.242766
+  },
+  "Montreal, CANADA": {
+    "count": 7,
+    "venues": {
+      "Place des Arts": 4,
+      "L'Addresse Symphonique": 2,
+      "Théâtre St-Denis": 1
+    },
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  "Great Neck, NY": {
+    "count": 7,
+    "venues": {
+      "Junior (North) High School": 4,
+      "Senior (North) High School": 3
+    },
+    "lat": 40.8006567,
+    "lng": -73.7284647
+  },
+  "Istanbul, TURKEY": {
+    "count": 7,
+    "venues": {
+      "Acik Hava Tiyatrosu": 2,
+      "Atatuerk Culture Center": 2,
+      "Halic Auditorium": 2,
+      "Spor ve Sergi Saravi Hall": 1
+    },
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  "Essen, GERMANY": {
+    "count": 7,
+    "venues": {
+      "Philharmonie (Alfried-Krupp Hall)": 6,
+      "Staedtischer Saalbau": 1
+    },
+    "lat": 51.4582235,
+    "lng": 7.0158171
+  },
+  "Bonn, GERMANY": {
+    "count": 7,
+    "venues": {
+      "Beethovenhalle": 7
+    },
+    "lat": 50.7352621,
+    "lng": 7.1024635
+  },
+  "Beijing, CHINA": {
+    "count": 7,
+    "venues": {
+      "National Centre for the Performing Arts (Concert Hall)": 4,
+      "The Century Theatre": 1,
+      "The Great Hall of the People": 1,
+      "Poly Theatre": 1
+    },
+    "lat": 39.9057136,
+    "lng": 116.3912972
+  },
+  "Bethel, NY": {
+    "count": 7,
+    "venues": {
+      "Bethel Woods Center for the Arts": 7
+    },
+    "lat": 41.6834224,
+    "lng": -74.8712753
+  },
+  "Cincinnati, OH": {
+    "count": 6,
+    "venues": {
+      "Music Hall": 5,
+      "Unknown Venue": 1
+    },
+    "lat": 39.1014537,
+    "lng": -84.5124602
+  },
+  "Des Moines, IA": {
+    "count": 6,
+    "venues": {
+      "The Coliseum": 5,
+      "Drake University": 1
+    },
+    "lat": 41.5868654,
+    "lng": -93.6249494
+  },
+  "Utica, NY": {
+    "count": 6,
+    "venues": {
+      "Stanley Theater": 2,
+      "Majestic Theatre": 1,
+      "Lumberg Theatre": 1,
+      "Gaiety Theatre": 1,
+      "Proctor High School Auditorium": 1
+    },
+    "lat": 43.1009031,
+    "lng": -75.2326641
+  },
+  "Dallas, TX": {
+    "count": 6,
+    "venues": {
+      "The Coliseum": 3,
+      "Fair Park Coliseum": 1,
+      "Symphony Center (Morton H. Meyerson)": 1,
+      "Credit Suisse offices": 1
+    },
+    "lat": 32.7762719,
+    "lng": -96.7968559
+  },
+  "Memphis, TN": {
+    "count": 6,
+    "venues": {
+      "Lyceum Theatre": 3,
+      "Lyric Theater": 1,
+      "Auditorium": 1,
+      "Ellis Auditorium": 1
+    },
+    "lat": 35.1460249,
+    "lng": -90.0517638
+  },
+  "Chattanooga, TN": {
+    "count": 6,
+    "venues": {
+      "Unknown Venue": 5,
+      "Memorial Auditorium": 1
+    },
+    "lat": 35.0457219,
+    "lng": -85.3094883
+  },
+  "Florence, ITALY": {
+    "count": 6,
+    "venues": {
+      "Teatro Comunale": 3,
+      "Politeama": 2,
+      "Palazzo Corsini": 1
+    },
+    "lat": 43.7697955,
+    "lng": 11.2556404
+  },
+  "San Diego, CA": {
+    "count": 6,
+    "venues": {
+      "Copley Symphony Hall": 2,
+      "Spreckels Theatre": 1,
+      "Russ Auditorium": 1,
+      "Balboa Park Bowl": 1,
+      "Open Air Theatre": 1
+    },
+    "lat": 32.7174202,
+    "lng": -117.162772
+  },
+  "Salt Lake City, UT": {
+    "count": 6,
+    "venues": {
+      "Salt Lake Tabernacle": 4,
+      "Symphony Hall": 2
+    },
+    "lat": 40.7596198,
+    "lng": -111.886797
+  },
+  "Denver, CO": {
+    "count": 6,
+    "venues": {
+      "Boettcher Concert Hall": 2,
+      "Auditorium": 1,
+      "Symphony Society Auditorium": 1,
+      "Red Rocks Theater": 1,
+      "Auditorium Arena": 1
+    },
+    "lat": 39.7392364,
+    "lng": -104.984862
+  },
+  "Norwalk, CT": {
+    "count": 6,
+    "venues": {
+      "Silvermine Festival": 4,
+      "High School Auditorium": 2
+    },
+    "lat": 41.1175966,
+    "lng": -73.4078968
+  },
+  "White Plains, NY": {
+    "count": 6,
+    "venues": {
+      "Westchester County Center": 5,
+      "Unknown Venue": 1
+    },
+    "lat": 41.0339862,
+    "lng": -73.7629097
+  },
+  "Newport, RH": {
+    "count": 6,
+    "venues": {
+      "Salve Regina College": 3,
+      "Newport Casino": 3
+    },
+    "lat": 41.4899827,
+    "lng": -71.3137707
+  },
+  "Santa Barbara, CA": {
+    "count": 6,
+    "venues": {
+      "Granada Theater": 4,
+      "Santa Barbara Bowl": 1,
+      "Santa Barbara City College (La Playa Stadium)": 1
+    },
+    "lat": 34.4221319,
+    "lng": -119.702667
+  },
+  "Vancouver, BC, CANADA": {
+    "count": 6,
+    "venues": {
+      "The Forum": 3,
+      "Jubilee Auditorium": 2,
+      "Queen Elizabeth Theatre": 1
+    },
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  "Copenhagen, DENMARK": {
+    "count": 6,
+    "venues": {
+      "Tivoli Gardens Concert Hall": 4,
+      "Koncertuset": 2
+    },
+    "lat": 55.6867243,
+    "lng": 12.5700724
+  },
+  "Braunschweig, GERMANY": {
+    "count": 6,
+    "venues": {
+      "Stadthalle": 4,
+      "Volkswagen Halle": 2
+    },
+    "lat": 52.2646577,
+    "lng": 10.5236066
+  },
+  "East Hampton, NY": {
+    "count": 6,
+    "venues": {
+      "Guild Hall": 6
+    },
+    "lat": 40.9633868,
+    "lng": -72.1847598
+  },
+  "Indianapolis, IN": {
+    "count": 5,
+    "venues": {
+      "Murat Theatre": 2,
+      "Tomlinson Hall": 1,
+      "Unknown Venue": 1,
+      "Clowes Memorial Hall": 1
+    },
+    "lat": 39.7683331,
+    "lng": -86.1583502
+  },
+  "Albany, NY": {
+    "count": 5,
+    "venues": {
+      "Harmanus Bleecker Hall": 4,
+      "Washington Avenue Armory": 1
+    },
+    "lat": 42.6511674,
+    "lng": -73.754968
+  },
+  "Montclair, NJ": {
+    "count": 5,
+    "venues": {
+      "Memorial Auditorium": 4,
+      "Montclair Theatre": 1
+    },
+    "lat": 40.8164458,
+    "lng": -74.2210643
+  },
+  "Houston, TX": {
+    "count": 5,
+    "venues": {
+      "City Auditorium": 4,
+      "Jones Hall for the Performing Arts": 1
+    },
+    "lat": 29.7589382,
+    "lng": -95.3676974
+  },
+  "Seattle, WA": {
+    "count": 5,
+    "venues": {
+      "Unknown Venue": 2,
+      "Civic Auditorium": 2,
+      "Arena Theater": 1
+    },
+    "lat": 47.6038321,
+    "lng": -122.330062
+  },
+  "New London, CT": {
+    "count": 5,
+    "venues": {
+      "State Armory": 5
+    },
+    "lat": 41.3556187,
+    "lng": -72.0997804
+  },
+  "New Brunswick, NJ": {
+    "count": 5,
+    "venues": {
+      "Camp Kilmer": 3,
+      "Rutgers University": 1,
+      "The State Theatre": 1
+    },
+    "lat": 40.4951365,
+    "lng": -74.4439254
+  },
+  "Charlotte, NC": {
+    "count": 5,
+    "venues": {
+      "Ovens Auditorium": 3,
+      "Armory Auditorium": 1,
+      "Blumenthal Performing Arts Center": 1
+    },
+    "lat": 35.2272086,
+    "lng": -80.8430827
+  },
+  "Montevideo, URUGUAY": {
+    "count": 5,
+    "venues": {
+      "Estudio Auditorio": 3,
+      "Teatro Solis": 2
+    },
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  "Dusseldorf, GERMANY": {
+    "count": 5,
+    "venues": {
+      "Tonhalle": 4,
+      "Rheinhalle": 1
+    },
+    "lat": 51.2254018,
+    "lng": 6.7763137
+  },
+  "Kyoto, JAPAN": {
+    "count": 5,
+    "venues": {
+      "Kyoto Kaikan": 3,
+      "Kyoto Concert Hall": 2
+    },
+    "lat": 35.0115754,
+    "lng": 135.7681441
+  },
+  "Teton Village, WY": {
+    "count": 5,
+    "venues": {
+      "Walk Festival Hall": 5
+    },
+    "lat": 43.587984,
+    "lng": -110.827989
+  },
+  "Costa Mesa, CA": {
+    "count": 5,
+    "venues": {
+      "Segerstrom Concert Hall (Renée and Henry)": 4,
+      "Segerstrom Hall": 1
+    },
+    "lat": 33.6633386,
+    "lng": -117.903317
+  },
+  "Baden-Baden, GERMANY": {
+    "count": 5,
+    "venues": {
+      "Festspielhaus und Festspiele Baden-Baden GmbH": 5
+    },
+    "lat": 48.7610716,
+    "lng": 8.239959
+  },
+  "Cagliari, SARDINIA, ITALY": {
+    "count": 5,
+    "venues": {
+      "Teatro Lirico di Cagliari": 4,
+      "Forte Village Resort": 1
+    },
+    "lat": 39.2171994,
+    "lng": 9.113311
+  },
+  "None": {
+    "count": 4,
+    "venues": {
+      "None": 4
+    },
+    "lat": 44.933143,
+    "lng": 7.540121
+  },
+  "Omaha, NE": {
+    "count": 4,
+    "venues": {
+      "Boyd's Theatre": 2,
+      "Ak-Sar-Ben Coliseum": 1,
+      "Orpheum Theatre": 1
+    },
+    "lat": 41.2587459,
+    "lng": -95.9383758
+  },
+  "Minneapolis, MN": {
+    "count": 4,
+    "venues": {
+      "Auditorium": 2,
+      "University Armory Hall": 1,
+      "Northrop Memorial Auditorium": 1
+    },
+    "lat": 44.9772995,
+    "lng": -93.2654692
+  },
+  "Kansas City, MO": {
+    "count": 4,
+    "venues": {
+      "Music Hall": 2,
+      "None": 1,
+      "Shubert Theater": 1
+    },
+    "lat": 39.100105,
+    "lng": -94.5781416
+  },
+  "Scranton, PA": {
+    "count": 4,
+    "venues": {
+      "Town Hall": 2,
+      "Unknown Venue": 1,
+      "Masonic Temple": 1
+    },
+    "lat": 41.4086874,
+    "lng": -75.6621294
+  },
+  "Troy, NY": {
+    "count": 4,
+    "venues": {
+      "R.P.I. Field House": 3,
+      "Music Hall": 1
+    },
+    "lat": 42.7284117,
+    "lng": -73.6917878
+  },
+  "Middletown, CT": {
+    "count": 4,
+    "venues": {
+      "Middlesex Theater": 3,
+      "None": 1
+    },
+    "lat": 41.5623178,
+    "lng": -72.6509061
+  },
+  "Ithaca, NY": {
+    "count": 4,
+    "venues": {
+      "Bailey Hall": 4
+    },
+    "lat": 42.4374175,
+    "lng": -76.5483724
+  },
+  "Dayton, OH": {
+    "count": 4,
+    "venues": {
+      "Memorial Hall": 3,
+      "Civic Music league": 1
+    },
+    "lat": 39.7589478,
+    "lng": -84.1916069
+  },
+  "Ft. Worth, TX": {
+    "count": 4,
+    "venues": {
+      "None": 2,
+      "Coliseum": 1,
+      "First Baptist Church": 1
+    },
+    "lat": 32.753177,
+    "lng": -97.3327459
+  },
+  "Nashville, TN": {
+    "count": 4,
+    "venues": {
+      "Ryman Auditorium": 3,
+      "Andrew Jackson Hall": 1
+    },
+    "lat": 36.1622767,
+    "lng": -86.7742984
+  },
+  "Kingston, NY": {
+    "count": 4,
+    "venues": {
+      "Community Theater": 2,
+      "High School Auditorium": 1,
+      "Municipal Auditorium": 1
+    },
+    "lat": 41.9287812,
+    "lng": -74.0023825
+  },
+  "Akron, OH": {
+    "count": 4,
+    "venues": {
+      "The Armory": 3,
+      "Music Hall": 1
+    },
+    "lat": 41.083064,
+    "lng": -81.518485
+  },
+  "Turin, ITALY": {
+    "count": 4,
+    "venues": {
+      "Il Lingotto Conference Center": 2,
+      "None": 1,
+      "Teatro Regio": 1
+    },
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  "Ghent, BELGIUM": {
+    "count": 4,
+    "venues": {
+      "Koninklijke Opera": 2,
+      "Grand Theatre de Gand": 1,
+      "St. Baafs Kathedraal": 1
+    },
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  "Bethlehem, PA": {
+    "count": 4,
+    "venues": {
+      "Baker Hall": 3,
+      "Liberty High School": 1
+    },
+    "lat": -1.45056,
+    "lng": -48.4682453
+  },
+  "Harrisburg, PA": {
+    "count": 4,
+    "venues": {
+      "Majestic Theater": 4
+    },
+    "lat": 40.2663107,
+    "lng": -76.8861122
+  },
+  "Prague, CZECH REPUBLIC": {
+    "count": 4,
+    "venues": {
+      "Smetana Hall": 3,
+      "Lucerna-Saal": 1
+    },
+    "lat": 50.0874654,
+    "lng": 14.4212535
+  },
+  "Leipzig, GERMANY": {
+    "count": 4,
+    "venues": {
+      "Gewandhaus": 4
+    },
+    "lat": 51.3406321,
+    "lng": 12.3747329
+  },
+  "Hempstead, NY": {
+    "count": 4,
+    "venues": {
+      "Calderone Theater": 2,
+      "Mitchel Field": 1,
+      "Hofstra University Playhouse": 1
+    },
+    "lat": 40.6736812,
+    "lng": -73.6190736
+  },
+  "Raleigh, NC": {
+    "count": 4,
+    "venues": {
+      "William Neal Reynolds Coliseum": 3,
+      "Unknown Venue": 1
+    },
+    "lat": 35.7803977,
+    "lng": -78.6390989
+  },
+  "Spartanburg, SC": {
+    "count": 4,
+    "venues": {
+      "Daniel Recital Hall": 2,
+      "Converse Auditorium": 1,
+      "Unknown Venue": 1
+    },
+    "lat": 34.9498007,
+    "lng": -81.9320157
+  },
+  "Manhasset, NY": {
+    "count": 4,
+    "venues": {
+      "High School Gymnasium": 4
+    },
+    "lat": 40.786702,
+    "lng": -73.6967338
+  },
+  "Salzburg, AUSTRIA": {
+    "count": 4,
+    "venues": {
+      "Festspielhaus": 4
+    },
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  "Kiev, USSR": {
+    "count": 4,
+    "venues": {
+      "Bolshoi Zal": 4
+    },
+    "lat": 50.4507554,
+    "lng": 30.5156729
+  },
+  "Helsinki, FINLAND": {
+    "count": 4,
+    "venues": {
+      "Finlandia Hall": 3,
+      "Small Fair Hall": 1
+    },
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  "Stockholm, SWEDEN": {
+    "count": 4,
+    "venues": {
+      "Konserthuset": 3,
+      "Philharmonie": 1
+    },
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  "Miami, FL": {
+    "count": 4,
+    "venues": {
+      "Dade County Auditorium": 3,
+      "Adrienne Arsht Center for the Performing Arts (Knight Concert Hall)": 1
+    },
+    "lat": 25.7741566,
+    "lng": -80.1935973
+  },
+  "West Palm Beach, FL": {
+    "count": 4,
+    "venues": {
+      "Municipal Auditorium": 2,
+      "Kravis Center for the Performing Arts (Alexander W. Dreyfoos, Jr. Concert Hall)": 2
+    },
+    "lat": 26.715364,
+    "lng": -80.0532942
+  },
+  "Lisbon, PORTUGAL": {
+    "count": 4,
+    "venues": {
+      "Teatro Imperio": 2,
+      "Palácio de Queluz": 1,
+      "Coliseu dos Recreios": 1
+    },
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  "Barcelona, SPAIN": {
+    "count": 4,
+    "venues": {
+      "Palau de la Musica Catalana": 4
+    },
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  "Stuttgart, W. GERMANY": {
+    "count": 4,
+    "venues": {
+      "Kultur und Kongresszentrum Liederhalle Stuttgart ( Beethovensaal)": 3,
+      "Beethoven-Saal": 1
+    },
+    "lat": 48.7784485,
+    "lng": 9.1800132
+  },
+  "Concord, CA": {
+    "count": 4,
+    "venues": {
+      "Concord Pavilion": 4
+    },
+    "lat": 37.9768525,
+    "lng": -122.0335624
+  },
+  "Yokohama, JAPAN": {
+    "count": 4,
+    "venues": {
+      "Minato Mirai Hall": 3,
+      "Kanagawa Kenmin Hall": 1
+    },
+    "lat": 35.4503381,
+    "lng": 139.6343802
+  },
+  "Mumbai, INDIA (BOMBAY)": {
+    "count": 4,
+    "venues": {
+      "Shanmukhananda Hall": 3,
+      "Tata Theatre": 1
+    },
+    "lat": 18.9335732,
+    "lng": 72.8284093
+  },
+  "San Juan, PUERTO RICO": {
+    "count": 4,
+    "venues": {
+      "Centro de Bellas Artes Luis A. Ferré (Sala Antonio Paoli)": 3,
+      "Teatro de la Universidad de Puerto Rico": 1
+    },
+    "lat": 18.465299,
+    "lng": -66.116666
+  },
+  "Manila, THE PHILIPPINES": {
+    "count": 4,
+    "venues": {
+      "Cultural Center of the Philippines": 4
+    },
+    "lat": 14.453771,
+    "lng": 120.9932191
+  },
+  "Guangzhou, CHINA": {
+    "count": 4,
+    "venues": {
+      "Xinghai Concert Hall": 2,
+      "Guangzhou Opera House": 2
+    },
+    "lat": 23.1288454,
+    "lng": 113.2590064
+  },
+  "Wichita, KS": {
+    "count": 3,
+    "venues": {
+      "Toler Auditorium": 1,
+      "The Forum": 1,
+      "Century II Convention Hall": 1
+    },
+    "lat": 37.6922361,
+    "lng": -97.3375448
+  },
+  "Louisville, KY": {
+    "count": 3,
+    "venues": {
+      "Auditorium": 1,
+      "Unknown Venue": 1,
+      "Jefferson County Armory": 1
+    },
+    "lat": 38.2542376,
+    "lng": -85.759407
+  },
+  "Grand Rapids, MI": {
+    "count": 3,
+    "venues": {
+      "Powers Theater": 2,
+      "Auditorium": 1
+    },
+    "lat": 42.9632425,
+    "lng": -85.6678639
+  },
+  "Binghamton, NY": {
+    "count": 3,
+    "venues": {
+      "Anderson Center for the Arts": 2,
+      "Unknown Venue": 1
+    },
+    "lat": 42.098698,
+    "lng": -75.9125187
+  },
+  "Schenectady, NY": {
+    "count": 3,
+    "venues": {
+      "Unknown Venue": 2,
+      "Van Curler Opera House": 1
+    },
+    "lat": 42.8142432,
+    "lng": -73.9395687
+  },
+  "Elmira, NY": {
+    "count": 3,
+    "venues": {
+      "New York State Armory": 1,
+      "Colonial Theater": 1,
+      "Clemens Center": 1
+    },
+    "lat": 42.0897965,
+    "lng": -76.8077338
+  },
+  "Aurora, NY": {
+    "count": 3,
+    "venues": {
+      "Wells College": 3
+    },
+    "lat": 42.7324505,
+    "lng": -78.6315537
+  },
+  "Waterbury, CT": {
+    "count": 3,
+    "venues": {
+      "Buckingham Hall": 3
+    },
+    "lat": 41.5538091,
+    "lng": -73.0438362
+  },
+  "Wheeling, WV": {
+    "count": 3,
+    "venues": {
+      "Court Theatre": 2,
+      "Market Auditorium": 1
+    },
+    "lat": 40.0639616,
+    "lng": -80.7209149
+  },
+  "Hutchinson, KS": {
+    "count": 3,
+    "venues": {
+      "Unknown Venue": 3
+    },
+    "lat": 38.0608444,
+    "lng": -97.9297743
+  },
+  "Waco, TX": {
+    "count": 3,
+    "venues": {
+      "Cotton Palace Coliseum": 2,
+      "Coliseum": 1
+    },
+    "lat": 31.5491899,
+    "lng": -97.1474628
+  },
+  "Montgomery, AL": {
+    "count": 3,
+    "venues": {
+      "Sidney Lanier Auditorium": 2,
+      "Grand Theater": 1
+    },
+    "lat": 32.3777111,
+    "lng": -86.3090775
+  },
+  "Roanoke, VA": {
+    "count": 3,
+    "venues": {
+      "American Legion Auditorium": 2,
+      "Academy of Music": 1
+    },
+    "lat": 37.270973,
+    "lng": -79.9414313
+  },
+  "Pittsfield, MA": {
+    "count": 3,
+    "venues": {
+      "Colonial Theatre": 3
+    },
+    "lat": 42.4484778,
+    "lng": -73.2541069
+  },
+  "Parma, ITALY": {
+    "count": 3,
+    "venues": {
+      "Teatro Regio": 3
+    },
+    "lat": 44.6952006,
+    "lng": 10.0979869
+  },
+  "The Hague, NETHERLANDS": {
+    "count": 3,
+    "venues": {
+      "Dierentuin (Zoo)": 1,
+      "Houtrusthallen": 1,
+      "Nieuwe Kerk": 1
+    },
+    "lat": 52.0799838,
+    "lng": 4.3113461
+  },
+  "Lexington, KY": {
+    "count": 3,
+    "venues": {
+      "Woodland Auditorium": 1,
+      "Unknown Venue": 1,
+      "Memorial Coliseum": 1
+    },
+    "lat": 38.0464066,
+    "lng": -84.4970393
+  },
+  "Portland, OR": {
+    "count": 3,
+    "venues": {
+      "Unknown Venue": 1,
+      "Public Auditorium": 1,
+      "P.I. Centennial Building": 1
+    },
+    "lat": 45.5202471,
+    "lng": -122.674194
+  },
+  "Ottawa, CANADA": {
+    "count": 3,
+    "venues": {
+      "Capitol Theatre": 2,
+      "National Arts Centre": 1
+    },
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  "Knoxville, TN": {
+    "count": 3,
+    "venues": {
+      "Alumni Memorial Auditorium": 3
+    },
+    "lat": 35.9603948,
+    "lng": -83.9210261
+  },
+  "Columbia, SC": {
+    "count": 3,
+    "venues": {
+      "Township Auditorium": 2,
+      "Columbia Music Festival": 1
+    },
+    "lat": 34.000754,
+    "lng": -81.0352313
+  },
+  "Bloomington, IN": {
+    "count": 3,
+    "venues": {
+      "Indiana University Auditorium": 3
+    },
+    "lat": 39.1670396,
+    "lng": -86.5342881
+  },
+  "Glen Cove, NY": {
+    "count": 3,
+    "venues": {
+      "Glen Cove High School": 3
+    },
+    "lat": 40.8642028,
+    "lng": -73.6317807
+  },
+  "Basel, SWITZERLAND": {
+    "count": 3,
+    "venues": {
+      "Musiksaal des Kasinos": 3
+    },
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  "Bogota, COLOMBIA": {
+    "count": 3,
+    "venues": {
+      "Teatro Colón": 2,
+      "Teatro Colombia": 1
+    },
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  "Guayaquil, ECUADOR": {
+    "count": 3,
+    "venues": {
+      "Iglesia de Santa Gema": 2,
+      "Teatro 9 de Octubre": 1
+    },
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  "Venice, ITALY": {
+    "count": 3,
+    "venues": {
+      "Teatro La Fenice": 3
+    },
+    "lat": 45.4371908,
+    "lng": 12.3345898
+  },
+  "Honolulu, HI": {
+    "count": 3,
+    "venues": {
+      "Waikiki Shell": 3
+    },
+    "lat": 21.304547,
+    "lng": -157.855676
+  },
+  "Las Vegas, NV": {
+    "count": 3,
+    "venues": {
+      "Artemus W. Ham Concert Hall": 2,
+      "Convention Center": 1
+    },
+    "lat": 36.1674263,
+    "lng": -115.1484131
+  },
+  "Ft. Lauderdale, FL": {
+    "count": 3,
+    "venues": {
+      "War Memorial Auditorium": 3
+    },
+    "lat": 26.1223084,
+    "lng": -80.1433786
+  },
+  "Las Palmas, CANARY ISLANDS": {
+    "count": 3,
+    "venues": {
+      "Auditorio Alfredo Kraus": 2,
+      "Teatro Perez Galdos": 1
+    },
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  "Tenerife, Santa Cruz de, CANARY ISLANDS": {
+    "count": 3,
+    "venues": {
+      "Teatro Guimerá": 3
+    },
+    "lat": 28.4560745,
+    "lng": -16.2512433
+  },
+  "Sarasota, FL": {
+    "count": 3,
+    "venues": {
+      "Van Wezel Performing Arts Hall": 3
+    },
+    "lat": 27.3365805,
+    "lng": -82.5308545
+  },
+  "Melbourne, AUSTRALIA": {
+    "count": 3,
+    "venues": {
+      "Town Hall": 3
+    },
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  "Hannover, GERMANY": {
+    "count": 3,
+    "venues": {
+      "Stadthalle": 3
+    },
+    "lat": 52.3744779,
+    "lng": 9.7385532
+  },
+  "Lewiston, NY": {
+    "count": 3,
+    "venues": {
+      "Artpark": 3
+    },
+    "lat": 43.172555,
+    "lng": -79.035878
+  },
+  "Charleston, SC": {
+    "count": 3,
+    "venues": {
+      "Gaillard Municipal Auditorium": 3
+    },
+    "lat": 32.7884363,
+    "lng": -79.9399309
+  },
+  "Dublin, IRELAND": {
+    "count": 3,
+    "venues": {
+      "National Concert Hall": 3
+    },
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  "Farmingville, NY": {
+    "count": 3,
+    "venues": {
+      "Brookhaven Amphitheater": 3
+    },
+    "lat": 40.8406525,
+    "lng": -73.0349423
+  },
+  "Kaohsiung, TAIWAN": {
+    "count": 3,
+    "venues": {
+      "Chiang Kai Shek Cultural Center": 1,
+      "Kaohsiung Cultural Center (Chih-Teh Hall)": 1,
+      "National Kaohsiung Center for the Arts": 1
+    },
+    "lat": 22.6203348,
+    "lng": 120.3120375
+  },
+  "Abu Dhabi, UNITED ARAB EMIRATES": {
+    "count": 3,
+    "venues": {
+      "Emirates Palace Auditorium": 2,
+      "U.S. Ambassador's Residence": 1
+    },
+    "lat": 24.4538352,
+    "lng": 54.3774014
+  },
+  "Nanjing, China": {
+    "count": 3,
+    "venues": {
+      "Jiangsu Grand Theatre": 2,
+      "Golden Eagle International Shopping Center": 1
+    },
+    "lat": 32.0438284,
+    "lng": 118.7788631
+  },
+  "Peenemünde, Usedom, Germany": {
+    "count": 3,
+    "venues": {
+      "Kraftwerk Peenemünde": 3
+    },
+    "lat": 54.1355894,
+    "lng": 13.7730504
+  },
+  "Peoria, IL": {
+    "count": 2,
+    "venues": {
+      "Coliseum": 1,
+      "Unknown Venue": 1
+    },
+    "lat": 40.6938609,
+    "lng": -89.5891008
+  },
+  "St. Paul, MN": {
+    "count": 2,
+    "venues": {
+      "People's Church": 1,
+      "St. Paul Auditorium": 1
+    },
+    "lat": 44.9497487,
+    "lng": -93.0931028
+  },
+  "Oklahoma City, OK": {
+    "count": 2,
+    "venues": {
+      "New Opera House": 1,
+      "Unknown Venue": 1
+    },
+    "lat": 35.4729886,
+    "lng": -97.5170536
+  },
+  "Trenton, NJ": {
+    "count": 2,
+    "venues": {
+      "Taylor Opera House": 1,
+      "Broad Street Theatre": 1
+    },
+    "lat": 40.2203074,
+    "lng": -74.7659
+  },
+  "Auburn, NY": {
+    "count": 2,
+    "venues": {
+      "Burtis Auditorium": 1,
+      "State Armory": 1
+    },
+    "lat": 42.9320202,
+    "lng": -76.5672029
+  },
+  "York, PA": {
+    "count": 2,
+    "venues": {
+      "York Opera House": 1,
+      "William Penn High School": 1
+    },
+    "lat": 39.962493,
+    "lng": -76.7276989
+  },
+  "New Castle, PA": {
+    "count": 2,
+    "venues": {
+      "High School Auditorium": 2
+    },
+    "lat": 40.9999202,
+    "lng": -80.3471856
+  },
+  "Jamestown, NY": {
+    "count": 2,
+    "venues": {
+      "Samuels Opera House": 2
+    },
+    "lat": 42.0965167,
+    "lng": -79.2380322
+  },
+  "Watertown, NY": {
+    "count": 2,
+    "venues": {
+      "City Opera House": 1,
+      "Olympic Theatre": 1
+    },
+    "lat": 43.9747838,
+    "lng": -75.9107565
+  },
+  "Middlebury, CT": {
+    "count": 2,
+    "venues": {
+      "Westover School": 2
+    },
+    "lat": 41.5278663,
+    "lng": -73.1283092
+  },
+  "Kent, OH": {
+    "count": 2,
+    "venues": {
+      "Auditorium": 2
+    },
+    "lat": 41.1513108,
+    "lng": -81.3578047
+  },
+  "Urbana, IL": {
+    "count": 2,
+    "venues": {
+      "The Auditorium": 2
+    },
+    "lat": 40.1117174,
+    "lng": -88.207301
+  },
+  "Dubuque, IA": {
+    "count": 2,
+    "venues": {
+      "Majestic Theatre": 2
+    },
+    "lat": 42.5006243,
+    "lng": -90.6647985
+  },
+  "Cedar Falls, IA": {
+    "count": 2,
+    "venues": {
+      "College Auditorium": 2
+    },
+    "lat": 42.5361805,
+    "lng": -92.447758
+  },
+  "Ardmore, OK": {
+    "count": 2,
+    "venues": {
+      "High School Auditorium": 2
+    },
+    "lat": 34.1729273,
+    "lng": -97.1309119
+  },
+  "Shreveport, LA": {
+    "count": 2,
+    "venues": {
+      "Grand Opera House": 2
+    },
+    "lat": 32.5135356,
+    "lng": -93.7477839
+  },
+  "Mobile, AL": {
+    "count": 2,
+    "venues": {
+      "Lyric Theatre": 2
+    },
+    "lat": 30.6913462,
+    "lng": -88.0437509
+  },
+  "Tiffin, OH": {
+    "count": 2,
+    "venues": {
+      "Grand Opera House": 1,
+      "Grand Theater": 1
+    },
+    "lat": 41.114485,
+    "lng": -83.1779537
+  },
+  "Wrightstown, NJ": {
+    "count": 2,
+    "venues": {
+      "Camp Dix": 1,
+      "McGuire Air Force Base": 1
+    },
+    "lat": 40.0362241,
+    "lng": -74.6179344
+  },
+  "Granville, OH": {
+    "count": 2,
+    "venues": {
+      "Baptist Church": 2
+    },
+    "lat": 40.0681192,
+    "lng": -82.5196037
+  },
+  "Ft. Wayne, IN": {
+    "count": 2,
+    "venues": {
+      "Palace Theatre": 1,
+      "Shrine Auditorium": 1
+    },
+    "lat": 41.0799898,
+    "lng": -85.1386015
+  },
+  "Erie, PA": {
+    "count": 2,
+    "venues": {
+      "Park Opera House": 2
+    },
+    "lat": 42.1294712,
+    "lng": -80.0852695
+  },
+  "Marseille, FRANCE": {
+    "count": 2,
+    "venues": {
+      "Grand Casino": 2
+    },
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  "Monte Carlo, MONACO": {
+    "count": 2,
+    "venues": {
+      "Salle de Concerts, Casino de Monte-Carlo": 1,
+      "Theatre de L'Opera": 1
+    },
+    "lat": 43.7402961,
+    "lng": 7.426559
+  },
+  "Antwerp, BELGIUM": {
+    "count": 2,
+    "venues": {
+      "Theatre royale d'Anvers": 1,
+      "Queen Elisabeth Hall": 1
+    },
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  "Allentown, PA": {
+    "count": 2,
+    "venues": {
+      "Lyric Theatre": 1,
+      "Art Museum": 1
+    },
+    "lat": 40.6022552,
+    "lng": -75.4716115
+  },
+  "El Paso, TX": {
+    "count": 2,
+    "venues": {
+      "Liberty Hall": 1,
+      "The Coliseum": 1
+    },
+    "lat": 31.7601001,
+    "lng": -106.4870476
+  },
+  "Tucson, AZ": {
+    "count": 2,
+    "venues": {
+      "Armory": 1,
+      "University of Arizona": 1
+    },
+    "lat": 32.2228765,
+    "lng": -110.974847
+  },
+  "Phoenix, AZ": {
+    "count": 2,
+    "venues": {
+      "High School Auditorium": 1,
+      "Montgomery Stadium": 1
+    },
+    "lat": 33.4484367,
+    "lng": -112.074141
+  },
+  "Berkeley, CA": {
+    "count": 2,
+    "venues": {
+      "Greek Theatre": 1,
+      "Berkeley Community Theatre": 1
+    },
+    "lat": 37.8708393,
+    "lng": -122.272863
+  },
+  "Lincoln, NE": {
+    "count": 2,
+    "venues": {
+      "City Auditorium": 2
+    },
+    "lat": 40.8088861,
+    "lng": -96.7077751
+  },
+  "Sioux Falls, SD": {
+    "count": 2,
+    "venues": {
+      "Coliseum Theater": 1,
+      "Washington Pavilion of Arts and Sciences": 1
+    },
+    "lat": 43.5476008,
+    "lng": -96.7293629
+  },
+  "Duluth, MN": {
+    "count": 2,
+    "venues": {
+      "New Armory": 2
+    },
+    "lat": 46.7838287,
+    "lng": -92.1052679
+  },
+  "London, CANADA": {
+    "count": 2,
+    "venues": {
+      "Winter Garden": 1,
+      "Centennial Hall": 1
+    },
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  "Plainfield, NJ": {
+    "count": 2,
+    "venues": {
+      "Plainfield High School": 2
+    },
+    "lat": 40.6201412,
+    "lng": -74.4222416
+  },
+  "High Seas (International Waters)": {
+    "count": 2,
+    "venues": {
+      "French Line Grand Salon": 2
+    },
+    "geocode_failed": true
+  },
+  "Kalamazoo, MI": {
+    "count": 2,
+    "venues": {
+      "Central High School": 1,
+      "Miller Auditorium": 1
+    },
+    "lat": 42.291707,
+    "lng": -85.5872286
+  },
+  "West Point, NY": {
+    "count": 2,
+    "venues": {
+      "War Department Theatre": 1,
+      "Eisenhower Hall": 1
+    },
+    "lat": 41.3926455,
+    "lng": -73.9599242
+  },
+  "Durham, NC": {
+    "count": 2,
+    "venues": {
+      "Page Auditorium": 1,
+      "Cameron Indoor Stadium": 1
+    },
+    "lat": 35.996653,
+    "lng": -78.9018053
+  },
+  "Charleston, WV": {
+    "count": 2,
+    "venues": {
+      "Municipal Auditorium": 2
+    },
+    "lat": 38.3505995,
+    "lng": -81.6332812
+  },
+  "Corning, NY": {
+    "count": 2,
+    "venues": {
+      "Glass Center": 2
+    },
+    "lat": 42.1435257,
+    "lng": -77.0543408
+  },
+  "Urbana-Champaign, IL": {
+    "count": 2,
+    "venues": {
+      "George Huff Gymnasium": 1,
+      "Assembly Hall": 1
+    },
+    "lat": 40.1133258,
+    "lng": -88.1673914
+  },
+  "Topeka, KS": {
+    "count": 2,
+    "venues": {
+      "Unknown Venue": 1,
+      "Municipal Auditorium": 1
+    },
+    "lat": 39.049011,
+    "lng": -95.677556
+  },
+  "Eugene, OR": {
+    "count": 2,
+    "venues": {
+      "McArthur Court Auditorium": 1,
+      "Hult Center for the Performing Arts": 1
+    },
+    "lat": 44.0505054,
+    "lng": -123.0950506
+  },
+  "Garden City, NY": {
+    "count": 2,
+    "venues": {
+      "Garden City High School": 1,
+      "Unknown Venue": 1
+    },
+    "lat": 40.7266477,
+    "lng": -73.6343052
+  },
+  "Quito, ECUADOR": {
+    "count": 2,
+    "venues": {
+      "Teatro Bolivar": 2
+    },
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  "Lima, PERU": {
+    "count": 2,
+    "venues": {
+      "Municipal Theatre": 2
+    },
+    "lat": -12.0459808,
+    "lng": -77.0305912
+  },
+  "La Paz, BOLIVIA": {
+    "count": 2,
+    "venues": {
+      "Teatro Municipal": 2
+    },
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  "Asuncion, PARAGUAY": {
+    "count": 2,
+    "venues": {
+      "Teatro Municipal": 2
+    },
+    "lat": -25.2800459,
+    "lng": -57.6343814
+  },
+  "Baalbeck, LEBANON": {
+    "count": 2,
+    "venues": {
+      "Court of the Altar": 2
+    },
+    "lat": 34.0057062,
+    "lng": 36.203913
+  },
+  "Belgrade, SERBIA": {
+    "count": 2,
+    "venues": {
+      "Dom Sindikatu": 1,
+      "Sala Sava": 1
+    },
+    "lat": 44.8153318,
+    "lng": 20.4456588
+  },
+  "Oslo, NORWAY": {
+    "count": 2,
+    "venues": {
+      "Folketeatret": 1,
+      "Konserthuset": 1
+    },
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  "Atlantic City, NJ": {
+    "count": 2,
+    "venues": {
+      "Convention Hall Ballroom": 1,
+      "Superstar Theatre": 1
+    },
+    "lat": 39.3642852,
+    "lng": -74.4229351
+  },
+  "Winnipeg, CANADA": {
+    "count": 2,
+    "venues": {
+      "Winnipeg Auditorium": 2
+    },
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  "Manchester, ENGLAND": {
+    "count": 2,
+    "venues": {
+      "Free Trade Hall": 2
+    },
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  "Montreux, SWITZERLAND": {
+    "count": 2,
+    "venues": {
+      "Salle du Pavillon": 2
+    },
+    "lat": 46.4310831,
+    "lng": 6.9129921
+  },
+  "Fukuoka, JAPAN": {
+    "count": 2,
+    "venues": {
+      "The Sport Center": 1,
+      "Acros Fukuoka": 1
+    },
+    "lat": 33.6251241,
+    "lng": 130.6180016
+  },
+  "Greenville, SC": {
+    "count": 2,
+    "venues": {
+      "Memorial Auditorium": 1,
+      "McAlister Auditorium": 1
+    },
+    "lat": 34.851354,
+    "lng": -82.3984882
+  },
+  "Orlando, FL": {
+    "count": 2,
+    "venues": {
+      "Municipal Auditorium": 1,
+      "Bob Carr Performing Arts Centre": 1
+    },
+    "lat": 28.5421218,
+    "lng": -81.379045
+  },
+  "Sydney, AUSTRALIA": {
+    "count": 2,
+    "venues": {
+      "Opera House": 2
+    },
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  "Mannheim, W. GERMANY": {
+    "count": 2,
+    "venues": {
+      "Kultur- und Kongresszentrum am Rosengarten": 2
+    },
+    "lat": 49.4892913,
+    "lng": 8.4673098
+  },
+  "Malmo, SWEDEN": {
+    "count": 2,
+    "venues": {
+      "Stadsteater": 2
+    },
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  "Niigata, JAPAN": {
+    "count": 2,
+    "venues": {
+      "Kenmin Kaikan": 2
+    },
+    "lat": 37.6452283,
+    "lng": 138.7669125
+  },
+  "Santo Domingo, DOMINICAN REPUBLIC": {
+    "count": 2,
+    "venues": {
+      "Teatro Nacional": 2
+    },
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  "Guanajuato, MEXICO": {
+    "count": 2,
+    "venues": {
+      "Teatro Juárez": 2
+    },
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  "Bangkok, THAILAND": {
+    "count": 2,
+    "venues": {
+      "Thammasat University": 1,
+      "Thailand Cultural Center": 1
+    },
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  "Jakarta, INDONESIA": {
+    "count": 2,
+    "venues": {
+      "Jakarta Convention Center": 2
+    },
+    "lat": -6.1754049,
+    "lng": 106.827168
+  },
+  "Tel Aviv, ISRAEL": {
+    "count": 2,
+    "venues": {
+      "Hayarkon Park": 1,
+      "Mann Auditorium": 1
+    },
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  "Hauppauge, NY": {
+    "count": 2,
+    "venues": {
+      "Hauppage High School": 2
+    },
+    "lat": 40.8237354,
+    "lng": -73.2062289
+  },
+  "Monterey, MEXICO": {
+    "count": 2,
+    "venues": {
+      "Museo de Arte Contemporaneo de Monterrey (MARCO)": 2
+    },
+    "lat": 20.9032562,
+    "lng": -101.5348998
+  },
+  "Fukui, JAPAN": {
+    "count": 2,
+    "venues": {
+      "Harmony Hall": 2
+    },
+    "lat": 35.9263502,
+    "lng": 136.6068127
+  },
+  "Valencia, SPAIN": {
+    "count": 2,
+    "venues": {
+      "Salon Alfons el Magnanim": 1,
+      "Palao de la Musica": 1
+    },
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  "Zaragoza, SPAIN": {
+    "count": 2,
+    "venues": {
+      "Auditorio y Palacio de Congresos": 2
+    },
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  "Kuala Lumpur, MALAYSIA": {
+    "count": 2,
+    "venues": {
+      "Petronas Concert Hall": 2
+    },
+    "lat": 3.1516964,
+    "lng": 101.6942371
+  },
+  "Purchase, NY": {
+    "count": 2,
+    "venues": {
+      "Performing Arts Center": 2
+    },
+    "lat": 41.0409305,
+    "lng": -73.7145746
+  },
+  "Daejeon, SOUTH KOREA": {
+    "count": 2,
+    "venues": {
+      "Daejeon Culture and Arts Center": 2
+    },
+    "lat": 36.3497007,
+    "lng": 127.3849016
+  },
+  "Ravenna, ITALY": {
+    "count": 2,
+    "venues": {
+      "Palazzo Mauro de André": 2
+    },
+    "lat": 44.3640607,
+    "lng": 12.0590095
+  },
+  "Ljubljana, SLOVENIA": {
+    "count": 2,
+    "venues": {
+      "Cankarjev dom (Gallus Hall)": 2
+    },
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  "Chapel Hill, NC": {
+    "count": 2,
+    "venues": {
+      "University of North Carolina (Memorial Hall)": 2
+    },
+    "lat": 35.9131542,
+    "lng": -79.05578
+  },
+  "Katonah, NY": {
+    "count": 2,
+    "venues": {
+      "Caramoor Venetian Theater": 2
+    },
+    "lat": 41.2558715,
+    "lng": -73.6847453
+  },
+  "Hanoi, VIETNAM": {
+    "count": 2,
+    "venues": {
+      "Hanoi Opera House": 2
+    },
+    "lat": 21.0283334,
+    "lng": 105.854041
+  },
+  "Dortmund, GERMANY": {
+    "count": 2,
+    "venues": {
+      "Konzerthaus": 2
+    },
+    "lat": 51.5142273,
+    "lng": 7.4652789
+  },
+  "Palm Beach, FL": {
+    "count": 2,
+    "venues": {
+      "Home of Ann and Charles Johnson": 2
+    },
+    "lat": 26.6279798,
+    "lng": -80.4494174
+  },
+  "Gloversville, NY": {
+    "count": 1,
+    "venues": {
+      "Darling Theatre": 1
+    },
+    "lat": 43.0505021,
+    "lng": -74.3457623
+  },
+  "Johnstown, PA": {
+    "count": 1,
+    "venues": {
+      "Cambria Theater": 1
+    },
+    "lat": 40.3267407,
+    "lng": -78.9219698
+  },
+  "Oswego, NY": {
+    "count": 1,
+    "venues": {
+      "Richardson Theater": 1
+    },
+    "lat": 43.4112973,
+    "lng": -76.1279841
+  },
+  "Cedar Rapids, IA": {
+    "count": 1,
+    "venues": {
+      "Greene's Opera House": 1
+    },
+    "lat": 41.9758872,
+    "lng": -91.6704053
+  },
+  "Oskaloosa, IA": {
+    "count": 1,
+    "venues": {
+      "Penn College Auditorium": 1
+    },
+    "lat": 41.2951037,
+    "lng": -92.6448451
+  },
+  "Hays, KS": {
+    "count": 1,
+    "venues": {
+      "Normal Auditorium": 1
+    },
+    "lat": 38.8709984,
+    "lng": -99.3311525
+  },
+  "Lindsborg, KS": {
+    "count": 1,
+    "venues": {
+      "Bethany College Auditorium": 1
+    },
+    "lat": 38.5736176,
+    "lng": -97.6744838
+  },
+  "Shawnee, OK": {
+    "count": 1,
+    "venues": {
+      "Unknown Venue": 1
+    },
+    "lat": 35.3272928,
+    "lng": -96.9253004
+  },
+  "Denton, TX": {
+    "count": 1,
+    "venues": {
+      "College of Industrial Arts": 1
+    },
+    "lat": 33.1838787,
+    "lng": -97.1413417
+  },
+  "Austin, TX": {
+    "count": 1,
+    "venues": {
+      "University Auditorium": 1
+    },
+    "lat": 30.2711286,
+    "lng": -97.7436995
+  },
+  "Galveston, TX": {
+    "count": 1,
+    "venues": {
+      "City Auditorium": 1
+    },
+    "lat": 29.3872254,
+    "lng": -94.992736
+  },
+  "Meridian, MS": {
+    "count": 1,
+    "venues": {
+      "Grand Opera House": 1
+    },
+    "lat": 32.3643098,
+    "lng": -88.703656
+  },
+  "Jackson, MS": {
+    "count": 1,
+    "venues": {
+      "Unknown Venue": 1
+    },
+    "lat": 32.2998686,
+    "lng": -90.1830408
+  },
+  "Geneva, NY": {
+    "count": 1,
+    "venues": {
+      "Smith Opera House": 1
+    },
+    "lat": 42.8690271,
+    "lng": -76.9786122
+  },
+  "Rome, NY": {
+    "count": 1,
+    "venues": {
+      "Family Theater": 1
+    },
+    "lat": 43.2102196,
+    "lng": -75.4583956
+  },
+  "Newburgh, NY": {
+    "count": 1,
+    "venues": {
+      "Academy of Music": 1
+    },
+    "lat": 41.5000767,
+    "lng": -74.0098299
+  },
+  "East Orange, NJ": {
+    "count": 1,
+    "venues": {
+      "High School Auditorium": 1
+    },
+    "lat": 40.7642404,
+    "lng": -74.215011
+  },
+  "Torrington, CT": {
+    "count": 1,
+    "venues": {
+      "City Hall": 1
+    },
+    "lat": 41.8006523,
+    "lng": -73.1212214
+  },
+  "Meriden, CT": {
+    "count": 1,
+    "venues": {
+      "Auditorium": 1
+    },
+    "lat": 41.5381535,
+    "lng": -72.8070435
+  },
+  "Findlay, OH": {
+    "count": 1,
+    "venues": {
+      "Marvin Theater": 1
+    },
+    "lat": 41.0413873,
+    "lng": -83.6503982
+  },
+  "Delaware, OH": {
+    "count": 1,
+    "venues": {
+      "Ohio Wesleyan University": 1
+    },
+    "lat": 40.2317686,
+    "lng": -82.9651045
+  },
+  "Newark, OH": {
+    "count": 1,
+    "venues": {
+      "Auditorium Theatre": 1
+    },
+    "lat": 40.0581205,
+    "lng": -82.4012643
+  },
+  "Yaphank, NY": {
+    "count": 1,
+    "venues": {
+      "YMCA Auditorium": 1
+    },
+    "lat": 40.832188,
+    "lng": -72.9299685
+  },
+  "Manchester, NH": {
+    "count": 1,
+    "venues": {
+      "The Academy": 1
+    },
+    "lat": 42.9956397,
+    "lng": -71.4547891
+  },
+  "Springfield, OH": {
+    "count": 1,
+    "venues": {
+      "Memorial Hall": 1
+    },
+    "lat": 39.9234046,
+    "lng": -83.810138
+  },
+  "Youngstown, OH": {
+    "count": 1,
+    "venues": {
+      "Park Theater": 1
+    },
+    "lat": 41.1035786,
+    "lng": -80.6520161
+  },
+  "Ashtabula, OH": {
+    "count": 1,
+    "venues": {
+      "High School Auditorium": 1
+    },
+    "lat": 41.8647873,
+    "lng": -80.7841284
+  },
+  "Niagara Falls, NY": {
+    "count": 1,
+    "venues": {
+      "The Armory": 1
+    },
+    "lat": 43.084841,
+    "lng": -79.0701786
+  },
+  "Bordeaux, FRANCE": {
+    "count": 1,
+    "venues": {
+      "Grand-Théâtre": 1
+    },
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  "Lyon, FRANCE": {
+    "count": 1,
+    "venues": {
+      "Salle Rameau": 1
+    },
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  "Genoa, ITALY": {
+    "count": 1,
+    "venues": {
+      "Teatro Carlo Felice": 1
+    },
+    "lat": 44.40726,
+    "lng": 8.9338624
+  },
+  "Strasbourg, FRANCE": {
+    "count": 1,
+    "venues": {
+      "Salle du Palais des fetes": 1
+    },
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  "Metz, FRANCE": {
+    "count": 1,
+    "venues": {
+      "Théâtre Municipal": 1
+    },
+    "lat": 49.1196964,
+    "lng": 6.1763552
+  },
+  "Nancy, FRANCE": {
+    "count": 1,
+    "venues": {
+      "None": 1
+    },
+    "lat": 48.6937223,
+    "lng": 6.1834097
+  },
+  "Fontainebleau, FRANCE": {
+    "count": 1,
+    "venues": {
+      "Grand Manège de l'École d'Artillerie": 1
+    },
+    "lat": 48.4049375,
+    "lng": 2.7015872
+  },
+  "Liege, BELGIUM": {
+    "count": 1,
+    "venues": {
+      "Salle du conservatoire": 1
+    },
+    "lat": 50.4708135,
+    "lng": 5.7735658
+  },
+  "Middlebury, VT": {
+    "count": 1,
+    "venues": {
+      "Mead Memorial Chapel": 1
+    },
+    "lat": 44.014299,
+    "lng": -73.167229
+  },
+  "North Adams, MA": {
+    "count": 1,
+    "venues": {
+      "Drury Auditorium": 1
+    },
+    "lat": 42.6990349,
+    "lng": -73.1118997
+  },
+  "Hagerstown, MD": {
+    "count": 1,
+    "venues": {
+      "Nixon's Academy of Music": 1
+    },
+    "lat": 39.6430455,
+    "lng": -77.7191081
+  },
+  "Easton, PA": {
+    "count": 1,
+    "venues": {
+      "Orpheum Theatre": 1
+    },
+    "lat": 40.6916081,
+    "lng": -75.2099866
+  },
+  "Cumberland, MD": {
+    "count": 1,
+    "venues": {
+      "Strand Theatre": 1
+    },
+    "lat": 39.6526498,
+    "lng": -78.762383
+  },
+  "Greensburg, PA": {
+    "count": 1,
+    "venues": {
+      "High School Auditorium": 1
+    },
+    "lat": 40.3024514,
+    "lng": -79.5443274
+  },
+  "Evansville, IN": {
+    "count": 1,
+    "venues": {
+      "Coliseum Theatre": 1
+    },
+    "lat": 37.970495,
+    "lng": -87.5715641
+  },
+  "Spokane, WA": {
+    "count": 1,
+    "venues": {
+      "Auditorium Theatre": 1
+    },
+    "lat": 47.6571934,
+    "lng": -117.42351
+  },
+  "Walla Walla, WA": {
+    "count": 1,
+    "venues": {
+      "Keylor Grand": 1
+    },
+    "lat": 46.2055155,
+    "lng": -118.5174284
+  },
+  "Le Grande, OR": {
+    "count": 1,
+    "venues": {
+      "L.D.S. Tabernacle": 1
+    },
+    "lat": 46.8028659,
+    "lng": -1.8985673
+  },
+  "Grand Junction, CO": {
+    "count": 1,
+    "venues": {
+      "The Armory": 1
+    },
+    "lat": 39.0672568,
+    "lng": -108.56448
+  },
+  "Colorado Springs, CO": {
+    "count": 1,
+    "venues": {
+      "Burns Theater": 1
+    },
+    "lat": 38.8339578,
+    "lng": -104.825348
+  },
+  "Pueblo, CO": {
+    "count": 1,
+    "venues": {
+      "City Auditorium": 1
+    },
+    "lat": 38.263995,
+    "lng": -104.6141867
+  },
+  "Manhattan, KS": {
+    "count": 1,
+    "venues": {
+      "College Auditorium": 1
+    },
+    "lat": 39.1836082,
+    "lng": -96.5716694
+  },
+  "Lawrence, KS": {
+    "count": 1,
+    "venues": {
+      "Robinson Gymnasium": 1
+    },
+    "lat": 38.9719137,
+    "lng": -95.2359403
+  },
+  "St. Joseph, MO": {
+    "count": 1,
+    "venues": {
+      "Lyceum Theatre": 1
+    },
+    "lat": 39.7686055,
+    "lng": -94.8466322
+  },
+  "Sioux City, IA": {
+    "count": 1,
+    "venues": {
+      "High School Auditorium": 1
+    },
+    "lat": 42.4966815,
+    "lng": -96.4058782
+  },
+  "Fargo, ND": {
+    "count": 1,
+    "venues": {
+      "Armory": 1
+    },
+    "lat": 46.877229,
+    "lng": -96.789821
+  },
+  "Grand Forks, ND": {
+    "count": 1,
+    "venues": {
+      "City Auditorium": 1
+    },
+    "lat": 47.9252104,
+    "lng": -97.0306325
+  },
+  "Eau Claire, WI": {
+    "count": 1,
+    "venues": {
+      "Auditorium": 1
+    },
+    "lat": 44.811349,
+    "lng": -91.4984941
+  },
+  "Wausau, WI": {
+    "count": 1,
+    "venues": {
+      "Rothschild Park Pavilion": 1
+    },
+    "lat": 44.9597858,
+    "lng": -89.6272791
+  },
+  "Appleton, WI": {
+    "count": 1,
+    "venues": {
+      "Lawrence Memorial Chapel": 1
+    },
+    "lat": 44.2613967,
+    "lng": -88.4069744
+  },
+  "Evanston, IL": {
+    "count": 1,
+    "venues": {
+      "Gymnasium": 1
+    },
+    "lat": 42.0470043,
+    "lng": -87.6846053
+  },
+  "Decatur, IL": {
+    "count": 1,
+    "venues": {
+      "Lincoln Square Theatre": 1
+    },
+    "lat": 39.8454163,
+    "lng": -88.9524151
+  },
+  "Jacksonville, IL": {
+    "count": 1,
+    "venues": {
+      "Grand Opera": 1
+    },
+    "lat": 39.7343697,
+    "lng": -90.228782
+  },
+  "Lima, OH": {
+    "count": 1,
+    "venues": {
+      "Memorial Hall": 1
+    },
+    "lat": 40.7399785,
+    "lng": -84.105006
+  },
+  "Burlington, VT": {
+    "count": 1,
+    "venues": {
+      "Gymnasium": 1
+    },
+    "lat": 44.4761601,
+    "lng": -73.212906
+  },
+  "Hanover, NH": {
+    "count": 1,
+    "venues": {
+      "Webster Hall": 1
+    },
+    "lat": 43.7023545,
+    "lng": -72.2892164
+  },
+  "Lancaster, PA": {
+    "count": 1,
+    "venues": {
+      "Fulton Opera House": 1
+    },
+    "lat": 40.0379958,
+    "lng": -76.3056707
+  },
+  "Stamford, CT": {
+    "count": 1,
+    "venues": {
+      "State Armory": 1
+    },
+    "lat": 41.0534302,
+    "lng": -73.5387341
+  },
+  "Salem, MA": {
+    "count": 1,
+    "venues": {
+      "State Armory": 1
+    },
+    "lat": 42.5195292,
+    "lng": -70.8967226
+  },
+  "Greenwich, CT": {
+    "count": 1,
+    "venues": {
+      "Pickwick Theatre": 1
+    },
+    "lat": 41.0264862,
+    "lng": -73.6284598
+  },
+  "Hamilton, CANADA": {
+    "count": 1,
+    "venues": {
+      "Palace Theatre": 1
+    },
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  "Saginaw, MI": {
+    "count": 1,
+    "venues": {
+      "Saginaw Auditorium": 1
+    },
+    "lat": 43.4200387,
+    "lng": -83.9490365
+  },
+  "Lansing, MI": {
+    "count": 1,
+    "venues": {
+      "Prudden Auditorium": 1
+    },
+    "lat": 42.7338254,
+    "lng": -84.5546295
+  },
+  "Red Bank, NJ": {
+    "count": 1,
+    "venues": {
+      "Fort Monmouth": 1
+    },
+    "lat": 40.3470543,
+    "lng": -74.0643065
+  },
+  "LYME, CT": {
+    "count": 1,
+    "venues": {
+      "Whithorne Residence": 1
+    },
+    "lat": 41.394496,
+    "lng": -72.3510347
+  },
+  "Norfolk, VA": {
+    "count": 1,
+    "venues": {
+      "Unknown Venue": 1
+    },
+    "lat": 36.8493695,
+    "lng": -76.2899539
+  },
+  "East Lansing, MI": {
+    "count": 1,
+    "venues": {
+      "College Auditorium": 1
+    },
+    "lat": 42.7320307,
+    "lng": -84.4721678
+  },
+  "Portland, ME": {
+    "count": 1,
+    "venues": {
+      "City Hall Auditorium": 1
+    },
+    "lat": 43.6573605,
+    "lng": -70.2586618
+  },
+  "Roslyn, NY": {
+    "count": 1,
+    "venues": {
+      "Roslyn High School": 1
+    },
+    "lat": 40.7998227,
+    "lng": -73.6509621
+  },
+  "Richmond Hill, NY": {
+    "count": 1,
+    "venues": {
+      "Richmond Hill High School": 1
+    },
+    "lat": 40.6994253,
+    "lng": -73.8309672
+  },
+  "Huntington, NY": {
+    "count": 1,
+    "venues": {
+      "Junior High School (R.K. Toaz)": 1
+    },
+    "lat": 40.868154,
+    "lng": -73.425676
+  },
+  "Huntington, WV": {
+    "count": 1,
+    "venues": {
+      "Keith-Albee Theatre": 1
+    },
+    "lat": 38.4192496,
+    "lng": -82.445154
+  },
+  "Clemson, SC": {
+    "count": 1,
+    "venues": {
+      "Clemson College": 1
+    },
+    "lat": 34.6850749,
+    "lng": -82.8364111
+  },
+  "Greensboro, NC": {
+    "count": 1,
+    "venues": {
+      "Aycock Auditorium": 1
+    },
+    "lat": 36.0726355,
+    "lng": -79.7919754
+  },
+  "Lafayette, IN": {
+    "count": 1,
+    "venues": {
+      "Purdue Hall of Music": 1
+    },
+    "lat": 40.4191229,
+    "lng": -86.8919011
+  },
+  "Albuquerque, NM": {
+    "count": 1,
+    "venues": {
+      "Carlisle Gynmasium, University of New Mexico": 1
+    },
+    "lat": 35.0841034,
+    "lng": -106.650985
+  },
+  "Pasadena, CA": {
+    "count": 1,
+    "venues": {
+      "Civic Auditorium": 1
+    },
+    "lat": 34.1476507,
+    "lng": -118.144155
+  },
+  "Fresno, CA": {
+    "count": 1,
+    "venues": {
+      "Warners Fresno Theatre": 1
+    },
+    "lat": 36.7394421,
+    "lng": -119.78483
+  },
+  "Corvallis, OR": {
+    "count": 1,
+    "venues": {
+      "Gill Coliseum": 1
+    },
+    "lat": 44.5645659,
+    "lng": -123.2620435
+  },
+  "Provo, UT": {
+    "count": 1,
+    "venues": {
+      "Smith Fieldhouse (George Albert)": 1
+    },
+    "lat": 40.2337289,
+    "lng": -111.6587085
+  },
+  "Geneva, SWITZERLAND": {
+    "count": 1,
+    "venues": {
+      "Victoria Hall": 1
+    },
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  "Berne, SWITZERLAND": {
+    "count": 1,
+    "venues": {
+      "Casino": 1
+    },
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  "Perugia, ITALY": {
+    "count": 1,
+    "venues": {
+      "Teatro Morlacchi": 1
+    },
+    "lat": 43.1070321,
+    "lng": 12.4029962
+  },
+  "Naples, ITALY": {
+    "count": 1,
+    "venues": {
+      "Teatro di San Carlo": 1
+    },
+    "lat": 40.8358846,
+    "lng": 14.2487679
+  },
+  "Panama City, PANAMA": {
+    "count": 1,
+    "venues": {
+      "Rio Theatre": 1
+    },
+    "lat": 8.9714493,
+    "lng": -79.5341802
+  },
+  "Maracaibo, VENEZUELA": {
+    "count": 1,
+    "venues": {
+      "Club Alianza": 1
+    },
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  "Medellin, COLOMBIA": {
+    "count": 1,
+    "venues": {
+      "Teatro Junín": 1
+    },
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  "Cali, COLOMBIA": {
+    "count": 1,
+    "venues": {
+      "Teatro Municipal": 1
+    },
+    "lat": 3.4108435,
+    "lng": -76.5812127
+  },
+  "Vina Del Mar, CHILE": {
+    "count": 1,
+    "venues": {
+      "Municipale de Vina del Mar": 1
+    },
+    "lat": -33.0244535,
+    "lng": -71.5517636
+  },
+  "Mendoza, ARGENTINA": {
+    "count": 1,
+    "venues": {
+      "Teatro Gran Rex": 1
+    },
+    "lat": -34.5970325,
+    "lng": -68.7304797
+  },
+  "Cordoba, ARGENTINA": {
+    "count": 1,
+    "venues": {
+      "Teatro Rivera Indarte": 1
+    },
+    "lat": -31.4166867,
+    "lng": -64.1834193
+  },
+  "Porto Alegre, BRAZIL": {
+    "count": 1,
+    "venues": {
+      "University Auditorium": 1
+    },
+    "lat": -30.0324999,
+    "lng": -51.2303767
+  },
+  "Englewood, NJ": {
+    "count": 1,
+    "venues": {
+      "Dwight Morrow High School": 1
+    },
+    "lat": 40.8929329,
+    "lng": -73.9726508
+  },
+  "Thessalonika, GREECE": {
+    "count": 1,
+    "venues": {
+      "Y.M.C.A. Stadium": 1
+    },
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  "Scheveningen, NETHERLANDS": {
+    "count": 1,
+    "venues": {
+      "Kurhaus": 1
+    },
+    "lat": 52.1067449,
+    "lng": 4.2736937
+  },
+  "Wiesbaden, W. GERMANY": {
+    "count": 1,
+    "venues": {
+      "Kurhaus-Saal": 1
+    },
+    "lat": 50.0820384,
+    "lng": 8.2416556
+  },
+  "Zagreb, CROATIA": {
+    "count": 1,
+    "venues": {
+      "Centar": 1
+    },
+    "lat": 45.8130967,
+    "lng": 15.9772795
+  },
+  "Turku (Abo), FINLAND": {
+    "count": 1,
+    "venues": {
+      "Concert House": 1
+    },
+    "lat": 60.4760144,
+    "lng": 22.2027408
+  },
+  "Goteborg, SWEDEN": {
+    "count": 1,
+    "venues": {
+      "Konserthuset": 1
+    },
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  "Shizuoka, JAPAN": {
+    "count": 1,
+    "venues": {
+      "City Hall": 1
+    },
+    "lat": 34.9751974,
+    "lng": 138.3831697
+  },
+  "Kobe, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Public Hall": 1
+    },
+    "lat": 34.6932379,
+    "lng": 135.1943764
+  },
+  "Hitachi City, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Kodaira Memorial Hall": 1
+    },
+    "lat": 36.556896,
+    "lng": 140.6264503
+  },
+  "Anchorage, AK": {
+    "count": 1,
+    "venues": {
+      "Romig Hill Auditorium": 1
+    },
+    "lat": 61.2163129,
+    "lng": -149.894852
+  },
+  "Jersey City, NJ": {
+    "count": 1,
+    "venues": {
+      "Stanley Theater": 1
+    },
+    "lat": 40.7215682,
+    "lng": -74.047455
+  },
+  "Cherry Hill, NJ": {
+    "count": 1,
+    "venues": {
+      "Delaware Valley Garden": 1
+    },
+    "lat": 39.9348351,
+    "lng": -75.0307264
+  },
+  "Monterey, CA": {
+    "count": 1,
+    "venues": {
+      "Monterey County Fairgrounds": 1
+    },
+    "lat": 36.2231079,
+    "lng": -121.387742
+  },
+  "Villanova, PA": {
+    "count": 1,
+    "venues": {
+      "Villanova University": 1
+    },
+    "lat": 40.0373323,
+    "lng": -75.3490769
+  },
+  "Storrs, CT": {
+    "count": 1,
+    "venues": {
+      "Jorgensen Auditorium": 1
+    },
+    "lat": 41.8085955,
+    "lng": -72.2512807
+  },
+  "Calgary, CANADA": {
+    "count": 1,
+    "venues": {
+      "Jubilee Auditorium": 1
+    },
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  "Edmonton, CANADA": {
+    "count": 1,
+    "venues": {
+      "Jubilee Auditorium": 1
+    },
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  "Halifax, CANADA": {
+    "count": 1,
+    "venues": {
+      "Halifax Forum": 1
+    },
+    "lat": 44.648618,
+    "lng": -63.5859487
+  },
+  "Dix Hills, NY": {
+    "count": 1,
+    "venues": {
+      "Half Hollow Hills High School Auditorium": 1
+    },
+    "lat": 40.802847,
+    "lng": -73.3371556
+  },
+  "Jerusalem, ISRAEL": {
+    "count": 1,
+    "venues": {
+      "Binyanei Ha'ooma": 1
+    },
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  "Caesarea, ISRAEL": {
+    "count": 1,
+    "venues": {
+      "Roman Theater": 1
+    },
+    "lat": 32.505968,
+    "lng": 34.9062151
+  },
+  "Wheaton, IL": {
+    "count": 1,
+    "venues": {
+      "Edman Memorial Chapel": 1
+    },
+    "lat": 41.8646959,
+    "lng": -88.1101709
+  },
+  "Sapporo, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Fuji Gakuen Hall": 1
+    },
+    "lat": 43.061936,
+    "lng": 141.3542924
+  },
+  "Hackensack, NJ": {
+    "count": 1,
+    "venues": {
+      "Orrie De Nooyer Auditorium": 1
+    },
+    "lat": 40.8870781,
+    "lng": -74.0410667
+  },
+  "Stratford, CANADA": {
+    "count": 1,
+    "venues": {
+      "Festival Theater": 1
+    },
+    "lat": 43.3700899,
+    "lng": -80.9818016
+  },
+  "Stevens Point, WI": {
+    "count": 1,
+    "venues": {
+      "University Fieldhouse": 1
+    },
+    "lat": 44.5234467,
+    "lng": -89.5844457
+  },
+  "Muncie, IN": {
+    "count": 1,
+    "venues": {
+      "Community Auditorium (Emens College)": 1
+    },
+    "lat": 40.1936892,
+    "lng": -85.3865271
+  },
+  "Wabash, IN": {
+    "count": 1,
+    "venues": {
+      "Honeywell Memorial Center": 1
+    },
+    "lat": 40.8065352,
+    "lng": -85.7833563
+  },
+  "Purdue, IN": {
+    "count": 1,
+    "venues": {
+      "Hall of Music (Edward C. Elliott)": 1
+    },
+    "lat": 40.430028,
+    "lng": -86.9264211
+  },
+  "Asheville, NC": {
+    "count": 1,
+    "venues": {
+      "Municipal Auditorium": 1
+    },
+    "lat": 35.595363,
+    "lng": -82.5508407
+  },
+  "Rock Hill, SC": {
+    "count": 1,
+    "venues": {
+      "Byrnes Auditorium": 1
+    },
+    "lat": 34.9248667,
+    "lng": -81.0250784
+  },
+  "Winston-Salem, NC": {
+    "count": 1,
+    "venues": {
+      "Wait Chapel Auditorium": 1
+    },
+    "lat": 36.0998131,
+    "lng": -80.2440518
+  },
+  "Auckland, NEW ZEALAND": {
+    "count": 1,
+    "venues": {
+      "Town Hall": 1
+    },
+    "lat": -36.852095,
+    "lng": 174.7631803
+  },
+  "Wellington, NEW ZEALAND": {
+    "count": 1,
+    "venues": {
+      "Town Hall": 1
+    },
+    "lat": -41.2887953,
+    "lng": 174.7772114
+  },
+  "Christchurch, NEW ZEALAND": {
+    "count": 1,
+    "venues": {
+      "Town Hall": 1
+    },
+    "lat": -43.530955,
+    "lng": 172.6364343
+  },
+  "Brisbane, AUSTRALIA": {
+    "count": 1,
+    "venues": {
+      "City Hall": 1
+    },
+    "lat": -27.365991,
+    "lng": 152.948963
+  },
+  "Adelaide, AUSTRALIA": {
+    "count": 1,
+    "venues": {
+      "Festival Theatre": 1
+    },
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  "Toyama, JAPAN": {
+    "count": 1,
+    "venues": {
+      "City Hall": 1
+    },
+    "lat": 36.6468015,
+    "lng": 137.2183531
+  },
+  "Chartres, FRANCE": {
+    "count": 1,
+    "venues": {
+      "Cathedrale de Chartres": 1
+    },
+    "lat": 48.4438601,
+    "lng": 1.4881434
+  },
+  "Uniondale, NY": {
+    "count": 1,
+    "venues": {
+      "Nassau Coliseum": 1
+    },
+    "lat": 40.7157545,
+    "lng": -73.5898872
+  },
+  "Daytona Beach, FL": {
+    "count": 1,
+    "venues": {
+      "Peabody Auditorium": 1
+    },
+    "lat": 29.2108147,
+    "lng": -81.0228331
+  },
+  "Deland, FL": {
+    "count": 1,
+    "venues": {
+      "Edmunds Activities Center": 1
+    },
+    "lat": 29.0281051,
+    "lng": -81.3034183
+  },
+  "Muenster, W. GERMANY": {
+    "count": 1,
+    "venues": {
+      "Halle Muensterland": 1
+    },
+    "lat": 51.9483211,
+    "lng": 7.642153
+  },
+  "Linz, AUSTRIA": {
+    "count": 1,
+    "venues": {
+      "Brucknerhaus": 1
+    },
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  "Pine Knob, MI": {
+    "count": 1,
+    "venues": {
+      "Pine Knob Theater": 1
+    },
+    "lat": 42.7433864,
+    "lng": -83.3691282
+  },
+  "Tarrytown, NY": {
+    "count": 1,
+    "venues": {
+      "Westchester Premier Theatre": 1
+    },
+    "lat": 41.0762077,
+    "lng": -73.8587461
+  },
+  "La Romana, DOMINICAN REPUBLIC": {
+    "count": 1,
+    "venues": {
+      "Baseball Stadium": 1
+    },
+    "lat": 18.4230137,
+    "lng": -68.9661104
+  },
+  "Bonao, DOMINICAN REPUBLIC": {
+    "count": 1,
+    "venues": {
+      "Falconbridge Club": 1
+    },
+    "lat": 18.9426446,
+    "lng": -70.4414197
+  },
+  "Ogden, UT": {
+    "count": 1,
+    "venues": {
+      "Dee Events Center": 1
+    },
+    "lat": 41.2230048,
+    "lng": -111.9738429
+  },
+  "Tempe, AZ": {
+    "count": 1,
+    "venues": {
+      "Gammage Center for the Performing Arts": 1
+    },
+    "lat": 33.4255117,
+    "lng": -111.940016
+  },
+  "Tulsa, OK": {
+    "count": 1,
+    "venues": {
+      "Performing Arts Center (Tulsa)": 1
+    },
+    "lat": 36.1563122,
+    "lng": -95.9927516
+  },
+  "New Delhi, INDIA": {
+    "count": 1,
+    "venues": {
+      "Siri Fort Cultural Center": 1
+    },
+    "lat": 28.6138954,
+    "lng": 77.2090057
+  },
+  "Calcutta, INDIA": {
+    "count": 1,
+    "venues": {
+      "Netaji Indoor Stadium": 1
+    },
+    "lat": 22.5726459,
+    "lng": 88.3638953
+  },
+  "Spartanburg, NC": {
+    "count": 1,
+    "venues": {
+      "Daniel Recital Hall": 1
+    },
+    "lat": 35.2934753,
+    "lng": -82.4238837
+  },
+  "Pleasantville, NY": {
+    "count": 1,
+    "venues": {
+      "unnamed park": 1
+    },
+    "lat": 41.1328736,
+    "lng": -73.7926335
+  },
+  "Cuyahoga Falls, OH": {
+    "count": 1,
+    "venues": {
+      "Blossom Music Center": 1
+    },
+    "lat": 41.1362729,
+    "lng": -81.4828123
+  },
+  "Brasilia, BRAZIL": {
+    "count": 1,
+    "venues": {
+      "Teatro Nacional": 1
+    },
+    "lat": -10.3333333,
+    "lng": -53.2
+  },
+  "Belo Horizonte, BRAZIL": {
+    "count": 1,
+    "venues": {
+      "Palacio des Artes": 1
+    },
+    "lat": -19.9227318,
+    "lng": -43.9450948
+  },
+  "Iguazu Falls, ARGENTINA": {
+    "count": 1,
+    "venues": {
+      "Hotel International": 1
+    },
+    "lat": -25.6925324,
+    "lng": -54.4411144
+  },
+  "Sheridan, WY": {
+    "count": 1,
+    "venues": {
+      "Sheridan High School": 1
+    },
+    "lat": 44.7947537,
+    "lng": -106.8222688
+  },
+  "Gillette, WY": {
+    "count": 1,
+    "venues": {
+      "Cam-Plex Heritage Center": 1
+    },
+    "lat": 44.290635,
+    "lng": -105.501876
+  },
+  "Casper, WY": {
+    "count": 1,
+    "venues": {
+      "Kelly Walsh Auditorium": 1
+    },
+    "lat": 42.8501191,
+    "lng": -106.325138
+  },
+  "Laramie, WY": {
+    "count": 1,
+    "venues": {
+      "Fine Arts Concert Hall": 1
+    },
+    "lat": 41.3116442,
+    "lng": -105.5917876
+  },
+  "Cheyenne, WY": {
+    "count": 1,
+    "venues": {
+      "Lincoln Theater": 1
+    },
+    "lat": 41.139981,
+    "lng": -104.820246
+  },
+  "Midland, MI": {
+    "count": 1,
+    "venues": {
+      "Midland Center for the Arts": 1
+    },
+    "lat": 43.6155825,
+    "lng": -84.2472117
+  },
+  "Iowa City, IA": {
+    "count": 1,
+    "venues": {
+      "Hancher Auditorium": 1
+    },
+    "lat": 41.6612561,
+    "lng": -91.5299106
+  },
+  "Okayama, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Symphony Hall": 1
+    },
+    "lat": 34.8581334,
+    "lng": 133.7759256
+  },
+  "Miyazaki, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Prefectural Arts Center": 1
+    },
+    "lat": 32.097681,
+    "lng": 131.294542
+  },
+  "Chiba, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Bunka Kaikan (Chiba-ken)": 1
+    },
+    "lat": 35.549399,
+    "lng": 140.2647303
+  },
+  "Birmingham, ENGLAND": {
+    "count": 1,
+    "venues": {
+      "Symphony Hall": 1
+    },
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  "Luebeck, GERMANY": {
+    "count": 1,
+    "venues": {
+      "Musik- und Kongresshalle Luebeck": 1
+    },
+    "lat": 53.866444,
+    "lng": 10.684738
+  },
+  "Camden, NJ": {
+    "count": 1,
+    "venues": {
+      "Blockbuster-Sony Music Entertainment Center": 1
+    },
+    "lat": 39.9448402,
+    "lng": -75.1198911
+  },
+  "Omiya, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Sonic City": 1
+    },
+    "lat": 35.9063869,
+    "lng": 139.6243304
+  },
+  "Palm Desert, CA": {
+    "count": 1,
+    "venues": {
+      "McCallum Theatre": 1
+    },
+    "lat": 33.7288179,
+    "lng": -116.382571
+  },
+  "Krakow, POLAND": {
+    "count": 1,
+    "venues": {
+      "Philharmonic Hall Karl Szymanowski": 1
+    },
+    "lat": 50.0469432,
+    "lng": 19.9971534
+  },
+  "Wroclaw, POLAND": {
+    "count": 1,
+    "venues": {
+      "Hala Ludowa": 1
+    },
+    "lat": 51.1089776,
+    "lng": 17.0326689
+  },
+  "Oviedo, SPAIN": {
+    "count": 1,
+    "venues": {
+      "Auditorio Palacio de Congresos Principe Felipe": 1
+    },
+    "lat": 43.3533452,
+    "lng": -5.8795096
+  },
+  "Santiago De Compostela, SPAIN": {
+    "count": 1,
+    "venues": {
+      "Auditorio de Galicia": 1
+    },
+    "lat": 42.8804219,
+    "lng": -8.5458608
+  },
+  "Hamamatsu, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Act City Concert Hall": 1
+    },
+    "lat": 34.7109786,
+    "lng": 137.7259431
+  },
+  "Macau": {
+    "count": 1,
+    "venues": {
+      "Macau Cultural Center": 1
+    },
+    "lat": 22.1757605,
+    "lng": 113.5514142
+  },
+  "Scarsdale, NY": {
+    "count": 1,
+    "venues": {
+      "Hoff-Barthelson Music School": 1
+    },
+    "lat": 40.9880495,
+    "lng": -73.7974133
+  },
+  "Castleton, VA": {
+    "count": 1,
+    "venues": {
+      "Maazel Home": 1
+    },
+    "lat": 38.6059551,
+    "lng": -78.1066655
+  },
+  "South Bend, IN": {
+    "count": 1,
+    "venues": {
+      "Leighton Concert Hall": 1
+    },
+    "lat": 41.6833813,
+    "lng": -86.2500066
+  },
+  "Trieste, ITALY": {
+    "count": 1,
+    "venues": {
+      "Teatro Verdi": 1
+    },
+    "lat": 45.6496485,
+    "lng": 13.7772781
+  },
+  "Oita, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Iichiko Culture Center (Grand Theatre)": 1
+    },
+    "lat": 33.2393864,
+    "lng": 131.6096524
+  },
+  "Hyogo, JAPAN": {
+    "count": 1,
+    "venues": {
+      "Hyogo Performing Arts Center (Grand Hall)": 1
+    },
+    "lat": 34.914934,
+    "lng": 134.860666
+  },
+  "Pyongyang, DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA": {
+    "count": 1,
+    "venues": {
+      "East Pyongyang Grand Theatre": 1
+    },
+    "lat": 39.0167979,
+    "lng": 125.7473609
+  },
+  "Naples, FL": {
+    "count": 1,
+    "venues": {
+      "Philharmonic Center for the Arts (Hayes Hall)": 1
+    },
+    "lat": 26.1421976,
+    "lng": -81.7942944
+  },
+  "Danville, KY": {
+    "count": 1,
+    "venues": {
+      "Norton Center for the Arts (Newlin Hall)": 1
+    },
+    "lat": 37.6456488,
+    "lng": -84.7721823
+  },
+  "Al Ain, UNITED ARAB EMIRATES": {
+    "count": 1,
+    "venues": {
+      "Al Jahili Fort": 1
+    },
+    "lat": 24.2248697,
+    "lng": 55.7452211
+  },
+  "Sagaponack, NY": {
+    "count": 1,
+    "venues": {
+      "Wölffer Estate Vineyard": 1
+    },
+    "lat": 40.9253776,
+    "lng": -72.2781375
+  },
+  "Vilnius, LITHUANIA": {
+    "count": 1,
+    "venues": {
+      "National Opera & Ballet Theatre": 1
+    },
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  "Davis, California": {
+    "count": 1,
+    "venues": {
+      "Jackson Hall": 1
+    },
+    "lat": 38.5435526,
+    "lng": -121.739005
+  },
+  "Peapack, NJ": {
+    "count": 1,
+    "venues": {
+      "The Mansion at Natirar": 1
+    },
+    "lat": 40.7087982,
+    "lng": -74.6583872
+  },
+  "Izmir, TURKEY": {
+    "count": 1,
+    "venues": {
+      "Ahmed Adnan Saygun Arts Centre": 1
+    },
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  "Interlochen, MI": {
+    "count": 1,
+    "venues": {
+      "Interlochen Arts Center": 1
+    },
+    "lat": 44.6497702,
+    "lng": -85.767847
+  },
+  "Cernobbio, Italy": {
+    "count": 1,
+    "venues": {
+      "Gastel": 1
+    },
+    "lat": 45.8413945,
+    "lng": 9.0759048
+  },
+  "Bridgewater, CT": {
+    "count": 1,
+    "venues": {
+      "Home of Peter and Leni May": 1
+    },
+    "lat": 41.5350949,
+    "lng": -73.3662305
+  },
+  "Beaver Creek, CO": {
+    "count": 1,
+    "venues": {
+      "Vilar Performing Arts Center": 1
+    },
+    "lat": 39.6048786,
+    "lng": -106.5150017
+  },
+  "Heringsdorf, Germany": {
+    "count": 1,
+    "venues": {
+      "Kaiserbädersaal, Heringsdorf seaside resort": 1
+    },
+    "lat": 53.9546773,
+    "lng": 14.1295706
+  },
+  "Wolgast, Germany": {
+    "count": 1,
+    "venues": {
+      "Protestant Church St. Petri": 1
+    },
+    "lat": 54.0536473,
+    "lng": 13.7757809
+  },
+  "Avon, CO": {
+    "count": 1,
+    "venues": {
+      "Avon Public Library": 1
+    },
+    "lat": 39.6342752,
+    "lng": -106.522243
+  },
+  "Incheon, South Korea": {
+    "count": 1,
+    "venues": {
+      "Arts Center Incheon": 1
+    },
+    "lat": 37.456,
+    "lng": 126.7052
+  }
+}

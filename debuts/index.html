@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>debuts</title>
+        <link rel="stylesheet" type="text/css" href="../client/main.css" />
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <script>window.NYPHIL_DATA_ROOT = "../";</script>
+        <script src="../client/filters.js"></script>
+        <script>
+            const ARCHIVE = "https://archives.nyphil.org/index.php/artifact/";
+            const state = { data: null };
+
+            function archiveLink(id) {
+                return ARCHIVE + id + "/fullview";
+            }
+
+            window.onload = () => {
+                fetch(nyphilDataUrl("debuts.json"))
+                    .then((r) => r.json())
+                    .then((d) => {
+                        state.data = d;
+                        renderAll();
+                    })
+                    .catch(() => {
+                        state.data = { composers: [], works: [], soloists: [] };
+                        renderAll();
+                    });
+            };
+
+            function renderTable(tbodyId, rows, cols) {
+                const tb = document.getElementById(tbodyId);
+                tb.innerHTML = "";
+                const q = (
+                    document.getElementById("debuts-search").value || ""
+                ).toLowerCase();
+                rows.forEach((row) => {
+                    const hay = cols
+                        .map((c) => String(row[c] || "").toLowerCase())
+                        .join(" ");
+                    if (q && hay.indexOf(q) === -1) return;
+                    const tr = document.createElement("tr");
+                    cols.forEach((c) => {
+                        const td = document.createElement("td");
+                        if (c === "programId") {
+                            const a = document.createElement("a");
+                            a.href = archiveLink(row.programId);
+                            a.target = "_blank";
+                            a.rel = "noopener";
+                            a.textContent = "program";
+                            td.appendChild(a);
+                        } else {
+                            td.textContent = row[c] != null ? row[c] : "";
+                        }
+                        tr.appendChild(td);
+                    });
+                    tb.appendChild(tr);
+                });
+            }
+
+            function renderAll() {
+                if (!state.data) return;
+                renderTable(
+                    "tbody-composers",
+                    state.data.composers || [],
+                    ["firstDate", "name", "programId"]
+                );
+                renderTable(
+                    "tbody-works",
+                    state.data.works || [],
+                    ["firstDate", "composer", "workTitle", "programId"]
+                );
+                renderTable(
+                    "tbody-soloists",
+                    state.data.soloists || [],
+                    ["firstDate", "name", "programId"]
+                );
+            }
+
+            function onSearchInput() {
+                renderAll();
+            }
+        </script>
+    </head>
+    <body>
+        <div class="nyphil-filters-bar">
+            <div class="nyphil-filters-bar-inner">
+            <nav class="nyphil-filters" aria-label="Concert filter">
+                <label for="nyphil-preset-select">Concerts</label>
+                <select id="nyphil-preset-select">
+                    <option value="all">All event types</option>
+                    <option value="subscription_season">Subscription season</option>
+                </select>
+            </nav>
+            <a href="../index.html" class="nyphil-back-link">back</a>
+            </div>
+            <script>
+                (function () {
+                    var sel = document.getElementById("nyphil-preset-select");
+                    if (sel) {
+                        sel.value = NYPHIL_PRESET;
+                        sel.addEventListener("change", function () {
+                            nyphilSwitchPreset(sel.value);
+                        });
+                    }
+                })();
+            </script>
+        </div>
+        <header>
+            <h1>first performances in this dataset</h1>
+            <p class="lead">
+                Earliest concert date for each composer, work,
+                or soloist
+            </p>
+            <p>
+                <label for="debuts-search">Filter rows</label>
+                <input
+                    type="search"
+                    id="debuts-search"
+                    oninput="onSearchInput()"
+                    style="min-width: 16rem"
+                />
+            </p>
+        </header>
+        <main>
+            <section>
+                <h2>Composers</h2>
+                <div class="table-wrap">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Composer</th>
+                                <th>Program</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-composers"></tbody>
+                    </table>
+                </div>
+            </section>
+            <section>
+                <h2>Works</h2>
+                <div class="table-wrap">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Composer</th>
+                                <th>Title</th>
+                                <th>Program</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-works"></tbody>
+                    </table>
+                </div>
+            </section>
+            <section>
+                <h2>Soloists</h2>
+                <div class="table-wrap">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Name</th>
+                                <th>Program</th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-soloists"></tbody>
+                    </table>
+                </div>
+            </section>
+        </main>
+    </body>
+</html>

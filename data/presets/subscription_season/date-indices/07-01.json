@@ -1,0 +1,61 @@
+[
+    {
+        "program": {
+            "id": "06100fd5-7c27-48d1-a9fb-7f22b73c90d0-0.1",
+            "programID": "2564",
+            "orchestra": "New York Philharmonic",
+            "season": "1966-67",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1967-07-01T04:00:00Z",
+                    "Time": "8:30PM"
+                },
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Philharmonic Hall",
+                    "Date": "1967-07-05T04:00:00Z",
+                    "Time": "8:30PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "52169*",
+                    "composerName": "Janacek [Janácek],  Leoš",
+                    "workTitle": "TARAS BULBA",
+                    "conductorName": "Ančerl, Karel",
+                    "soloists": []
+                },
+                {
+                    "ID": "5890*",
+                    "composerName": "Rorem,  Ned",
+                    "workTitle": "SUN",
+                    "conductorName": "Ančerl, Karel",
+                    "soloists": [
+                        {
+                            "soloistName": "Marsh, Jane",
+                            "soloistInstrument": "Soprano",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "2877*",
+                    "composerName": "Dvorak,  Antonín",
+                    "workTitle": "SYMPHONY NO. 9, E MINOR, OP.95 (FROM THE NEW WORLD)",
+                    "conductorName": "Ančerl, Karel",
+                    "soloists": []
+                }
+            ]
+        },
+        "year": "1967"
+    }
+]

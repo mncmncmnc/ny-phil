@@ -1,0 +1,159 @@
+[
+    {
+        "program": {
+            "id": "067a7dc4-417e-40fa-a286-0e7b5f0f229b-0.1",
+            "programID": "12384",
+            "orchestra": "New York Philharmonic",
+            "season": "2012-13",
+            "concerts": [
+                {
+                    "eventType": "Subscription Season",
+                    "Location": "Manhattan, NY",
+                    "Venue": "Avery Fisher Hall",
+                    "Date": "2013-07-04T04:00:00Z",
+                    "Time": "3:00PM"
+                }
+            ],
+            "works": [
+                {
+                    "ID": "3965*",
+                    "composerName": "Anthem,",
+                    "workTitle": "UNITED STATES",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "52345*",
+                    "composerName": "Copland,  Aaron",
+                    "workTitle": "RODEO, FOUR DANCE EPISODES",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": []
+                },
+                {
+                    "ID": "8771*",
+                    "composerName": "Tovey,  Bramwell",
+                    "workTitle": "LINCOLN TUNNEL CABARET",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": [
+                        {
+                            "soloistName": "Alessi, Joseph",
+                            "soloistInstrument": "Trombone",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "0*",
+                    "interval": "Intermission",
+                    "soloists": []
+                },
+                {
+                    "ID": "8772*",
+                    "composerName": "Sousa,  John  Philip",
+                    "workTitle": "GLORY OF THE YANKEE NAVY, MARCH",
+                    "conductorName": "Megan, Kenneth W.",
+                    "soloists": [
+                        {
+                            "soloistName": "United States Coast Guard Band",
+                            "soloistInstrument": "Band",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10911*",
+                    "composerName": "Hesketh,  Kenneth",
+                    "workTitle": "MASQUE, WIND ENSEMBLE",
+                    "conductorName": "Megan, Kenneth W.",
+                    "soloists": [
+                        {
+                            "soloistName": "United States Coast Guard Band",
+                            "soloistInstrument": "Band",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8775*",
+                    "composerName": "Bernstein,  Leonard",
+                    "workTitle": "CANDIDE SUITE (BAND) (ARR. Grundman)",
+                    "conductorName": "Megan, Kenneth W.",
+                    "soloists": [
+                        {
+                            "soloistName": "United States Coast Guard Band",
+                            "soloistInstrument": "Band",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "10912*",
+                    "composerName": "VARIOUS,",
+                    "workTitle": "ARMED FORCES SALUTE (ARR. Sandidge)",
+                    "conductorName": "Megan, Kenneth W.",
+                    "soloists": [
+                        {
+                            "soloistName": "United States Coast Guard Band",
+                            "soloistInstrument": "Band",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "8656*",
+                    "composerName": "Sousa,  John  Philip",
+                    "workTitle": "HANDS ACROSS THE SEA",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": [
+                        {
+                            "soloistName": "United States Coast Guard Band",
+                            "soloistInstrument": "Band",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "2598*",
+                    "composerName": "Sousa,  John  Philip",
+                    "workTitle": "LIBERTY BELL",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": [
+                        {
+                            "soloistName": "United States Coast Guard Band",
+                            "soloistInstrument": "Band",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "3820*",
+                    "composerName": "Sousa,  John  Philip",
+                    "workTitle": "STARS AND STRIPES FOREVER",
+                    "conductorName": "Tovey, Bramwell",
+                    "soloists": [
+                        {
+                            "soloistName": "United States Coast Guard Band",
+                            "soloistInstrument": "Band",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                },
+                {
+                    "ID": "3820*2",
+                    "composerName": "Sousa,  John  Philip",
+                    "workTitle": "STARS AND STRIPES FOREVER",
+                    "movement": "Played twice on same program",
+                    "conductorName": "Megan, Kenneth W.",
+                    "soloists": [
+                        {
+                            "soloistName": "United States Coast Guard Band",
+                            "soloistInstrument": "Band",
+                            "soloistRoles": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "year": "2013"
+    }
+]

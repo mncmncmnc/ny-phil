@@ -15,6 +15,8 @@
         <link rel="stylesheet" type="text/css" href="./../client/main.css" />
         <link rel="stylesheet" type="text/css" href="./styles.css" />
         <!-- <link rel="icon" href="favicon.ico" /> -->
+        <script>window.NYPHIL_DATA_ROOT = "../";</script>
+        <script src="../client/filters.js"></script>
 
         <script>
             const state = {
@@ -34,7 +36,7 @@
             }
 
             function getData() {
-                fetch(`./../data/concerts-soloists.json`)
+                fetch(nyphilDataUrl("concerts-soloists.json"))
                     .then(res => res.json())
                     .then(soloists => {
                         state.soloists = soloists;
@@ -178,6 +180,29 @@
         </script>
     </head>
     <body>
+        <div class="nyphil-filters-bar">
+            <div class="nyphil-filters-bar-inner">
+            <nav class="nyphil-filters" aria-label="Concert filter">
+                <label for="nyphil-preset-select">Concerts</label>
+                <select id="nyphil-preset-select">
+                    <option value="all">All event types</option>
+                    <option value="subscription_season">Subscription season</option>
+                </select>
+            </nav>
+            <a href="../index.html" class="nyphil-back-link">back</a>
+            </div>
+            <script>
+                (function () {
+                    var sel = document.getElementById("nyphil-preset-select");
+                    if (sel) {
+                        sel.value = NYPHIL_PRESET;
+                        sel.addEventListener("change", function () {
+                            nyphilSwitchPreset(sel.value);
+                        });
+                    }
+                })();
+            </script>
+        </div>
         <header>
             <h1>
                 <span id="count"></span> soloists

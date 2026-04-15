@@ -1,0 +1,1781 @@
+{
+  "Abu Dhabi, UNITED ARAB EMIRATES": {
+    "lat": 24.4538352,
+    "lng": 54.3774014
+  },
+  "Adelaide, AUSTRALIA": {
+    "lat": -34.9281805,
+    "lng": 138.5999312
+  },
+  "Akron, OH": {
+    "lat": 41.083064,
+    "lng": -81.518485
+  },
+  "Al Ain, UNITED ARAB EMIRATES": {
+    "lat": 24.2248697,
+    "lng": 55.7452211
+  },
+  "Albany, NY": {
+    "lat": 42.6511674,
+    "lng": -73.754968
+  },
+  "Albuquerque, NM": {
+    "lat": 35.0841034,
+    "lng": -106.650985
+  },
+  "Allentown, PA": {
+    "lat": 40.6022552,
+    "lng": -75.4716115
+  },
+  "Ames, IA": {
+    "lat": 42.0267567,
+    "lng": -93.6170448
+  },
+  "Anchorage, AK": {
+    "lat": 61.2163129,
+    "lng": -149.894852
+  },
+  "Antwerp, BELGIUM": {
+    "lat": 51.2211097,
+    "lng": 4.3997081
+  },
+  "Appleton, WI": {
+    "lat": 44.2613967,
+    "lng": -88.4069744
+  },
+  "Ardmore, OK": {
+    "lat": 34.1729273,
+    "lng": -97.1309119
+  },
+  "Asheville, NC": {
+    "lat": 35.595363,
+    "lng": -82.5508407
+  },
+  "Ashtabula, OH": {
+    "lat": 41.8647873,
+    "lng": -80.7841284
+  },
+  "Asuncion, PARAGUAY": {
+    "lat": -25.2800459,
+    "lng": -57.6343814
+  },
+  "Athens, GREECE": {
+    "lat": 37.9755648,
+    "lng": 23.7348324
+  },
+  "Atlanta, GA": {
+    "lat": 33.7544657,
+    "lng": -84.3898151
+  },
+  "Atlantic City, NJ": {
+    "lat": 39.3642852,
+    "lng": -74.4229351
+  },
+  "Auburn, NY": {
+    "lat": 42.9320202,
+    "lng": -76.5672029
+  },
+  "Auckland, NEW ZEALAND": {
+    "lat": -36.852095,
+    "lng": 174.7631803
+  },
+  "Aurora, NY": {
+    "lat": 42.7324505,
+    "lng": -78.6315537
+  },
+  "Austin, TX": {
+    "lat": 30.2711286,
+    "lng": -97.7436995
+  },
+  "Avon, CO": {
+    "lat": 39.6342752,
+    "lng": -106.522243
+  },
+  "Baalbeck, LEBANON": {
+    "lat": 34.0057062,
+    "lng": 36.203913
+  },
+  "Baden-Baden, GERMANY": {
+    "lat": 48.7610716,
+    "lng": 8.239959
+  },
+  "Bangkok, THAILAND": {
+    "lat": 13.7524938,
+    "lng": 100.4935089
+  },
+  "Barcelona, SPAIN": {
+    "lat": 41.3825802,
+    "lng": 2.177073
+  },
+  "Basel, SWITZERLAND": {
+    "lat": 47.5581077,
+    "lng": 7.5878261
+  },
+  "Beaver Creek, CO": {
+    "lat": 39.6048786,
+    "lng": -106.5150017
+  },
+  "Beijing, CHINA": {
+    "lat": 39.9057136,
+    "lng": 116.3912972
+  },
+  "Belgrade, SERBIA": {
+    "lat": 44.8153318,
+    "lng": 20.4456588
+  },
+  "Belo Horizonte, BRAZIL": {
+    "lat": -19.9227318,
+    "lng": -43.9450948
+  },
+  "Berkeley, CA": {
+    "lat": 37.8708393,
+    "lng": -122.272863
+  },
+  "Berne, SWITZERLAND": {
+    "lat": 46.9484742,
+    "lng": 7.4521749
+  },
+  "Bethel, NY": {
+    "lat": 41.6834224,
+    "lng": -74.8712753
+  },
+  "Bethlehem, PA": {
+    "lat": -1.45056,
+    "lng": -48.4682453
+  },
+  "Binghamton, NY": {
+    "lat": 42.098698,
+    "lng": -75.9125187
+  },
+  "Birmingham, AL": {
+    "lat": 33.5206824,
+    "lng": -86.8024326
+  },
+  "Birmingham, ENGLAND": {
+    "lat": 52.4796992,
+    "lng": -1.9026911
+  },
+  "Bloomington, IN": {
+    "lat": 39.1670396,
+    "lng": -86.5342881
+  },
+  "Bogota, COLOMBIA": {
+    "lat": 4.6533817,
+    "lng": -74.0836331
+  },
+  "Bonao, DOMINICAN REPUBLIC": {
+    "lat": 18.9426446,
+    "lng": -70.4414197
+  },
+  "Bonn, GERMANY": {
+    "lat": 50.7352621,
+    "lng": 7.1024635
+  },
+  "Bordeaux, FRANCE": {
+    "lat": 44.841225,
+    "lng": -0.5800364
+  },
+  "Brasilia, BRAZIL": {
+    "lat": -10.3333333,
+    "lng": -53.2
+  },
+  "Braunschweig, GERMANY": {
+    "lat": 52.2646577,
+    "lng": 10.5236066
+  },
+  "Bridgeport, CT": {
+    "lat": 41.1792695,
+    "lng": -73.1887863
+  },
+  "Bridgewater, CT": {
+    "lat": 41.5350949,
+    "lng": -73.3662305
+  },
+  "Brisbane, AUSTRALIA": {
+    "lat": -27.365991,
+    "lng": 152.948963
+  },
+  "Brussels, BELGIUM": {
+    "lat": 50.8467372,
+    "lng": 4.352493
+  },
+  "Budapest, HUNGARY": {
+    "lat": 47.4813896,
+    "lng": 19.1457723
+  },
+  "Burlington, VT": {
+    "lat": 44.4761601,
+    "lng": -73.212906
+  },
+  "Caesarea, ISRAEL": {
+    "lat": 32.505968,
+    "lng": 34.9062151
+  },
+  "Cagliari, SARDINIA, ITALY": {
+    "lat": 39.2171994,
+    "lng": 9.113311
+  },
+  "Calcutta, INDIA": {
+    "lat": 22.5726459,
+    "lng": 88.3638953
+  },
+  "Calgary, CANADA": {
+    "lat": 51.0456064,
+    "lng": -114.057541
+  },
+  "Cali, COLOMBIA": {
+    "lat": 3.4108435,
+    "lng": -76.5812127
+  },
+  "Camden, NJ": {
+    "lat": 39.9448402,
+    "lng": -75.1198911
+  },
+  "Canton, OH": {
+    "lat": 40.7985464,
+    "lng": -81.3749508
+  },
+  "Caracas, VENEZUELA": {
+    "lat": 10.5060934,
+    "lng": -66.9146008
+  },
+  "Casper, WY": {
+    "lat": 42.8501191,
+    "lng": -106.325138
+  },
+  "Castleton, VA": {
+    "lat": 38.6059551,
+    "lng": -78.1066655
+  },
+  "Cedar Falls, IA": {
+    "lat": 42.5361805,
+    "lng": -92.447758
+  },
+  "Cedar Rapids, IA": {
+    "lat": 41.9758872,
+    "lng": -91.6704053
+  },
+  "Cernobbio, Italy": {
+    "lat": 45.8413945,
+    "lng": 9.0759048
+  },
+  "Chapel Hill, NC": {
+    "lat": 35.9131542,
+    "lng": -79.05578
+  },
+  "Charleston, SC": {
+    "lat": 32.7884363,
+    "lng": -79.9399309
+  },
+  "Charleston, WV": {
+    "lat": 38.3505995,
+    "lng": -81.6332812
+  },
+  "Charlotte, NC": {
+    "lat": 35.2272086,
+    "lng": -80.8430827
+  },
+  "Chartres, FRANCE": {
+    "lat": 48.4438601,
+    "lng": 1.4881434
+  },
+  "Chattanooga, TN": {
+    "lat": 35.0457219,
+    "lng": -85.3094883
+  },
+  "Cherry Hill, NJ": {
+    "lat": 39.9348351,
+    "lng": -75.0307264
+  },
+  "Cheyenne, WY": {
+    "lat": 41.139981,
+    "lng": -104.820246
+  },
+  "Chiba, JAPAN": {
+    "lat": 35.549399,
+    "lng": 140.2647303
+  },
+  "Christchurch, NEW ZEALAND": {
+    "lat": -43.530955,
+    "lng": 172.6364343
+  },
+  "Cincinnati, OH": {
+    "lat": 39.1014537,
+    "lng": -84.5124602
+  },
+  "Clemson, SC": {
+    "lat": 34.6850749,
+    "lng": -82.8364111
+  },
+  "Colorado Springs, CO": {
+    "lat": 38.8339578,
+    "lng": -104.825348
+  },
+  "Columbia, SC": {
+    "lat": 34.000754,
+    "lng": -81.0352313
+  },
+  "Concord, CA": {
+    "lat": 37.9768525,
+    "lng": -122.0335624
+  },
+  "Copenhagen, DENMARK": {
+    "lat": 55.6867243,
+    "lng": 12.5700724
+  },
+  "Cordoba, ARGENTINA": {
+    "lat": -31.4166867,
+    "lng": -64.1834193
+  },
+  "Corning, NY": {
+    "lat": 42.1435257,
+    "lng": -77.0543408
+  },
+  "Corvallis, OR": {
+    "lat": 44.5645659,
+    "lng": -123.2620435
+  },
+  "Costa Mesa, CA": {
+    "lat": 33.6633386,
+    "lng": -117.903317
+  },
+  "Cumberland, MD": {
+    "lat": 39.6526498,
+    "lng": -78.762383
+  },
+  "Cuyahoga Falls, OH": {
+    "lat": 41.1362729,
+    "lng": -81.4828123
+  },
+  "Daejeon, SOUTH KOREA": {
+    "lat": 36.3497007,
+    "lng": 127.3849016
+  },
+  "Dallas, TX": {
+    "lat": 32.7762719,
+    "lng": -96.7968559
+  },
+  "Danville, KY": {
+    "lat": 37.6456488,
+    "lng": -84.7721823
+  },
+  "Davis, California": {
+    "lat": 38.5435526,
+    "lng": -121.739005
+  },
+  "Dayton, OH": {
+    "lat": 39.7589478,
+    "lng": -84.1916069
+  },
+  "Daytona Beach, FL": {
+    "lat": 29.2108147,
+    "lng": -81.0228331
+  },
+  "Decatur, IL": {
+    "lat": 39.8454163,
+    "lng": -88.9524151
+  },
+  "Deland, FL": {
+    "lat": 29.0281051,
+    "lng": -81.3034183
+  },
+  "Delaware, OH": {
+    "lat": 40.2317686,
+    "lng": -82.9651045
+  },
+  "Denton, TX": {
+    "lat": 33.1838787,
+    "lng": -97.1413417
+  },
+  "Denver, CO": {
+    "lat": 39.7392364,
+    "lng": -104.984862
+  },
+  "Des Moines, IA": {
+    "lat": 41.5868654,
+    "lng": -93.6249494
+  },
+  "Dix Hills, NY": {
+    "lat": 40.802847,
+    "lng": -73.3371556
+  },
+  "Dortmund, GERMANY": {
+    "lat": 51.5142273,
+    "lng": 7.4652789
+  },
+  "Dresden, GERMANY": {
+    "lat": 51.0493286,
+    "lng": 13.7381437
+  },
+  "Dublin, IRELAND": {
+    "lat": 53.3493795,
+    "lng": -6.2605593
+  },
+  "Dubuque, IA": {
+    "lat": 42.5006243,
+    "lng": -90.6647985
+  },
+  "Duluth, MN": {
+    "lat": 46.7838287,
+    "lng": -92.1052679
+  },
+  "Durham, NC": {
+    "lat": 35.996653,
+    "lng": -78.9018053
+  },
+  "Dusseldorf, GERMANY": {
+    "lat": 51.2254018,
+    "lng": 6.7763137
+  },
+  "East Hampton, NY": {
+    "lat": 40.9633868,
+    "lng": -72.1847598
+  },
+  "East Lansing, MI": {
+    "lat": 42.7320307,
+    "lng": -84.4721678
+  },
+  "East Orange, NJ": {
+    "lat": 40.7642404,
+    "lng": -74.215011
+  },
+  "Easton, PA": {
+    "lat": 40.6916081,
+    "lng": -75.2099866
+  },
+  "Eau Claire, WI": {
+    "lat": 44.811349,
+    "lng": -91.4984941
+  },
+  "Edmonton, CANADA": {
+    "lat": 53.5462055,
+    "lng": -113.491241
+  },
+  "El Paso, TX": {
+    "lat": 31.7601001,
+    "lng": -106.4870476
+  },
+  "Elmira, NY": {
+    "lat": 42.0897965,
+    "lng": -76.8077338
+  },
+  "Englewood, NJ": {
+    "lat": 40.8929329,
+    "lng": -73.9726508
+  },
+  "Erie, PA": {
+    "lat": 42.1294712,
+    "lng": -80.0852695
+  },
+  "Essen, GERMANY": {
+    "lat": 51.4582235,
+    "lng": 7.0158171
+  },
+  "Eugene, OR": {
+    "lat": 44.0505054,
+    "lng": -123.0950506
+  },
+  "Evanston, IL": {
+    "lat": 42.0470043,
+    "lng": -87.6846053
+  },
+  "Evansville, IN": {
+    "lat": 37.970495,
+    "lng": -87.5715641
+  },
+  "Fargo, ND": {
+    "lat": 46.877229,
+    "lng": -96.789821
+  },
+  "Farmingville, NY": {
+    "lat": 40.8406525,
+    "lng": -73.0349423
+  },
+  "Findlay, OH": {
+    "lat": 41.0413873,
+    "lng": -83.6503982
+  },
+  "Florence, ITALY": {
+    "lat": 43.7697955,
+    "lng": 11.2556404
+  },
+  "Fontainebleau, FRANCE": {
+    "lat": 48.4049375,
+    "lng": 2.7015872
+  },
+  "Fresno, CA": {
+    "lat": 36.7394421,
+    "lng": -119.78483
+  },
+  "Ft. Lauderdale, FL": {
+    "lat": 26.1223084,
+    "lng": -80.1433786
+  },
+  "Ft. Wayne, IN": {
+    "lat": 41.0799898,
+    "lng": -85.1386015
+  },
+  "Ft. Worth, TX": {
+    "lat": 32.753177,
+    "lng": -97.3327459
+  },
+  "Fukui, JAPAN": {
+    "lat": 35.9263502,
+    "lng": 136.6068127
+  },
+  "Fukuoka, JAPAN": {
+    "lat": 33.6251241,
+    "lng": 130.6180016
+  },
+  "Galveston, TX": {
+    "lat": 29.3872254,
+    "lng": -94.992736
+  },
+  "Garden City, NY": {
+    "lat": 40.7266477,
+    "lng": -73.6343052
+  },
+  "Geneva, NY": {
+    "lat": 42.8690271,
+    "lng": -76.9786122
+  },
+  "Geneva, SWITZERLAND": {
+    "lat": 46.2017559,
+    "lng": 6.1466014
+  },
+  "Genoa, ITALY": {
+    "lat": 44.40726,
+    "lng": 8.9338624
+  },
+  "Ghent, BELGIUM": {
+    "lat": 51.0538286,
+    "lng": 3.7250121
+  },
+  "Gillette, WY": {
+    "lat": 44.290635,
+    "lng": -105.501876
+  },
+  "Glen Cove, NY": {
+    "lat": 40.8642028,
+    "lng": -73.6317807
+  },
+  "Gloversville, NY": {
+    "lat": 43.0505021,
+    "lng": -74.3457623
+  },
+  "Goteborg, SWEDEN": {
+    "lat": 57.7072326,
+    "lng": 11.9670171
+  },
+  "Grand Forks, ND": {
+    "lat": 47.9252104,
+    "lng": -97.0306325
+  },
+  "Grand Junction, CO": {
+    "lat": 39.0672568,
+    "lng": -108.56448
+  },
+  "Grand Rapids, MI": {
+    "lat": 42.9632425,
+    "lng": -85.6678639
+  },
+  "Granville, OH": {
+    "lat": 40.0681192,
+    "lng": -82.5196037
+  },
+  "Great Neck, NY": {
+    "lat": 40.8006567,
+    "lng": -73.7284647
+  },
+  "Greensboro, NC": {
+    "lat": 36.0726355,
+    "lng": -79.7919754
+  },
+  "Greensburg, PA": {
+    "lat": 40.3024514,
+    "lng": -79.5443274
+  },
+  "Greenville, SC": {
+    "lat": 34.851354,
+    "lng": -82.3984882
+  },
+  "Greenwich, CT": {
+    "lat": 41.0264862,
+    "lng": -73.6284598
+  },
+  "Guanajuato, MEXICO": {
+    "lat": 20.9876996,
+    "lng": -101.0
+  },
+  "Guangzhou, CHINA": {
+    "lat": 23.1288454,
+    "lng": 113.2590064
+  },
+  "Guayaquil, ECUADOR": {
+    "lat": -2.1900572,
+    "lng": -79.8868669
+  },
+  "Hackensack, NJ": {
+    "lat": 40.8870781,
+    "lng": -74.0410667
+  },
+  "Hagerstown, MD": {
+    "lat": 39.6430455,
+    "lng": -77.7191081
+  },
+  "Halifax, CANADA": {
+    "lat": 44.648618,
+    "lng": -63.5859487
+  },
+  "Hamamatsu, JAPAN": {
+    "lat": 34.7109786,
+    "lng": 137.7259431
+  },
+  "Hamburg, GERMANY": {
+    "lat": 53.5501721,
+    "lng": 10.0013165
+  },
+  "Hamilton, CANADA": {
+    "lat": 43.2560802,
+    "lng": -79.8728583
+  },
+  "Hannover, GERMANY": {
+    "lat": 52.3744779,
+    "lng": 9.7385532
+  },
+  "Hanoi, VIETNAM": {
+    "lat": 21.0283334,
+    "lng": 105.854041
+  },
+  "Hanover, NH": {
+    "lat": 43.7023545,
+    "lng": -72.2892164
+  },
+  "Harrisburg, PA": {
+    "lat": 40.2663107,
+    "lng": -76.8861122
+  },
+  "Hauppauge, NY": {
+    "lat": 40.8237354,
+    "lng": -73.2062289
+  },
+  "Hays, KS": {
+    "lat": 38.8709984,
+    "lng": -99.3311525
+  },
+  "Helsinki, FINLAND": {
+    "lat": 60.1666204,
+    "lng": 24.9435408
+  },
+  "Hempstead, NY": {
+    "lat": 40.6736812,
+    "lng": -73.6190736
+  },
+  "Heringsdorf, Germany": {
+    "lat": 53.9546773,
+    "lng": 14.1295706
+  },
+  "High Seas (International Waters)": {
+    "failed": true
+  },
+  "Highland Park, IL": {
+    "lat": 42.1836719,
+    "lng": -87.7993245
+  },
+  "Hitachi City, JAPAN": {
+    "lat": 36.556896,
+    "lng": 140.6264503
+  },
+  "Hollywood, CA": {
+    "lat": 34.0980031,
+    "lng": -118.329523
+  },
+  "Honolulu, HI": {
+    "lat": 21.304547,
+    "lng": -157.855676
+  },
+  "Houston, TX": {
+    "lat": 29.7589382,
+    "lng": -95.3676974
+  },
+  "Huntington, NY": {
+    "lat": 40.868154,
+    "lng": -73.425676
+  },
+  "Huntington, WV": {
+    "lat": 38.4192496,
+    "lng": -82.445154
+  },
+  "Hutchinson, KS": {
+    "lat": 38.0608444,
+    "lng": -97.9297743
+  },
+  "Hyogo, JAPAN": {
+    "lat": 34.914934,
+    "lng": 134.860666
+  },
+  "Iguazu Falls, ARGENTINA": {
+    "lat": -25.6925324,
+    "lng": -54.4411144
+  },
+  "Incheon, South Korea": {
+    "lat": 37.456,
+    "lng": 126.7052
+  },
+  "Indianapolis, IN": {
+    "lat": 39.7683331,
+    "lng": -86.1583502
+  },
+  "Interlochen, MI": {
+    "lat": 44.6497702,
+    "lng": -85.767847
+  },
+  "Iowa City, IA": {
+    "lat": 41.6612561,
+    "lng": -91.5299106
+  },
+  "Istanbul, TURKEY": {
+    "lat": 41.006381,
+    "lng": 28.9758715
+  },
+  "Ithaca, NY": {
+    "lat": 42.4374175,
+    "lng": -76.5483724
+  },
+  "Izmir, TURKEY": {
+    "lat": 38.4192537,
+    "lng": 27.128469
+  },
+  "Jackson, MS": {
+    "lat": 32.2998686,
+    "lng": -90.1830408
+  },
+  "Jacksonville, IL": {
+    "lat": 39.7343697,
+    "lng": -90.228782
+  },
+  "Jakarta, INDONESIA": {
+    "lat": -6.1754049,
+    "lng": 106.827168
+  },
+  "Jamestown, NY": {
+    "lat": 42.0965167,
+    "lng": -79.2380322
+  },
+  "Jersey City, NJ": {
+    "lat": 40.7215682,
+    "lng": -74.047455
+  },
+  "Jerusalem, ISRAEL": {
+    "lat": 31.7788472,
+    "lng": 35.2257856
+  },
+  "Johnstown, PA": {
+    "lat": 40.3267407,
+    "lng": -78.9219698
+  },
+  "Kalamazoo, MI": {
+    "lat": 42.291707,
+    "lng": -85.5872286
+  },
+  "Kansas City, MO": {
+    "lat": 39.100105,
+    "lng": -94.5781416
+  },
+  "Kaohsiung, TAIWAN": {
+    "lat": 22.6203348,
+    "lng": 120.3120375
+  },
+  "Katonah, NY": {
+    "lat": 41.2558715,
+    "lng": -73.6847453
+  },
+  "Kent, OH": {
+    "lat": 41.1513108,
+    "lng": -81.3578047
+  },
+  "Kiev, USSR": {
+    "lat": 50.4507554,
+    "lng": 30.5156729
+  },
+  "Kingston, NY": {
+    "lat": 41.9287812,
+    "lng": -74.0023825
+  },
+  "Knoxville, TN": {
+    "lat": 35.9603948,
+    "lng": -83.9210261
+  },
+  "Kobe, JAPAN": {
+    "lat": 34.6932379,
+    "lng": 135.1943764
+  },
+  "Krakow, POLAND": {
+    "lat": 50.0469432,
+    "lng": 19.9971534
+  },
+  "Kuala Lumpur, MALAYSIA": {
+    "lat": 3.1516964,
+    "lng": 101.6942371
+  },
+  "Kyoto, JAPAN": {
+    "lat": 35.0115754,
+    "lng": 135.7681441
+  },
+  "LYME, CT": {
+    "lat": 41.394496,
+    "lng": -72.3510347
+  },
+  "La Paz, BOLIVIA": {
+    "lat": -16.4955455,
+    "lng": -68.1336229
+  },
+  "La Romana, DOMINICAN REPUBLIC": {
+    "lat": 18.4230137,
+    "lng": -68.9661104
+  },
+  "Lafayette, IN": {
+    "lat": 40.4191229,
+    "lng": -86.8919011
+  },
+  "Lancaster, PA": {
+    "lat": 40.0379958,
+    "lng": -76.3056707
+  },
+  "Lansing, MI": {
+    "lat": 42.7338254,
+    "lng": -84.5546295
+  },
+  "Laramie, WY": {
+    "lat": 41.3116442,
+    "lng": -105.5917876
+  },
+  "Las Palmas, CANARY ISLANDS": {
+    "lat": 28.1288694,
+    "lng": -15.4349015
+  },
+  "Las Vegas, NV": {
+    "lat": 36.1674263,
+    "lng": -115.1484131
+  },
+  "Lawrence, KS": {
+    "lat": 38.9719137,
+    "lng": -95.2359403
+  },
+  "Le Grande, OR": {
+    "lat": 46.8028659,
+    "lng": -1.8985673
+  },
+  "Leipzig, GERMANY": {
+    "lat": 51.3406321,
+    "lng": 12.3747329
+  },
+  "Lenox, MA": {
+    "lat": 42.3568223,
+    "lng": -73.2850851
+  },
+  "Lewiston, NY": {
+    "lat": 43.172555,
+    "lng": -79.035878
+  },
+  "Lexington, KY": {
+    "lat": 38.0464066,
+    "lng": -84.4970393
+  },
+  "Liege, BELGIUM": {
+    "lat": 50.4708135,
+    "lng": 5.7735658
+  },
+  "Lima, OH": {
+    "lat": 40.7399785,
+    "lng": -84.105006
+  },
+  "Lima, PERU": {
+    "lat": -12.0459808,
+    "lng": -77.0305912
+  },
+  "Lincoln, NE": {
+    "lat": 40.8088861,
+    "lng": -96.7077751
+  },
+  "Lindsborg, KS": {
+    "lat": 38.5736176,
+    "lng": -97.6744838
+  },
+  "Linz, AUSTRIA": {
+    "lat": 48.3059078,
+    "lng": 14.286198
+  },
+  "Lisbon, PORTUGAL": {
+    "lat": 38.7077507,
+    "lng": -9.1365919
+  },
+  "Ljubljana, SLOVENIA": {
+    "lat": 46.0500268,
+    "lng": 14.5069289
+  },
+  "London, CANADA": {
+    "lat": 42.9836747,
+    "lng": -81.2496068
+  },
+  "Los Angeles, CA": {
+    "lat": 34.0536909,
+    "lng": -118.242766
+  },
+  "Louisville, KY": {
+    "lat": 38.2542376,
+    "lng": -85.759407
+  },
+  "Luebeck, GERMANY": {
+    "lat": 53.866444,
+    "lng": 10.684738
+  },
+  "Luxembourg, LUXEMBOURG": {
+    "lat": 49.8158683,
+    "lng": 6.1296751
+  },
+  "Lyon, FRANCE": {
+    "lat": 45.7578137,
+    "lng": 4.8320114
+  },
+  "Macau": {
+    "lat": 22.1757605,
+    "lng": 113.5514142
+  },
+  "Madison, WI": {
+    "lat": 43.07469,
+    "lng": -89.3841663
+  },
+  "Malmo, SWEDEN": {
+    "lat": 55.6052931,
+    "lng": 13.0001566
+  },
+  "Manchester, ENGLAND": {
+    "lat": 53.4794892,
+    "lng": -2.2451148
+  },
+  "Manchester, NH": {
+    "lat": 42.9956397,
+    "lng": -71.4547891
+  },
+  "Manhasset, NY": {
+    "lat": 40.786702,
+    "lng": -73.6967338
+  },
+  "Manhattan, KS": {
+    "lat": 39.1836082,
+    "lng": -96.5716694
+  },
+  "Manila, THE PHILIPPINES": {
+    "lat": 14.453771,
+    "lng": 120.9932191
+  },
+  "Mannheim, W. GERMANY": {
+    "lat": 49.4892913,
+    "lng": 8.4673098
+  },
+  "Maracaibo, VENEZUELA": {
+    "lat": 10.6498095,
+    "lng": -71.6443596
+  },
+  "Marseille, FRANCE": {
+    "lat": 43.2961743,
+    "lng": 5.3699525
+  },
+  "Medellin, COLOMBIA": {
+    "lat": 6.2697325,
+    "lng": -75.6025597
+  },
+  "Melbourne, AUSTRALIA": {
+    "lat": -37.8142454,
+    "lng": 144.9631732
+  },
+  "Memphis, TN": {
+    "lat": 35.1460249,
+    "lng": -90.0517638
+  },
+  "Mendoza, ARGENTINA": {
+    "lat": -34.5970325,
+    "lng": -68.7304797
+  },
+  "Meriden, CT": {
+    "lat": 41.5381535,
+    "lng": -72.8070435
+  },
+  "Meridian, MS": {
+    "lat": 32.3643098,
+    "lng": -88.703656
+  },
+  "Metz, FRANCE": {
+    "lat": 49.1196964,
+    "lng": 6.1763552
+  },
+  "Mexico City, MEXICO": {
+    "lat": 19.3207722,
+    "lng": -99.1514678
+  },
+  "Miami Beach, FL": {
+    "lat": 25.7929198,
+    "lng": -80.1353006
+  },
+  "Miami, FL": {
+    "lat": 25.7741566,
+    "lng": -80.1935973
+  },
+  "Middlebury, CT": {
+    "lat": 41.5278663,
+    "lng": -73.1283092
+  },
+  "Middlebury, VT": {
+    "lat": 44.014299,
+    "lng": -73.167229
+  },
+  "Middletown, CT": {
+    "lat": 41.5623178,
+    "lng": -72.6509061
+  },
+  "Midland, MI": {
+    "lat": 43.6155825,
+    "lng": -84.2472117
+  },
+  "Milwaukee, WI": {
+    "lat": 43.0386475,
+    "lng": -87.9090751
+  },
+  "Minneapolis, MN": {
+    "lat": 44.9772995,
+    "lng": -93.2654692
+  },
+  "Miyazaki, JAPAN": {
+    "lat": 32.097681,
+    "lng": 131.294542
+  },
+  "Mobile, AL": {
+    "lat": 30.6913462,
+    "lng": -88.0437509
+  },
+  "Montclair, NJ": {
+    "lat": 40.8164458,
+    "lng": -74.2210643
+  },
+  "Monte Carlo, MONACO": {
+    "lat": 43.7402961,
+    "lng": 7.426559
+  },
+  "Monterey, CA": {
+    "lat": 36.2231079,
+    "lng": -121.387742
+  },
+  "Monterey, MEXICO": {
+    "lat": 20.9032562,
+    "lng": -101.5348998
+  },
+  "Montevideo, URUGUAY": {
+    "lat": -34.9058916,
+    "lng": -56.1913095
+  },
+  "Montgomery, AL": {
+    "lat": 32.3777111,
+    "lng": -86.3090775
+  },
+  "Montreal, CANADA": {
+    "lat": 45.5031824,
+    "lng": -73.5698065
+  },
+  "Montreux, SWITZERLAND": {
+    "lat": 46.4310831,
+    "lng": 6.9129921
+  },
+  "Muenster, W. GERMANY": {
+    "lat": 51.9483211,
+    "lng": 7.642153
+  },
+  "Mumbai, INDIA (BOMBAY)": {
+    "lat": 18.9335732,
+    "lng": 72.8284093
+  },
+  "Muncie, IN": {
+    "lat": 40.1936892,
+    "lng": -85.3865271
+  },
+  "Munich, GERMANY": {
+    "lat": 48.1371079,
+    "lng": 11.5753822
+  },
+  "Nancy, FRANCE": {
+    "lat": 48.6937223,
+    "lng": 6.1834097
+  },
+  "Nanjing, China": {
+    "lat": 32.0438284,
+    "lng": 118.7788631
+  },
+  "Naples, FL": {
+    "lat": 26.1421976,
+    "lng": -81.7942944
+  },
+  "Naples, ITALY": {
+    "lat": 40.8358846,
+    "lng": 14.2487679
+  },
+  "Nashville, TN": {
+    "lat": 36.1622767,
+    "lng": -86.7742984
+  },
+  "New Brunswick, NJ": {
+    "lat": 40.4951365,
+    "lng": -74.4439254
+  },
+  "New Castle, PA": {
+    "lat": 40.9999202,
+    "lng": -80.3471856
+  },
+  "New Delhi, INDIA": {
+    "lat": 28.6138954,
+    "lng": 77.2090057
+  },
+  "New London, CT": {
+    "lat": 41.3556187,
+    "lng": -72.0997804
+  },
+  "New Orleans, LA": {
+    "lat": 29.9561422,
+    "lng": -90.0733934
+  },
+  "Newark, OH": {
+    "lat": 40.0581205,
+    "lng": -82.4012643
+  },
+  "Newburgh, NY": {
+    "lat": 41.5000767,
+    "lng": -74.0098299
+  },
+  "Newport, RH": {
+    "lat": 41.4899827,
+    "lng": -71.3137707
+  },
+  "Niagara Falls, NY": {
+    "lat": 43.084841,
+    "lng": -79.0701786
+  },
+  "Niigata, JAPAN": {
+    "lat": 37.6452283,
+    "lng": 138.7669125
+  },
+  "None": {
+    "lat": 44.933143,
+    "lng": 7.540121
+  },
+  "Norfolk, VA": {
+    "lat": 36.8493695,
+    "lng": -76.2899539
+  },
+  "North Adams, MA": {
+    "lat": 42.6990349,
+    "lng": -73.1118997
+  },
+  "Norwalk, CT": {
+    "lat": 41.1175966,
+    "lng": -73.4078968
+  },
+  "Ogden, UT": {
+    "lat": 41.2230048,
+    "lng": -111.9738429
+  },
+  "Oita, JAPAN": {
+    "lat": 33.2393864,
+    "lng": 131.6096524
+  },
+  "Okayama, JAPAN": {
+    "lat": 34.8581334,
+    "lng": 133.7759256
+  },
+  "Oklahoma City, OK": {
+    "lat": 35.4729886,
+    "lng": -97.5170536
+  },
+  "Omaha, NE": {
+    "lat": 41.2587459,
+    "lng": -95.9383758
+  },
+  "Omiya, JAPAN": {
+    "lat": 35.9063869,
+    "lng": 139.6243304
+  },
+  "Online Only": {
+    "lat": -6.2660875,
+    "lng": 106.8083052
+  },
+  "Orlando, FL": {
+    "lat": 28.5421218,
+    "lng": -81.379045
+  },
+  "Oskaloosa, IA": {
+    "lat": 41.2951037,
+    "lng": -92.6448451
+  },
+  "Oslo, NORWAY": {
+    "lat": 59.9133301,
+    "lng": 10.7389701
+  },
+  "Oswego, NY": {
+    "lat": 43.4112973,
+    "lng": -76.1279841
+  },
+  "Ottawa, CANADA": {
+    "lat": 45.4208777,
+    "lng": -75.6901106
+  },
+  "Oviedo, SPAIN": {
+    "lat": 43.3533452,
+    "lng": -5.8795096
+  },
+  "Palm Beach, FL": {
+    "lat": 26.6279798,
+    "lng": -80.4494174
+  },
+  "Palm Desert, CA": {
+    "lat": 33.7288179,
+    "lng": -116.382571
+  },
+  "Panama City, PANAMA": {
+    "lat": 8.9714493,
+    "lng": -79.5341802
+  },
+  "Parma, ITALY": {
+    "lat": 44.6952006,
+    "lng": 10.0979869
+  },
+  "Pasadena, CA": {
+    "lat": 34.1476507,
+    "lng": -118.144155
+  },
+  "Peapack, NJ": {
+    "lat": 40.7087982,
+    "lng": -74.6583872
+  },
+  "Peenemünde, Usedom, Germany": {
+    "lat": 54.1355894,
+    "lng": 13.7730504
+  },
+  "Peoria, IL": {
+    "lat": 40.6938609,
+    "lng": -89.5891008
+  },
+  "Perugia, ITALY": {
+    "lat": 43.1070321,
+    "lng": 12.4029962
+  },
+  "Phoenix, AZ": {
+    "lat": 33.4484367,
+    "lng": -112.074141
+  },
+  "Pine Knob, MI": {
+    "lat": 42.7433864,
+    "lng": -83.3691282
+  },
+  "Pittsfield, MA": {
+    "lat": 42.4484778,
+    "lng": -73.2541069
+  },
+  "Plainfield, NJ": {
+    "lat": 40.6201412,
+    "lng": -74.4222416
+  },
+  "Pleasantville, NY": {
+    "lat": 41.1328736,
+    "lng": -73.7926335
+  },
+  "Portland, ME": {
+    "lat": 43.6573605,
+    "lng": -70.2586618
+  },
+  "Portland, OR": {
+    "lat": 45.5202471,
+    "lng": -122.674194
+  },
+  "Porto Alegre, BRAZIL": {
+    "lat": -30.0324999,
+    "lng": -51.2303767
+  },
+  "Prague, CZECH REPUBLIC": {
+    "lat": 50.0874654,
+    "lng": 14.4212535
+  },
+  "Provo, UT": {
+    "lat": 40.2337289,
+    "lng": -111.6587085
+  },
+  "Pueblo, CO": {
+    "lat": 38.263995,
+    "lng": -104.6141867
+  },
+  "Purchase, NY": {
+    "lat": 41.0409305,
+    "lng": -73.7145746
+  },
+  "Purdue, IN": {
+    "lat": 40.430028,
+    "lng": -86.9264211
+  },
+  "Pyongyang, DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA": {
+    "lat": 39.0167979,
+    "lng": 125.7473609
+  },
+  "Quito, ECUADOR": {
+    "lat": -0.2201641,
+    "lng": -78.5123274
+  },
+  "Raleigh, NC": {
+    "lat": 35.7803977,
+    "lng": -78.6390989
+  },
+  "Ravenna, ITALY": {
+    "lat": 44.3640607,
+    "lng": 12.0590095
+  },
+  "Reading, PA": {
+    "lat": 40.335345,
+    "lng": -75.9279495
+  },
+  "Red Bank, NJ": {
+    "lat": 40.3470543,
+    "lng": -74.0643065
+  },
+  "Richmond Hill, NY": {
+    "lat": 40.6994253,
+    "lng": -73.8309672
+  },
+  "Richmond, VA": {
+    "lat": 37.5385087,
+    "lng": -77.43428
+  },
+  "Rio De Janeiro, BRAZIL": {
+    "lat": -22.9110137,
+    "lng": -43.2093727
+  },
+  "Roanoke, VA": {
+    "lat": 37.270973,
+    "lng": -79.9414313
+  },
+  "Rochester, MI": {
+    "lat": 42.680588,
+    "lng": -83.1338214
+  },
+  "Rock Hill, SC": {
+    "lat": 34.9248667,
+    "lng": -81.0250784
+  },
+  "Rome, ITALY": {
+    "lat": 41.8933203,
+    "lng": 12.4829321
+  },
+  "Rome, NY": {
+    "lat": 43.2102196,
+    "lng": -75.4583956
+  },
+  "Roslyn, NY": {
+    "lat": 40.7998227,
+    "lng": -73.6509621
+  },
+  "Sagaponack, NY": {
+    "lat": 40.9253776,
+    "lng": -72.2781375
+  },
+  "Saginaw, MI": {
+    "lat": 43.4200387,
+    "lng": -83.9490365
+  },
+  "Salem, MA": {
+    "lat": 42.5195292,
+    "lng": -70.8967226
+  },
+  "Salt Lake City, UT": {
+    "lat": 40.7596198,
+    "lng": -111.886797
+  },
+  "Salzburg, AUSTRIA": {
+    "lat": 47.7981346,
+    "lng": 13.0464806
+  },
+  "San Diego, CA": {
+    "lat": 32.7174202,
+    "lng": -117.162772
+  },
+  "San Juan, PUERTO RICO": {
+    "lat": 18.465299,
+    "lng": -66.116666
+  },
+  "Santa Barbara, CA": {
+    "lat": 34.4221319,
+    "lng": -119.702667
+  },
+  "Santiago De Compostela, SPAIN": {
+    "lat": 42.8804219,
+    "lng": -8.5458608
+  },
+  "Santiago, CHILE": {
+    "lat": -33.4376995,
+    "lng": -70.6510671
+  },
+  "Santo Domingo, DOMINICAN REPUBLIC": {
+    "lat": 18.4713858,
+    "lng": -69.8918436
+  },
+  "Sapporo, JAPAN": {
+    "lat": 43.061936,
+    "lng": 141.3542924
+  },
+  "Sarasota, FL": {
+    "lat": 27.3365805,
+    "lng": -82.5308545
+  },
+  "Scarsdale, NY": {
+    "lat": 40.9880495,
+    "lng": -73.7974133
+  },
+  "Schenectady, NY": {
+    "lat": 42.8142432,
+    "lng": -73.9395687
+  },
+  "Scheveningen, NETHERLANDS": {
+    "lat": 52.1067449,
+    "lng": 4.2736937
+  },
+  "Scranton, PA": {
+    "lat": 41.4086874,
+    "lng": -75.6621294
+  },
+  "Seattle, WA": {
+    "lat": 47.6038321,
+    "lng": -122.330062
+  },
+  "Shawnee, OK": {
+    "lat": 35.3272928,
+    "lng": -96.9253004
+  },
+  "Sheridan, WY": {
+    "lat": 44.7947537,
+    "lng": -106.8222688
+  },
+  "Shizuoka, JAPAN": {
+    "lat": 34.9751974,
+    "lng": 138.3831697
+  },
+  "Shreveport, LA": {
+    "lat": 32.5135356,
+    "lng": -93.7477839
+  },
+  "Singapore": {
+    "lat": 1.357107,
+    "lng": 103.8194992
+  },
+  "Sioux City, IA": {
+    "lat": 42.4966815,
+    "lng": -96.4058782
+  },
+  "Sioux Falls, SD": {
+    "lat": 43.5476008,
+    "lng": -96.7293629
+  },
+  "South Bend, IN": {
+    "lat": 41.6833813,
+    "lng": -86.2500066
+  },
+  "Spartanburg, NC": {
+    "lat": 35.2934753,
+    "lng": -82.4238837
+  },
+  "Spartanburg, SC": {
+    "lat": 34.9498007,
+    "lng": -81.9320157
+  },
+  "Spokane, WA": {
+    "lat": 47.6571934,
+    "lng": -117.42351
+  },
+  "Springfield, OH": {
+    "lat": 39.9234046,
+    "lng": -83.810138
+  },
+  "St. Joseph, MO": {
+    "lat": 39.7686055,
+    "lng": -94.8466322
+  },
+  "St. Paul, MN": {
+    "lat": 44.9497487,
+    "lng": -93.0931028
+  },
+  "Stamford, CT": {
+    "lat": 41.0534302,
+    "lng": -73.5387341
+  },
+  "Stevens Point, WI": {
+    "lat": 44.5234467,
+    "lng": -89.5844457
+  },
+  "Stillwater, OK": {
+    "lat": 36.1156306,
+    "lng": -97.0585717
+  },
+  "Stockholm, SWEDEN": {
+    "lat": 59.3251172,
+    "lng": 18.0710935
+  },
+  "Storrs, CT": {
+    "lat": 41.8085955,
+    "lng": -72.2512807
+  },
+  "Strasbourg, FRANCE": {
+    "lat": 48.584614,
+    "lng": 7.7507127
+  },
+  "Stratford, CANADA": {
+    "lat": 43.3700899,
+    "lng": -80.9818016
+  },
+  "Stuttgart, W. GERMANY": {
+    "lat": 48.7784485,
+    "lng": 9.1800132
+  },
+  "Sydney, AUSTRALIA": {
+    "lat": -33.8698439,
+    "lng": 151.2082848
+  },
+  "Syracuse, NY": {
+    "lat": 43.0481221,
+    "lng": -76.1474244
+  },
+  "Tarrytown, NY": {
+    "lat": 41.0762077,
+    "lng": -73.8587461
+  },
+  "Tel Aviv, ISRAEL": {
+    "lat": 32.0852997,
+    "lng": 34.7818064
+  },
+  "Tempe, AZ": {
+    "lat": 33.4255117,
+    "lng": -111.940016
+  },
+  "Tenerife, Santa Cruz de, CANARY ISLANDS": {
+    "lat": 28.4560745,
+    "lng": -16.2512433
+  },
+  "Teton Village, WY": {
+    "lat": 43.587984,
+    "lng": -110.827989
+  },
+  "The Hague, NETHERLANDS": {
+    "lat": 52.0799838,
+    "lng": 4.3113461
+  },
+  "Thessalonika, GREECE": {
+    "lat": 40.6403167,
+    "lng": 22.9352716
+  },
+  "Tiffin, OH": {
+    "lat": 41.114485,
+    "lng": -83.1779537
+  },
+  "Toledo, OH": {
+    "lat": 41.6529143,
+    "lng": -83.5378173
+  },
+  "Topeka, KS": {
+    "lat": 39.049011,
+    "lng": -95.677556
+  },
+  "Torrington, CT": {
+    "lat": 41.8006523,
+    "lng": -73.1212214
+  },
+  "Toyama, JAPAN": {
+    "lat": 36.6468015,
+    "lng": 137.2183531
+  },
+  "Trenton, NJ": {
+    "lat": 40.2203074,
+    "lng": -74.7659
+  },
+  "Trieste, ITALY": {
+    "lat": 45.6496485,
+    "lng": 13.7772781
+  },
+  "Troy, NY": {
+    "lat": 42.7284117,
+    "lng": -73.6917878
+  },
+  "Tucson, AZ": {
+    "lat": 32.2228765,
+    "lng": -110.974847
+  },
+  "Tulsa, OK": {
+    "lat": 36.1563122,
+    "lng": -95.9927516
+  },
+  "Turin, ITALY": {
+    "lat": 45.0677551,
+    "lng": 7.6824892
+  },
+  "Turku (Abo), FINLAND": {
+    "lat": 60.4760144,
+    "lng": 22.2027408
+  },
+  "Uniondale, NY": {
+    "lat": 40.7157545,
+    "lng": -73.5898872
+  },
+  "Urbana, IL": {
+    "lat": 40.1117174,
+    "lng": -88.207301
+  },
+  "Urbana-Champaign, IL": {
+    "lat": 40.1133258,
+    "lng": -88.1673914
+  },
+  "Utica, NY": {
+    "lat": 43.1009031,
+    "lng": -75.2326641
+  },
+  "Valencia, SPAIN": {
+    "lat": 39.4697065,
+    "lng": -0.3763353
+  },
+  "Vancouver, BC, CANADA": {
+    "lat": 49.2608724,
+    "lng": -123.113952
+  },
+  "Venice, ITALY": {
+    "lat": 45.4371908,
+    "lng": 12.3345898
+  },
+  "Villanova, PA": {
+    "lat": 40.0373323,
+    "lng": -75.3490769
+  },
+  "Vilnius, LITHUANIA": {
+    "lat": 54.6870458,
+    "lng": 25.2829111
+  },
+  "Vina Del Mar, CHILE": {
+    "lat": -33.0244535,
+    "lng": -71.5517636
+  },
+  "Wabash, IN": {
+    "lat": 40.8065352,
+    "lng": -85.7833563
+  },
+  "Waco, TX": {
+    "lat": 31.5491899,
+    "lng": -97.1474628
+  },
+  "Walla Walla, WA": {
+    "lat": 46.2055155,
+    "lng": -118.5174284
+  },
+  "Warsaw, POLAND": {
+    "lat": 52.2319581,
+    "lng": 21.0067249
+  },
+  "Waterbury, CT": {
+    "lat": 41.5538091,
+    "lng": -73.0438362
+  },
+  "Watertown, NY": {
+    "lat": 43.9747838,
+    "lng": -75.9107565
+  },
+  "Wausau, WI": {
+    "lat": 44.9597858,
+    "lng": -89.6272791
+  },
+  "Wellington, NEW ZEALAND": {
+    "lat": -41.2887953,
+    "lng": 174.7772114
+  },
+  "West Palm Beach, FL": {
+    "lat": 26.715364,
+    "lng": -80.0532942
+  },
+  "West Point, NY": {
+    "lat": 41.3926455,
+    "lng": -73.9599242
+  },
+  "Wheaton, IL": {
+    "lat": 41.8646959,
+    "lng": -88.1101709
+  },
+  "Wheeling, WV": {
+    "lat": 40.0639616,
+    "lng": -80.7209149
+  },
+  "White Plains, NY": {
+    "lat": 41.0339862,
+    "lng": -73.7629097
+  },
+  "Wichita, KS": {
+    "lat": 37.6922361,
+    "lng": -97.3375448
+  },
+  "Wiesbaden, W. GERMANY": {
+    "lat": 50.0820384,
+    "lng": 8.2416556
+  },
+  "Wilkes-Barre, PA": {
+    "lat": 41.2464824,
+    "lng": -75.8817316
+  },
+  "Winnipeg, CANADA": {
+    "lat": 49.8955367,
+    "lng": -97.1384584
+  },
+  "Winston-Salem, NC": {
+    "lat": 36.0998131,
+    "lng": -80.2440518
+  },
+  "Wolgast, Germany": {
+    "lat": 54.0536473,
+    "lng": 13.7757809
+  },
+  "Worcester, MA": {
+    "lat": 42.2625621,
+    "lng": -71.8018877
+  },
+  "Wrightstown, NJ": {
+    "lat": 40.0362241,
+    "lng": -74.6179344
+  },
+  "Wroclaw, POLAND": {
+    "lat": 51.1089776,
+    "lng": 17.0326689
+  },
+  "Yaphank, NY": {
+    "lat": 40.832188,
+    "lng": -72.9299685
+  },
+  "Yokohama, JAPAN": {
+    "lat": 35.4503381,
+    "lng": 139.6343802
+  },
+  "York, PA": {
+    "lat": 39.962493,
+    "lng": -76.7276989
+  },
+  "Youngstown, OH": {
+    "lat": 41.1035786,
+    "lng": -80.6520161
+  },
+  "Zagreb, CROATIA": {
+    "lat": 45.8130967,
+    "lng": 15.9772795
+  },
+  "Zaragoza, SPAIN": {
+    "lat": 41.6521342,
+    "lng": -0.8809428
+  },
+  "Zurich, SWITZERLAND": {
+    "lat": 47.3744489,
+    "lng": 8.5410422
+  }
+}
