@@ -13,7 +13,67 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
 COMPLETE_PATH = os.path.join(DATA_DIR, "complete.json")
 
-SOLOIST_EXCLUDE = {"", " ", "  ", "Audience", "No Soloist"}
+SOLOIST_EXCLUDE = {"", " ", "  ", "Audience", "No Soloist", "none", "None"}
+
+# soloistInstrument values that are roles/credits, not instruments (normalized lowercase).
+_RAW_SOLOIST_INSTRUMENT_NON_INSTRUMENT = (
+    "Assistant conductor",
+    "assistant director",
+    "associate director",
+    "associate set design",
+    "atmosphericist",
+    "audio engineer",
+    "casting director",
+    "conductor",
+    "costume designer",
+    "costume coordinator",
+    "creative partner",
+    "curator / performer",
+    "designer",
+    "director",
+    "director / choreographer",
+    "director and designer",
+    "director and producer",
+    "executive producer",
+    "guest orchestra",
+    "guest composer",
+    "host/commentator",
+    "illustrator",
+    "lighting design",
+    "lighting technical manager",
+    "lighting techincal manager",
+    "make-up design",
+    "movement director",
+    "none",
+    "not specified",
+    "other",
+    "producer",
+    "production created by",
+    "production design",
+    "production supervisor",
+    "project manager",
+    "projection design",
+    "scenic design",
+    "sound design",
+    "sound engineer",
+    "special guest",
+    "stage design",
+    "stage director",
+    "stage manager",
+    "technical director",
+    "technical director, co-designer, and puppeteer",
+    "designer and puppeteer",
+    "theater machine",
+    "theatre company",
+    "theatrical casting",
+    "unspecified voice",
+    "video artist",
+    "video design",
+    "video operator",
+    "videographer",
+    "vocal preparation",
+    "video & lighting technical manager",
+)
 
 
 def norm_space(s):
@@ -22,6 +82,26 @@ def norm_space(s):
     if not isinstance(s, str):
         return ""
     return " ".join(s.split())
+
+
+def instrument_label_for_exclude_match(s):
+    """
+    Normalize labels so punctuation variants still match the exclusion list
+    (e.g. '-designer, and puppeteer-' vs 'designer and puppeteer').
+    """
+    s = norm_space(s)
+    if not s:
+        return ""
+    s = s.strip("-").strip()
+    s = s.replace("&", " and ")
+    s = s.replace(",", " ")
+    s = " ".join(s.split())
+    return s.lower()
+
+
+SOLOIST_INSTRUMENT_EXCLUDE = frozenset(
+    instrument_label_for_exclude_match(s) for s in _RAW_SOLOIST_INSTRUMENT_NON_INSTRUMENT
+)
 
 
 def build_composer_years(programs):
@@ -74,7 +154,10 @@ def build_soloist_instruments(programs):
                         inst = norm_space(soloist.get("soloistInstrument"))
                         if not inst:
                             inst = "not specified"
-                        counts[inst.lower()][year] += 1
+                        inst_key = inst.lower()
+                        if instrument_label_for_exclude_match(inst) in SOLOIST_INSTRUMENT_EXCLUDE:
+                            continue
+                        counts[inst_key][year] += 1
                     except (TypeError, AttributeError):
                         continue
     return {

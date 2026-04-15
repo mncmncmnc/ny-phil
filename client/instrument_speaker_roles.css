@@ -1,0 +1,45 @@
+.nyphil-chart-exception-panel + .nyphil-chart-exception-panel {
+    margin-top: 0.5rem;
+}
+
+.nyphil-chart-exception-panel {
+    margin: 1.25rem auto 1.5rem;
+    max-width: 40rem;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    padding: 0.5rem 0.75rem 0.65rem;
+    background: rgba(255, 255, 255, 0.85);
+}
+
+.nyphil-chart-exception-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 0.35rem;
+    line-height: 1.25;
+}
+
+.nyphil-chart-exception-label {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.45rem;
+    margin: 0.3rem 0;
+    font-size: 0.9rem;
+    line-height: 1.35;
+    cursor: pointer;
+}
+
+.nyphil-chart-exception-label input {
+    margin-top: 0.2rem;
+}
+
+/* Second option reads as “under” include; disabled until include is on */
+.nyphil-chart-exception-nested {
+    margin: 0.15rem 0 0 0.15rem;
+    padding-left: 0.55rem;
+    border-left: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.nyphil-chart-exception-nested .nyphil-chart-exception-label {
+    margin-top: 0.2rem;
+    margin-bottom: 0;
+}

@@ -14,8 +14,10 @@
         <title>instruments</title>
         <script>window.NYPHIL_DATA_ROOT = "../../";</script>
         <script src="../../client/filters.js"></script>
+        <script src="../../client/instrument_speaker_roles.js"></script>
         <script src="./../../client/vendor/d3.min.js"></script>
         <link rel="stylesheet" type="text/css" href="./../../client/main.css" />
+        <link rel="stylesheet" type="text/css" href="../../client/instrument_speaker_roles.css" />
         <link rel="stylesheet" type="text/css" href="./styles.css" />
         <!-- <link rel="icon" href="favicon.ico" /> -->
 
@@ -25,6 +27,10 @@
                 totalPerYear: {},
                 filtered: {},
                 colors: {},
+                includeSpeakers: false,
+                speakerBreakdown: false,
+                includeDancers: false,
+                dancerBreakdown: false,
                 start: 1842,
                 end: new Date().getYear() + 1900,
                 scales: {
@@ -44,9 +50,53 @@
                 }
                 return hash;
             };
+            function initInstrumentExceptionPanels() {
+                const inc = document.getElementById("nyphil-include-speaker-roles");
+                const br = document.getElementById("nyphil-speaker-roles-breakdown");
+                if (inc && br) {
+                    br.disabled = true;
+                    inc.addEventListener("change", () => {
+                        state.includeSpeakers = inc.checked;
+                        if (!inc.checked) {
+                            br.checked = false;
+                            br.disabled = true;
+                            state.speakerBreakdown = false;
+                        } else {
+                            br.disabled = false;
+                        }
+                        updatePage();
+                    });
+                    br.addEventListener("change", () => {
+                        state.speakerBreakdown = br.checked;
+                        updatePage();
+                    });
+                }
+                const incD = document.getElementById("nyphil-include-dancer-roles");
+                const brD = document.getElementById("nyphil-dancer-roles-breakdown");
+                if (incD && brD) {
+                    brD.disabled = true;
+                    incD.addEventListener("change", () => {
+                        state.includeDancers = incD.checked;
+                        if (!incD.checked) {
+                            brD.checked = false;
+                            brD.disabled = true;
+                            state.dancerBreakdown = false;
+                        } else {
+                            brD.disabled = false;
+                        }
+                        updatePage();
+                    });
+                    brD.addEventListener("change", () => {
+                        state.dancerBreakdown = brD.checked;
+                        updatePage();
+                    });
+                }
+            }
+
             window.onload = () => {
-                setDateDropdowns()
-                getData()
+                initInstrumentExceptionPanels();
+                setDateDropdowns();
+                getData();
             }
 
             function getData() {
@@ -60,6 +110,7 @@
             }
 
             function setTotalPerYear() {
+                state.totalPerYear = {}
                 Object.keys(state.instruments).forEach(instrument => {
                     Object.keys(state.instruments[instrument]).forEach(year => {
                         if (year >= state.start && year <= state.end) {
@@ -124,15 +175,16 @@
                     .style("transform", "translate(0," + state.dim[1] + "px)")
                     .call(d3.axisBottom(state.scales.x));
 
-                const instruments = Object.keys(state.filtered)
-                    // .filter(key => Object.keys(state.filtered[key]).length < 5)
+                const instruments = nyphilInstrumentExceptionYDomain(
+                    Object.keys(state.filtered)
+                );
 
                 state.scales.y = d3.scaleLinear()
                     .domain([0, 1])
                     .range([ state.dim[1], 30]);
 
                 state.scales.colors = d3.scaleOrdinal()
-                    .domain(instruments.sort((a,b) => b.localeCompare(a)))
+                    .domain(instruments)
                     .range(["#5E4FA2", "#3288BD", "#66C2A5", "#ABDDA4", "#bad62a", "#dbdb42", "#ffc41b", "#F46D43", "#D53E4F", "#9E0142"])
             }
 
@@ -143,19 +195,32 @@
 
                 setTotalPerYear()
 
+                const view = nyphilBuildInstrumentChartView(
+                    state.instruments,
+                    state.start,
+                    state.end,
+                    {
+                        includeSpeakers: state.includeSpeakers,
+                        speakerBreakdown: state.speakerBreakdown,
+                        includeDancers: state.includeDancers,
+                        dancerBreakdown: state.dancerBreakdown,
+                    }
+                );
+
                 const filtered = {}
-                const currTotalsByYear = {}
-                Object.keys(state.instruments)
+                Object.keys(view)
                     // .filter(key => key.startsWith('ka'))
                     // .filter(key => {
                     //     return d3.max(Object.values(state.instruments[key])) > 10
                     // })
                     .forEach(instrument => {
-                        let arr = Object.keys(state.instruments[instrument])
+                        let arr = Object.keys(view[instrument])
                             .map(year => (
                                 {
                                     year: +year, 
-                                    value: state.instruments[instrument][year] / state.totalPerYear[+year],
+                                    value: state.totalPerYear[+year]
+                                        ? view[instrument][year] / state.totalPerYear[+year]
+                                        : 0,
                                 }
                             ))
                         arr = arr
@@ -179,10 +244,12 @@
                 
                 chart.attr('viewBox', `0 0 ${state.dim[0] + 40} ${state.dim[1] + 30}`)
 
+                const lineOrder = nyphilInstrumentExceptionYDomain(
+                    Object.keys(state.filtered)
+                );
                 const g = chart.selectAll('.instrument')
                     .data(
-                        Object.keys(state.filtered)
-                            .map(key => (
+                        lineOrder.map(key => (
                                 {
                                     instrument: key,
                                     values: state.filtered[key],
@@ -247,10 +314,9 @@
                 //         })
                 
                 
-                Object.keys(state.filtered)
-                    .forEach((key, i) => {
-                        count += 1;
-                    })
+                lineOrder.forEach(() => {
+                    count += 1;
+                })
 
                 document.querySelector('#count').innerText = count;
             }
@@ -299,5 +365,31 @@
                 <svg id="chart"></svg>
             </div>
         </main>
+        <section class="nyphil-chart-exception-panel" aria-labelledby="nyphil-exception-speakers-heading">
+            <h3 class="nyphil-chart-exception-title" id="nyphil-exception-speakers-heading">Speakers, Actors, and Readers</h3>
+            <label class="nyphil-chart-exception-label">
+                <input type="checkbox" id="nyphil-include-speaker-roles" />
+                Include in chart
+            </label>
+            <div class="nyphil-chart-exception-nested">
+                <label class="nyphil-chart-exception-label">
+                    <input type="checkbox" id="nyphil-speaker-roles-breakdown" />
+                    Show each role separately instead of the combined series
+                </label>
+            </div>
+        </section>
+        <section class="nyphil-chart-exception-panel" aria-labelledby="nyphil-exception-dancers-heading">
+            <h3 class="nyphil-chart-exception-title" id="nyphil-exception-dancers-heading">Dancers and Movement Artists</h3>
+            <label class="nyphil-chart-exception-label">
+                <input type="checkbox" id="nyphil-include-dancer-roles" />
+                Include in chart
+            </label>
+            <div class="nyphil-chart-exception-nested">
+                <label class="nyphil-chart-exception-label">
+                    <input type="checkbox" id="nyphil-dancer-roles-breakdown" />
+                    Show each role separately instead of the combined series
+                </label>
+            </div>
+        </section>
     </body>
 </html>
