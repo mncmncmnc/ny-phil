@@ -1,2 +1,4 @@
 # Canonical dump from NY Phil PerformanceHistory (~37MB); refresh when upstream updates.
 data/complete.json
+
+.DS_Store
