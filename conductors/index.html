@@ -8,18 +8,18 @@
         <link rel="stylesheet" type="text/css" href="styles.css" />
         <script>window.NYPHIL_DATA_ROOT = "../";</script>
         <script src="../client/filters.js"></script>
+        <script src="../client/archive_links.js"></script>
         <script>
-            const ARCHIVE = "https://archives.nyphil.org/index.php/artifact/";
             const state = { index: null, names: [] };
 
-            function archiveLink(id) {
-                return ARCHIVE + id + "/fullview";
-            }
-
             window.onload = () => {
-                fetch(nyphilDataUrl("conductors_index.json"))
-                    .then((r) => r.json())
-                    .then((idx) => {
+                Promise.all([
+                    fetch(nyphilDataUrl("conductors_index.json")).then((r) =>
+                        r.json()
+                    ),
+                    nyphilEnsurePrintedProgramUrls(),
+                ])
+                    .then(([idx]) => {
                         state.index = idx;
                         state.names = Object.keys(idx).sort();
                         renderNameList();
@@ -80,10 +80,7 @@
 
                     const td = document.createElement("td");
                     const a = document.createElement("a");
-                    a.href = archiveLink(row.programId);
-                    a.target = "_blank";
-                    a.rel = "noopener";
-                    a.textContent = "program";
+                    nyphilBindProgramLink(a, row.programId);
                     td.appendChild(a);
                     tr.appendChild(td);
                     tb.appendChild(tr);

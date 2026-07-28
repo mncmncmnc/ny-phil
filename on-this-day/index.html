@@ -17,6 +17,7 @@
         <!-- <link rel="icon" href="favicon.ico" /> -->
         <script>window.NYPHIL_DATA_ROOT = "../";</script>
         <script src="../client/filters.js"></script>
+        <script src="../client/archive_links.js"></script>
 
         <script>
             const months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
@@ -25,6 +26,7 @@
                 programs: [],
                 month: 0,
                 day: 0,
+                urlsReady: false,
             }
             window.onload = () => {
                 const today = new Date();
@@ -33,7 +35,10 @@
 
                 setDateDropdowns()
 
-                getData()
+                nyphilEnsurePrintedProgramUrls().then(() => {
+                    state.urlsReady = true
+                    getData()
+                })
             }
 
             function setDateDropdowns() {
@@ -170,7 +175,15 @@
                             p.innerHTML += `<p>${index + 1} of ${program.program.concerts.length} concerts</p>`
                         }
 
-                        p.innerHTML += `<div class="program-link"><a target="_blank" href="https://archives.nyphil.org/index.php/artifact/${program.program.id}/fullview">program ↗</a></div>`
+                        p.innerHTML += `<div class="program-link"></div>`
+                        const linkWrap = p.querySelector('.program-link')
+                        const a = document.createElement('a')
+                        const programId = program.program.programID || program.program.id
+                        if (nyphilBindProgramLink(a, programId, 'program ↗')) {
+                            linkWrap.appendChild(a)
+                        } else {
+                            linkWrap.remove()
+                        }
 
                         program.program.works.forEach(work => {
                             const div = document.createElement('div')

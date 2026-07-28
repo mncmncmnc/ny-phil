@@ -36,7 +36,9 @@ def build_concerts_soloists(programs):
                             }
                         if instrument not in found[name]["instrument"]:
                             found[name]["instrument"].append(instrument)
-                        found[name]["programs"][program["id"]] = {"range": rng}
+                        # Key by numeric programID for archives DAM deep links.
+                        pid = str(program.get("programID") or program["id"])
+                        found[name]["programs"][pid] = {"range": rng}
                 except (TypeError, KeyError, AttributeError):
                     continue
 
@@ -76,7 +78,10 @@ def build_concerts_single_soloist(programs):
             if instrument not in found[s0]["instrument"]:
                 found[s0]["instrument"].append(instrument)
             found[s0]["programs"].append(
-                {"id": program["id"], "range": rng}
+                {
+                    "id": str(program.get("programID") or program["id"]),
+                    "range": rng,
+                }
             )
     return found
 

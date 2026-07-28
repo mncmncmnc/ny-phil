@@ -42,7 +42,8 @@ def conductor_tokens(conductor_name):
 def build_conductors_index(programs):
     by_conductor = defaultdict(list)
     for program in programs:
-        pid = program["id"]
+        # Numeric NYP programID for archives DAM deep links (GUID redirects are broken).
+        pid = program.get("programID") or program["id"]
         for concert in sorted(program.get("concerts") or [], key=lambda c: c["Date"]):
             date = concert["Date"][:10]
             for work in program.get("works") or []:
@@ -60,7 +61,7 @@ def build_conductors_index(programs):
                             "date": date,
                             "composerName": comp,
                             "workTitle": title,
-                            "programId": pid,
+                            "programId": str(pid),
                             "sharedCredit": shared,
                         }
                     )

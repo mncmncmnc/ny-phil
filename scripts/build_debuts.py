@@ -10,7 +10,8 @@ def build_debuts(programs):
     for program in programs:
         for concert in sorted(program.get("concerts") or [], key=lambda c: c["Date"]):
             date = concert["Date"][:10]
-            pid = program["id"]
+            # Numeric NYP programID for archives DAM deep links (GUID redirects are broken).
+            pid = str(program.get("programID") or program["id"])
             for work in program.get("works") or []:
                 if work.get("interval"):
                     continue

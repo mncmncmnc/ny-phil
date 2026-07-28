@@ -24,6 +24,7 @@ from build_debuts import write_debuts
 from build_geography import write_locations
 from filter_presets import PRESET_ORDER, filter_programs
 from geocode_locations import collect_location_names, ensure_geocodes_for_names
+import build_printed_program_urls
 
 DATA_DIR = os.path.join(SCRIPT_DIR, "..", "data")
 COMPLETE_PATH = os.path.join(DATA_DIR, "complete.json")
@@ -64,6 +65,12 @@ def main():
         write_debuts(filtered, os.path.join(out_dir, "debuts.json"))
         write_conductors_index(filtered, os.path.join(out_dir, "conductors_index.json"))
         write_locations(filtered, os.path.join(out_dir, "locations.json"))
+
+    # Shared programID -> DAM URL map used by program out-links.
+    print("=== printed program URLs ===")
+    rc = build_printed_program_urls.build_map()
+    if rc:
+        sys.exit(rc)
 
 
 if __name__ == "__main__":

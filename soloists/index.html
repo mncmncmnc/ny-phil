@@ -17,6 +17,7 @@
         <!-- <link rel="icon" href="favicon.ico" /> -->
         <script>window.NYPHIL_DATA_ROOT = "../";</script>
         <script src="../client/filters.js"></script>
+        <script src="../client/archive_links.js"></script>
 
         <script>
             const state = {
@@ -36,12 +37,13 @@
             }
 
             function getData() {
-                fetch(nyphilDataUrl("concerts-soloists.json"))
-                    .then(res => res.json())
-                    .then(soloists => {
-                        state.soloists = soloists;
-                        updatePage()
-                    })
+                Promise.all([
+                    fetch(nyphilDataUrl("concerts-soloists.json")).then(res => res.json()),
+                    nyphilEnsurePrintedProgramUrls(),
+                ]).then(([soloists]) => {
+                    state.soloists = soloists;
+                    updatePage()
+                })
             }
 
             function setDateDropdowns() {
@@ -158,9 +160,16 @@
                                 const program = state.soloists[key].programs[id]
                                 const item = document.createElement('div')
                                 item.className = 'row'
-                                
-                                item.innerHTML += `<div><a target="_blank" href="https://archives.nyphil.org/index.php/artifact/${id}/fullview">program</a></div>`
-                                item.innerHTML += `<div>${getRange(program.range)}</div>`
+
+                                const linkCell = document.createElement('div')
+                                const a = document.createElement('a')
+                                nyphilBindProgramLink(a, id)
+                                linkCell.appendChild(a)
+                                item.appendChild(linkCell)
+
+                                const rangeCell = document.createElement('div')
+                                rangeCell.textContent = getRange(program.range)
+                                item.appendChild(rangeCell)
 
                                 performances.append(item)
                             })

@@ -18,7 +18,11 @@ Then open `http://localhost:5915/`.
 
    `python3 scripts/rebuild_presets.py`
 
-   This reads `data/complete.json` and writes under `data/presets/<preset>/`, including aggregates, date indices, soloists, debuts, conductors index, and geography counts.
+   This reads `data/complete.json` and writes under `data/presets/<preset>/`, including aggregates, date indices, soloists, debuts, conductors index, geography counts, and `data/printed_program_urls.json` (numeric programID → archives DAM URL for program out-links).
+
+   To refresh only the printed-program URL map:
+
+   `python3 scripts/build_printed_program_urls.py`
 
 `data/complete.json` is gitignored because of its size. Commit files under `data/presets/` and shared files such as `data/location_coordinates.json` as needed.
 
